@@ -100,15 +100,11 @@ hidden_html = (f'<section id="s{hid_sec}"><div class="sec-num">{hid_sec:02d}</di
 
 sn += 1
 meth_sec = sn
-method = f'''<section id="s{meth_sec}"><div class="sec-num">{meth_sec:02d}</div><h2>Méthode &amp; sources</h2>
-<div class="prose sec-note">
-<p>Les textes et classements sont ceux de Christophe Brault : vingt albums par année, de 1964 à 2004, chacun précédé d'un court texte de présentation, puis une « liste cachée » de compilations. Les pages ont été photographiées, passées à l'OCR, puis relues à la main : l'OCR avait fusionné le nom de l'artiste (en gras) et le titre de l'album (en italique), séparés ici à partir des photos d'origine.</p>
-<p>Lorsqu'une ligne cite plusieurs disques (« A + B »), chaque album a ses propres liens. Les liens ont été résolus automatiquement : {n_dz} albums sur {n_alb} pointent directement vers la page Deezer de l'album, {n_sp} autres vers Spotify. Les boutons marqués ⌕ ouvrent une recherche (Spotify, YouTube) plutôt qu'un album précis — c'est le repli quand le disque n'est pas au catalogue ou n'a pas été trouvé. Une correspondance automatique peut se tromper d'édition (remaster, deluxe, live) : signalez-le.</p>
-</div>
-<div class="src">
-<div><span class="tag">SRC</span>Christophe Brault, classements annuels 1964–2004 et liste cachée (photos des pages, 31 août 2022)</div>
-<div><span class="tag">API</span><a href="https://developers.deezer.com/api/search" target="_blank" rel="noopener">Deezer Search API</a> — liens et pochettes</div>
-<div><span class="tag">API</span>Spotify — liens directs pour une partie des albums absents de Deezer</div>
+method = f'''<section id="s{meth_sec}"><div class="sec-num">{meth_sec:02d}</div><h2>À propos</h2>
+<div class="prose sec-note about">
+<p>Christophe Brault était mon disquaire à Rennes Musique, disquaire indépendant qui a fermé ses portes en 2008. Christophe animait également une émission sur Fréquence Ille, dans laquelle j'ai découvert un lot d'incontournables. Grand souvenir d'entendre en avant-première le <em>Homework</em> de Daft Punk, titre après titre (et si je me souviens bien, le « Indo Silver Club » choisi était l'autre version, celle de l'EP !).</p>
+<p>Alors qu'il était encore au magasin, Christophe avait fait éditer un booklet qui répertoriait ses albums favoris par année. À l'époque, il était encore difficile d'accumuler autant de musique chez soi sans budget. Mais avec Spotify et Deezer, j'ai décidé de mettre ces précieuses listes à la disposition de tout le monde.</p>
+<p>Bonne écoute !</p>
 </div></section>'''
 
 page = f'''<!doctype html>
@@ -141,7 +137,7 @@ page = f'''<!doctype html>
 <nav class="section-nav" id="snav">
 {''.join(f'<a class="snav-link{" active" if i==0 else ""}" href="#s{i+1}">{dec_label[d].replace("Années ","")}</a>' for i,d in enumerate(decades))}
   <a class="snav-link" href="#s{hid_sec}">Liste cachée</a>
-  <a class="snav-link" href="#s{meth_sec}">Méthode</a>
+  <a class="snav-link" href="#s{meth_sec}">À propos</a>
 </nav>
 
 <div class="wrap">
@@ -171,7 +167,7 @@ page = f'''<!doctype html>
 {method}
 <footer class="site-footer">
 Sélection et textes : Christophe Brault. Liens résolus automatiquement à partir des catalogues Deezer et Spotify — une édition peut différer de l'original.<br>
-Derived from public sources — see method. Estimates, not official publications. Not investment advice. · <a href="https://www.bzhmacro.com">bzhmacro.com</a>
+<a href="https://www.bzhmacro.com">bzhmacro.com</a>
 </footer>
 </div>
 <script>

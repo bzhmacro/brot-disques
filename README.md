@@ -1,6 +1,6 @@
-# Les disques de Christophe Brot
+# Les disques de Christophe Brault
 
-Static site listing Christophe Brot's album picks — twenty per year from 1964 to 2004, each year with its introductory text, plus the "liste cachée" of compilations — with links to Deezer, Spotify or YouTube.
+Static site listing Christophe Brault's album picks — twenty per year from 1964 to 2004, each year with its introductory text, plus the "liste cachée" of compilations — with links to Deezer, Spotify or YouTube.
 
 Styled with the bzhmacro house kit (`assets/bzh.css`, vendored fallback). No build step: Vercel serves `index.html` as is.
 
@@ -8,7 +8,7 @@ Styled with the bzhmacro house kit (`assets/bzh.css`, vendored fallback). No bui
 
 - `index.html` — generated page (do not hand-edit; regenerate with `pipeline/gen.py`)
 - `data/albums.json` — the dataset: years → blurb + ranked items → albums with Deezer/Spotify/YouTube links
-- `assets/` — bzhmacro stylesheet fallback, logo, `brot.css` (site-specific classes)
+- `assets/` — bzhmacro stylesheet fallback, logo, `brault.css` (site-specific classes)
 - `pipeline/` — how the data was made
 
 ## Pipeline

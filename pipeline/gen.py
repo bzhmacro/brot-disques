@@ -58,7 +58,7 @@ for Y in years:
     decades.setdefault(Y['year'] // 10 * 10, []).append(Y)
 dec_label = {1960: 'Années 60', 1970: 'Années 70', 1980: 'Années 80', 1990: 'Années 90', 2000: 'Années 2000'}
 
-year_chips = ''.join(f'<a class="ychip" href="#y{Y["year"]}">{Y["year"]}</a>' for Y in years)
+year_chips = ''.join(f'<a class="ychip yd{Y["year"]//10*10}" href="#y{Y["year"]}">{Y["year"]}</a>' for Y in years)
 
 sections = []
 sn = 0
@@ -79,7 +79,7 @@ for dec, ys in decades.items():
             f'<a class="ytop" href="#top">↑ haut</a></div>'
             f'<div class="blurb">{blurb}</div><ol class="recs">{"".join(items)}</ol></article>')
     sections.append(
-        f'<section id="s{sn}"><div class="sec-num">{sn:02d}</div><h2>{dec_label[dec]} '
+        f'<section id="s{sn}"><h2>{dec_label[dec]} '
         f'<span class="h2y">{ys[0]["year"]}–{ys[-1]["year"]}</span></h2>{"".join(blocks)}</section>')
 
 # hidden list
@@ -93,19 +93,12 @@ for b in hidden:
         art = E(r['artist']) if r['artist'] else '<span class="va">Compilation</span>'
         recs.append(f'<div class="hrec" data-q="{E(search)}">{cover(r["albums"])}<div class="meta"><div class="art">{art} <span class="fmt">{E(r["format"])}</span></div>{render_albums(r["artist"], r["albums"])}</div></div>')
     hb.append(f'<li class="hblock">{"".join(recs)}<p class="hdesc">{E(b["desc"])}</p></li>')
-hidden_html = (f'<section id="s{hid_sec}"><div class="sec-num">{hid_sec:02d}</div><h2>La liste cachée</h2>'
+hidden_html = (f'<section id="s{hid_sec}"><h2>La liste cachée</h2>'
                '<p class="sec-note">« Maintenant que vous vous êtes rassasiés de ces 820 disques (en fait ils sont 882 !), il va vous rester quelques compilations à digérer. » '
                'Compils, coffrets et disques recalés, classés par ordre chronologique et non préférentiel.</p>'
                f'<ol class="hlist">{"".join(hb)}</ol></section>')
 
-sn += 1
-meth_sec = sn
-method = f'''<section id="s{meth_sec}"><div class="sec-num">{meth_sec:02d}</div><h2>À propos</h2>
-<div class="prose sec-note about">
-<p>Christophe Brault était mon disquaire à Rennes Musique, disquaire indépendant qui a fermé ses portes en 2008. Christophe animait également une émission sur Fréquence Ille, dans laquelle j'ai découvert un lot d'incontournables. Grand souvenir d'entendre en avant-première le <em>Homework</em> de Daft Punk, titre après titre (et si je me souviens bien, le « Indo Silver Club » choisi était l'autre version, celle de l'EP !).</p>
-<p>Alors qu'il était encore au magasin, Christophe avait fait éditer un booklet qui répertoriait ses albums favoris par année. À l'époque, il était encore difficile d'accumuler autant de musique chez soi sans budget. Mais avec Spotify et Deezer, j'ai décidé de mettre ces précieuses listes à la disposition de tout le monde.</p>
-<p>Bonne écoute !</p>
-</div></section>'''
+
 
 page = f'''<!doctype html>
 <html lang="fr">
@@ -137,34 +130,25 @@ page = f'''<!doctype html>
 <nav class="section-nav" id="snav">
 {''.join(f'<a class="snav-link{" active" if i==0 else ""}" href="#s{i+1}">{dec_label[d].replace("Années ","")}</a>' for i,d in enumerate(decades))}
   <a class="snav-link" href="#s{hid_sec}">Liste cachée</a>
-  <a class="snav-link" href="#s{meth_sec}">À propos</a>
 </nav>
 
 <div class="wrap">
 <header class="page-head">
   <div class="eyebrow"><span class="dot"></span>Discothèque idéale · 1964–2004</div>
   <h1>Quarante ans de disques, <em>vingt par an.</em></h1>
-  <p class="sub">La sélection de Christophe Brault, année par année : un texte pour situer le millésime, puis vingt albums classés. Chaque disque renvoie vers Deezer ou Spotify quand il y est, et vers une recherche YouTube sinon.</p>
-  <div class="hero-stats">
-    <div class="stat"><div class="num">{len(years)}</div><div class="lbl">années, de 1964 à 2004</div></div>
-    <div class="stat"><div class="num">{n_items}</div><div class="lbl">places au classement</div></div>
-    <div class="stat"><div class="num">{n_alb}</div><div class="lbl">albums (certaines places en comptent deux ou trois)</div></div>
-    <div class="stat"><div class="num">{pct}<small>%</small></div><div class="lbl">avec un lien direct Deezer ou Spotify</div></div>
+  <div class="about">
+<p>Christophe Brault était mon disquaire à Rennes Musique, disquaire indépendant qui a fermé ses portes en 2008. Christophe animait également une émission sur Fréquence Ille, dans laquelle j'ai découvert un lot d'incontournables. Grand souvenir d'entendre en avant-première le <em>Homework</em> de Daft Punk, titre après titre (et si je me souviens bien, le « Indo Silver Club » choisi était l'autre version, celle de l'EP !).</p>
+<p>Alors qu'il était encore au magasin, Christophe avait fait éditer un booklet qui répertoriait ses albums favoris par année. À l'époque, il était encore difficile d'accumuler autant de musique chez soi sans budget. Mais avec Spotify et Deezer, j'ai décidé de mettre ces précieuses listes à la disposition de tout le monde.</p>
+<p>Bonne écoute !</p>
   </div>
   <div class="controls" id="ctl">
     <input type="search" id="q" placeholder="Chercher un artiste ou un album…" aria-label="Chercher">
-    <span class="lbl">Service</span>
-    <button class="chip" data-pref="deezer">Deezer</button>
-    <button class="chip" data-pref="spotify">Spotify</button>
-    <button class="chip" data-pref="youtube">YouTube</button>
-    <button class="chip on" data-pref="all">Tous</button>
     <span class="lbl" id="count"></span>
   </div>
   <div class="ychips">{year_chips}</div>
 </header>
 {''.join(sections)}
 {hidden_html}
-{method}
 <footer class="site-footer">
 Sélection et textes : Christophe Brault. Liens résolus automatiquement à partir des catalogues Deezer et Spotify — une édition peut différer de l'original.<br>
 <a href="https://www.bzhmacro.com">bzhmacro.com</a>
@@ -187,24 +171,6 @@ Sélection et textes : Christophe Brault. Liens résolus automatiquement à part
     cnt.textContent = v ? n+' résultat'+(n>1?'s':'') : '';
   }}
   q.addEventListener('input',filt);
-  var chips=[].slice.call(document.querySelectorAll('[data-pref]'));
-  function setPref(p){{
-    document.body.dataset.pref=p;
-    document.querySelectorAll('.alb').forEach(function(a){{
-      var ls=[].slice.call(a.querySelectorAll('.lk'));
-      if(p==='all'){{ ls.forEach(function(l){{l.hidden=false;}}); return; }}
-      var exact=function(svc){{ return ls.filter(function(l){{return l.dataset.svc===svc && !l.classList.contains('lk-search');}})[0]; }};
-      var other = p==='deezer'?'spotify':(p==='spotify'?'deezer':null);
-      var pick = (p==='youtube') ? ls.filter(function(l){{return l.dataset.svc==='youtube';}})[0]
-               : (exact(p) || (other && exact(other)) || ls.filter(function(l){{return l.dataset.svc==='youtube';}})[0]);
-      ls.forEach(function(l){{ l.hidden = (l!==pick); }});
-    }});
-    chips.forEach(function(c){{ c.classList.toggle('on',c.dataset.pref===p); }});
-    try{{ localStorage.setItem('brault-pref',p); }}catch(e){{}}
-  }}
-  chips.forEach(function(c){{ c.addEventListener('click',function(){{ setPref(c.dataset.pref); }}); }});
-  var saved='all'; try{{ saved=localStorage.getItem('brault-pref')||'all'; }}catch(e){{}}
-  setPref(saved);
 }})();
 </script>
 <script>

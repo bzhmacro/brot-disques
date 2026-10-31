@@ -42,3 +42,13 @@ ol.hlist{grid-template-columns:repeat(auto-fill,minmax(400px,1fr));}
   .controls input[type=search]{min-width:0;width:100%;}
   .ynum{font-size:26px;}
 }
+/* header: about text, year grid coloured by decade */
+.page-head .about{max-width:68ch;color:var(--paper-dim);font-size:14.5px;line-height:1.7;margin:6px 0 4px;}
+.page-head .about p{margin:0 0 10px;}
+.page-head .about em{color:var(--paper);}
+.ychips{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:5px;max-width:640px;}
+.ychip{text-align:center;padding:5px 0;}
+.yd1960{--yc:var(--c1);} .yd1970{--yc:var(--c2);} .yd1980{--yc:var(--c4);} .yd1990{--yc:var(--c5);} .yd2000{--yc:var(--c6);}
+.ychip[class*=yd]{color:color-mix(in srgb,var(--yc) 70%,var(--paper));border-color:color-mix(in srgb,var(--yc) 35%,transparent);background:color-mix(in srgb,var(--yc) 12%,transparent);}
+.ychip[class*=yd]:hover{background:color-mix(in srgb,var(--yc) 26%,transparent);border-color:var(--yc);color:var(--paper);}
+@media (max-width:520px){.ychips{grid-template-columns:repeat(5,minmax(0,1fr));}}

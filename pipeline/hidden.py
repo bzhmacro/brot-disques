@@ -1,0 +1,38 @@
+# blocks: (records[(artist,title,format)], description)
+H=[
+([("","Anthology Of Noise & Electronic Music (Vol.1) + (Vol.2) + (Vol.3)","Sub Rosa (3x2cd)")],"Tout sur le sujet de 1921 à 2000, avec de vraies raretés."),
+([("","OHM: The Early Gurus Of Electronic Music: 1948-1980","Ellipsis Arts (coffret 3cd)")],"La musique électronique « sérieuse » d'avant la techno."),
+([("Raymond Scott","Manhattan Research Inc.","Basta (2cd)")],"Un génie de l'easy listening d'avant le rock de 1946 à 1969."),
+([("","Story Of Jamaican Music: Tougher Than Tough","Island (coffret 4cd)")],"Du ska au ragga en passant par le rock steady, le reggae et le dancehall."),
+([("Phil Spector","Back To Mono","Abkco (coffret 4cd)")],"Le premier vrai producteur du rock. Un pur génie de la symphonie pop."),
+([("","The Red Bird Story","Charly (2cd)")],"Le label de Jerry Leiber et Mike Stoller avec les Shangri-Las et les Dixie Cups. Un must du son « girls group »."),
+([("","Dr. Demento's Dementia 2000","Rhino (2cd)")],"Que du burlesque, du gag et de la rigolade. Des tubes et des faces « z » des 50's aux 80's."),
+([("The Beatles","Anthology (Vol.1) + (Vol.2) + (Vol.3)","Capitol (3x2cd)")],"Pour fans only. Les chutes de studio, les versions demos ou autres incongruités."),
+([("The Hollies","30th Anniversary Collection 63-93","EMI (3cd)")],"Tout sur cet excellent groupe pop 60's de Manchester."),
+([("The Rolling Stones","Singles Collection - The London Years","Abkco (3cd)")],"Leur période Decca : 63-69. Celle de l'âge d'or."),
+([("James Brown","Foundations Of Funk: A Brand New Bag 64-69 + Make It Funky: The Big Payback 71-75","Polydor (2cd + 2cd)")],"Que du groove et du funk, du vrai. Toute la grande période du « Godfather »."),
+([("The Four Tops","Motown's Greatest Hits","Motown (2cd)"),("The Temptations","Anthology","Motown (2cd)"),("The Supremes","Anthology","Motown (1cd)"),("The Isley Brothers","Motown's Greatest Hits","Motown (1cd)")],"Quatre groupes majeurs du plus grand label de soul music."),
+([("The Creation","Collection","Live (1cd)")],"De la pop psychédélique terriblement inventive."),
+([("Scott Walker & The Walker Brothers","No Regrets","Fontana (1cd)")],"Une des plus belles voix de la pop 60's aux services d'arrangements dignes de Burt Bacharach."),
+([("The Remains","The Remains","Fan Club (1cd)")],"Du garage 60's U.S. à la fois pop et rock'n'roll."),
+([("The Turtles","Happy Together: The Very Best Of The Turtles","Music Club (1cd)")],"Un groupe de pop folk très sous-estimé. Du pur bonheur."),
+([("The Beach Boys","Good Vibrations: Thirty Years Of The Beach Boys","Capitol (coffret 4cd)")],"Ce coffret est indispensable à votre santé et à votre joie de vivre."),
+([("","Nuggets: Original Artyfacts From The First Psychedelic Era 1965-68 + Nuggets II: Original Artyfacts From The British Empire & Beyond 1964-69","Rhino (2 coffrets de 4cd)")],"Toutes les pépites garage et psyché u.s. 60's d'une qualité exceptionnelle. Le volume 2, sur la scène anglaise (essentiellement) est aussi réussi."),
+([("Nancy Sinatra","The Hit Years","Rhino (1cd)")],"Tous ses hits en solo plus ceux avec Lee Hazlewood et celui avec son papa Frank."),
+([("","Inflight Entertainment: 19 New Ways To Fly Around The World Of Easy Listening","Deram (1cd)"),("","The Sound Spectrum","Castle Communications (1cd)")],"Deux compils easy listening de la grande époque 68-75. Autre chose que les Buddha Bar !"),
+([("MC5","Kick Out The Jams","Elektra (1cd)")],"Un « live » explosif et si célèbre !"),
+([("Dashiell Hedayat","Obsolete","Mantra (1cd)")],"Un français qui fait du rock-prog-talk-over !?!? avec quelques musiciens de Gong. Une rareté."),
+([("Slade","Wall Of Hits","Polydor (1cd)")],"Le plus célèbre groupe de glam rock anglais des 70's."),
+([("Abba","The Definitive Collection","Polar (2cd)")],"Ça vous étonne ? Moi aussi, et à chaque écoute en plus ! Un pur régal pour le karaoké."),
+([("Lee \"Scratch\" Perry","Arkology","Island (3cd)")],"Le cinglé de service. Un génie du son dub et de l'électronique pré-digital."),
+([("","The Disco Box","Rhino (coffret 4cd)")],"Le coffret de la fête du samedi soir. Come on baby, let's go dancing !"),
+([("The Salsoul Orchestra","Anthology","Salsoul (2cd)")],"Le disco-funk classieux avec chœurs et grand orchestre."),
+([("Electric Light Orchestra","Out Of The Blue","Epic (1cd)")],"Les « Beatles » disco-pop des 70's. Le groupe de Jeff Lynne à son sommet."),
+([("Cabaret Voltaire","Methodology: '74/'78 Attic Tapes","Mute (coffret 3cd)")],"Le groupe indus à ses débuts. Expérimental, bruitiste, mais aussi punk et pop avant-gardiste."),
+([("Buzzcocks","Singles Going Steady","Liberty (1cd)")],"La compil de tous leurs 45t, faces A, faces B. Le punk sauce très pop. Une merveille."),
+([("The Dickies","The Incredible Shrinking Dickies + Dawn Of The Dickies","Captain Oi (2x1cd)")],"Groupe pop-punk californien. Des reprises à 100 à l'heure, des originaux à 200 à l'heure. Les « Buzzcocks » u.s."),
+([("The Jam","Sound Affects","Polydor (1cd)"),("The Beat","I Just Can't Stop It","(1cd)"),("Ramones","End Of The Century + Pleasant Dreams","W.E.A. (2x1cd)")],"Trois groupes éliminés dans l'impitoyable classement de 1980. Des rescapés qui méritaient le repêchage. The Beat est le groupe ska anglais. En bonus, un Ramones de 1981."),
+]
+for line in open('/home/claude/work/manual/hidden3.txt'):
+    a,t,f,d=[x.strip() for x in line.split('|')]
+    H.append(([(a,t,f)],d))

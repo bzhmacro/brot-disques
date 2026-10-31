@@ -1,0 +1,7002 @@
+[
+ {
+  "year": 1964,
+  "rank": 1,
+  "text": "The Beatles A Hard Day's Night",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatles",
+  "album": "A Hard Day's Night",
+  "csv_artist": "The Beatles"
+ },
+ {
+  "year": 1964,
+  "rank": 2,
+  "text": "The Rolling Stones The Rolling Stones",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "The Rolling Stones",
+  "csv_artist": "The Rolling Stones"
+ },
+ {
+  "year": 1964,
+  "rank": 3,
+  "text": "The Kinks Kinks",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Kinks",
+  "album": "Kinks",
+  "csv_artist": "The Kinks"
+ },
+ {
+  "year": 1964,
+  "rank": 4,
+  "text": "The Beach Boys All Summer Long",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beach Boys",
+  "album": "All Summer Long",
+  "csv_artist": "The Beach Boys"
+ },
+ {
+  "year": 1964,
+  "rank": 5,
+  "text": "The Yardbirds Five Live Yardbirds",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Yardbirds",
+  "album": "Five Live Yardbirds",
+  "csv_artist": "The Yardbirds"
+ },
+ {
+  "year": 1964,
+  "rank": 6,
+  "text": "The Beatles Beatles For Sale",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatles",
+  "album": "Beatles For Sale",
+  "csv_artist": "The Beatles"
+ },
+ {
+  "year": 1964,
+  "rank": 7,
+  "text": "The Ronettes Presenting The Fabulous Ronettes featuring Veronica",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Ronettes",
+  "album": "Presenting The Fabulous Ronettes featuring Veronica",
+  "csv_artist": "The Ronettes"
+ },
+ {
+  "year": 1964,
+  "rank": 8,
+  "text": "The Supremes Where Did Your Love Go",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Supremes",
+  "album": "Where Did Your Love Go",
+  "csv_artist": "The Supremes"
+ },
+ {
+  "year": 1964,
+  "rank": 9,
+  "text": "The Animals The Animals",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Animals",
+  "album": "The Animals",
+  "csv_artist": "The Animals"
+ },
+ {
+  "year": 1964,
+  "rank": 10,
+  "text": "The Trashmen Surfin' Bird",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Trashmen",
+  "album": "Surfin' Bird",
+  "csv_artist": "The Trashmen"
+ },
+ {
+  "year": 1964,
+  "rank": 11,
+  "text": "The Beach Boys Shut Down Vol. 2",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beach Boys",
+  "album": "Shut Down Vol. 2",
+  "csv_artist": "The Beach Boys"
+ },
+ {
+  "year": 1964,
+  "rank": 12,
+  "text": "Jan & Dean Dead Man's Curve",
+  "k": 3,
+  "src": "dz",
+  "artist": "Jan & Dean",
+  "album": "Dead Man's Curve",
+  "csv_artist": "Jan & Dean"
+ },
+ {
+  "year": 1964,
+  "rank": 13,
+  "text": "Bob Dylan The Times They Are A Changing",
+  "k": 2,
+  "src": "dz",
+  "artist": "Bob Dylan",
+  "album": "The Times They Are A Changing",
+  "csv_artist": null
+ },
+ {
+  "year": 1964,
+  "rank": 14,
+  "text": "Jerry Lee Lewis Live At The Star Club - Hambourg",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Jerry Lee Lewis",
+  "album": "Live At The Star Club - Hambourg",
+  "csv_artist": null
+ },
+ {
+  "year": 1964,
+  "rank": 15,
+  "text": "The Rolling Stones 12x5",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "12x5",
+  "csv_artist": "The Rolling Stones"
+ },
+ {
+  "year": 1964,
+  "rank": 16,
+  "text": "Dusty Springfield A Girl Called Dusty",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dusty Springfield",
+  "album": "A Girl Called Dusty",
+  "csv_artist": "Dusty Springfield"
+ },
+ {
+  "year": 1964,
+  "rank": 17,
+  "text": "Otis Redding Pain In My Heart",
+  "k": 2,
+  "src": "dz",
+  "artist": "Otis Redding",
+  "album": "Pain In My Heart",
+  "csv_artist": "Otis Redding"
+ },
+ {
+  "year": 1964,
+  "rank": 18,
+  "text": "Bob Dylan Another Side Of Bob Dylan",
+  "k": 2,
+  "src": "dz",
+  "artist": "Bob Dylan",
+  "album": "Another Side Of Bob Dylan",
+  "csv_artist": "Bob Dylan"
+ },
+ {
+  "year": 1964,
+  "rank": 19,
+  "text": "Manfred Mann Five Faces Of Manfred Mann",
+  "k": 2,
+  "src": "dz",
+  "artist": "Manfred Mann",
+  "album": "Five Faces Of Manfred Mann",
+  "csv_artist": "Manfred Mann"
+ },
+ {
+  "year": 1964,
+  "rank": 20,
+  "text": "Downliners Sect The Sect",
+  "k": 2,
+  "src": "dz",
+  "artist": "Downliners Sect",
+  "album": "The Sect",
+  "csv_artist": "Downliners Sect"
+ },
+ {
+  "year": 1965,
+  "rank": 1,
+  "text": "The Beatles Rubber Soul + Help!",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatles",
+  "album": "Rubber Soul + Help!",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 2,
+  "text": "The Who My Generation",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Who",
+  "album": "My Generation",
+  "csv_artist": "The Who"
+ },
+ {
+  "year": 1965,
+  "rank": 3,
+  "text": "The Sonics Here Are The Sonics + Sonics Boom",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Sonics",
+  "album": "Here Are The Sonics + Sonics Boom",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 4,
+  "text": "Them Angry Young Them",
+  "k": 1,
+  "src": "dz",
+  "artist": "Them",
+  "album": "Angry Young Them",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 5,
+  "text": "The Rolling Stones Out of Our Heads + December's Children (& Everybody's)",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "Out of Our Heads + December's Children (& Everybody's)",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 6,
+  "text": "Bob Dylan Highway 61 Revisited + Bringing It All Back Home",
+  "k": 2,
+  "src": "dz",
+  "artist": "Bob Dylan",
+  "album": "Highway 61 Revisited + Bringing It All Back Home",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 7,
+  "text": "The Beach Boys Summer Days & Summer Nights + Today + Party",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beach Boys",
+  "album": "Summer Days & Summer Nights + Today + Party",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 8,
+  "text": "The Zombies Begin Here",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Zombies",
+  "album": "Begin Here",
+  "csv_artist": "The Zombies"
+ },
+ {
+  "year": 1965,
+  "rank": 9,
+  "text": "The Pretty Things The Pretty Things + Get The Picture",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Pretty Things",
+  "album": "The Pretty Things + Get The Picture",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 10,
+  "text": "The Yardbirds For Your Love",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Yardbirds",
+  "album": "For Your Love",
+  "csv_artist": "The Yardbirds"
+ },
+ {
+  "year": 1965,
+  "rank": 11,
+  "text": "The Kinks Kinda Kinks + The Kink Kontroversy",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Kinks",
+  "album": "Kinda Kinks + The Kink Kontroversy",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 12,
+  "text": "The Byrds Mr Tambourine Man + Turn! Turn! Turn!",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Byrds",
+  "album": "Mr Tambourine Man + Turn! Turn! Turn!",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 13,
+  "text": "The Turtles It Ain't Me Babe",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Turtles",
+  "album": "It Ain't Me Babe",
+  "csv_artist": "The Turtles"
+ },
+ {
+  "year": 1965,
+  "rank": 14,
+  "text": "The Animals Animal Tracks",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Animals",
+  "album": "Animal Tracks",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 15,
+  "text": "Otis Redding Otis Blue",
+  "k": 2,
+  "src": "dz",
+  "artist": "Otis Redding",
+  "album": "Otis Blue",
+  "csv_artist": "Otis Redding"
+ },
+ {
+  "year": 1965,
+  "rank": 16,
+  "text": "The Paul Butterfield Blues Band Paul Butterfield Blues Band",
+  "k": 5,
+  "src": "dz",
+  "artist": "The Paul Butterfield Blues Band",
+  "album": "Paul Butterfield Blues Band",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 17,
+  "text": "The Moody Blues The Magnificent Moodies",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Moody Blues",
+  "album": "The Magnificent Moodies",
+  "csv_artist": "The Moody Blues"
+ },
+ {
+  "year": 1965,
+  "rank": 18,
+  "text": "The Strangeloves Caralin / I Want Candy",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Strangeloves",
+  "album": "Caralin / I Want Candy",
+  "csv_artist": null
+ },
+ {
+  "year": 1965,
+  "rank": 19,
+  "text": "Paul Revere & The Raiders Just Like Us",
+  "k": 5,
+  "src": "dz",
+  "artist": "Paul Revere & The Raiders",
+  "album": "Just Like Us",
+  "csv_artist": "Paul Revere & The Raiders"
+ },
+ {
+  "year": 1965,
+  "rank": 20,
+  "text": "Manfred Mann Mann Made",
+  "k": 2,
+  "src": "dz",
+  "artist": "Manfred Mann",
+  "album": "Mann Made",
+  "csv_artist": "Manfred Mann"
+ },
+ {
+  "year": 1967,
+  "rank": 1,
+  "text": "Love Forever Changes",
+  "k": 1,
+  "src": "dz",
+  "artist": "Love",
+  "album": "Forever Changes",
+  "csv_artist": "Love"
+ },
+ {
+  "year": 1967,
+  "rank": 2,
+  "text": "The Velvet Underground & Nico + White Light / White Heat",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Velvet Underground",
+  "album": "& Nico + White Light / White Heat",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 3,
+  "text": "The Beatles Sgt. Pepper's Lonely Hearts Club Band + Magical Mystery Tour",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatles",
+  "album": "Sgt. Pepper's Lonely Hearts Club Band + Magical Mystery Tour",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 4,
+  "text": "The Doors The Doors + Strange Days",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Doors",
+  "album": "The Doors + Strange Days",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 5,
+  "text": "The Jimi Hendrix Experience Are You Experienced? + Axis Bold As Love",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Jimi Hendrix",
+  "album": "Experience Are You Experienced? + Axis Bold As Love",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 6,
+  "text": "Captain Beefheart & His Magic Band Safe As Milk",
+  "k": 6,
+  "src": "dz",
+  "artist": "Captain Beefheart & His Magic Band",
+  "album": "Safe As Milk",
+  "csv_artist": "Captain Beefheart & His Magic Band"
+ },
+ {
+  "year": 1967,
+  "rank": 7,
+  "text": "The Who The Who Sell Out",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Who",
+  "album": "The Who Sell Out",
+  "csv_artist": "The Who"
+ },
+ {
+  "year": 1967,
+  "rank": 8,
+  "text": "The Byrds Younger Than Yesterday",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Byrds",
+  "album": "Younger Than Yesterday",
+  "csv_artist": "The Byrds"
+ },
+ {
+  "year": 1967,
+  "rank": 9,
+  "text": "Pink Floyd The Piper At The Gates Of Dawn",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pink Floyd",
+  "album": "The Piper At The Gates Of Dawn",
+  "csv_artist": "Pink Floyd"
+ },
+ {
+  "year": 1967,
+  "rank": 10,
+  "text": "The Beach Boys Smiley Smile",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beach Boys",
+  "album": "Smiley Smile",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 11,
+  "text": "The Pretty Things Emotions",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Pretty Things",
+  "album": "Emotions",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 12,
+  "text": "The Electric Prunes The Electric Prunes + Underground + Mass In F Minor",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Electric Prunes",
+  "album": "The Electric Prunes + Underground + Mass In F Minor",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 13,
+  "text": "The Rolling Stones Between The Buttons + Their Satanic Majesties Request",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "Between The Buttons + Their Satanic Majesties Request",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 14,
+  "text": "The Left Banke Walk Away Renee / Pretty Ballerina",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Left Banke",
+  "album": "Walk Away Renee / Pretty Ballerina",
+  "csv_artist": "The Left Banke"
+ },
+ {
+  "year": 1967,
+  "rank": 15,
+  "text": "Small Faces The Small Faces",
+  "k": 2,
+  "src": "dz",
+  "artist": "Small Faces",
+  "album": "The Small Faces",
+  "csv_artist": null
+ },
+ {
+  "year": 1967,
+  "rank": 16,
+  "text": "The Kinks Something Else",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Kinks",
+  "album": "Something Else",
+  "csv_artist": "The Kinks"
+ },
+ {
+  "year": 1967,
+  "rank": 17,
+  "text": "The Moody Blues Days Of Future Passed",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Moody Blues",
+  "album": "Days Of Future Passed",
+  "csv_artist": "The Moody Blues"
+ },
+ {
+  "year": 1967,
+  "rank": 18,
+  "text": "Cream Disraeli Gears",
+  "k": 1,
+  "src": "dz",
+  "artist": "Cream",
+  "album": "Disraeli Gears",
+  "csv_artist": "Cream"
+ },
+ {
+  "year": 1967,
+  "rank": 19,
+  "text": "Mothers Of Invention Absolutely Free",
+  "k": 3,
+  "src": "dz",
+  "artist": "Mothers Of Invention",
+  "album": "Absolutely Free",
+  "csv_artist": "Mothers Of Invention"
+ },
+ {
+  "year": 1967,
+  "rank": 20,
+  "text": "Van Morrison Blowin' My Mind",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Van Morrison",
+  "album": "Blowin' My Mind",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 1,
+  "text": "King Crimson In The Court Of The Crimson King",
+  "k": 2,
+  "src": "dz",
+  "artist": "King Crimson",
+  "album": "In The Court Of The Crimson King",
+  "csv_artist": "King Crimson"
+ },
+ {
+  "year": 1969,
+  "rank": 2,
+  "text": "The Stooges The stooges",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Stooges",
+  "album": "The stooges",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 3,
+  "text": "Julie Driscoll, Brian Auger & The Trinity Streetnoise",
+  "k": 2,
+  "src": "dz",
+  "artist": "Julie Driscoll,",
+  "album": "Brian Auger & The Trinity Streetnoise",
+  "csv_artist": "Julie Driscoll, Brian Auger & The Trinity"
+ },
+ {
+  "year": 1969,
+  "rank": 4,
+  "text": "The Beatles Abbey Road",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatles",
+  "album": "Abbey Road",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 5,
+  "text": "Led Zeppelin Led Zeppelin + Led Zeppelin II",
+  "k": 2,
+  "src": "dz",
+  "artist": "Led Zeppelin",
+  "album": "Led Zeppelin + Led Zeppelin II",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 6,
+  "text": "The Velvet Underground The Velvet Underground",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Velvet Underground",
+  "album": "The Velvet Underground",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 7,
+  "text": "Isaac Hayes Hot Buttered Soul",
+  "k": 2,
+  "src": "dz",
+  "artist": "Isaac Hayes",
+  "album": "Hot Buttered Soul",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 8,
+  "text": "The Beach Boys 20/20",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beach Boys",
+  "album": "20/20",
+  "csv_artist": "The Beach Boys"
+ },
+ {
+  "year": 1969,
+  "rank": 9,
+  "text": "Steamhammer Reflection",
+  "k": 1,
+  "src": "dz",
+  "artist": "Steamhammer",
+  "album": "Reflection",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 10,
+  "text": "Nick Drake Five Leaves Left",
+  "k": 2,
+  "src": "dz",
+  "artist": "Nick Drake",
+  "album": "Five Leaves Left",
+  "csv_artist": "Nick Drake"
+ },
+ {
+  "year": 1969,
+  "rank": 11,
+  "text": "Moondog Moondog",
+  "k": 1,
+  "src": "dz",
+  "artist": "Moondog",
+  "album": "Moondog",
+  "csv_artist": "Moondog"
+ },
+ {
+  "year": 1969,
+  "rank": 12,
+  "text": "Family Family Entertainment",
+  "k": 1,
+  "src": "dz",
+  "artist": "Family",
+  "album": "Family Entertainment",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 13,
+  "text": "Can Monster Movie",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Can",
+  "album": "Monster Movie",
+  "csv_artist": "Can"
+ },
+ {
+  "year": 1969,
+  "rank": 14,
+  "text": "Jeff Beck Group Beck-ola",
+  "k": 2,
+  "src": "dz",
+  "artist": "Jeff Beck",
+  "album": "Group Beck-ola",
+  "csv_artist": "Jeff Beck Group"
+ },
+ {
+  "year": 1969,
+  "rank": 15,
+  "text": "The Rolling Stones Let It Bleed",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "Let It Bleed",
+  "csv_artist": "The Rolling Stones"
+ },
+ {
+  "year": 1969,
+  "rank": 16,
+  "text": "Santana Santana",
+  "k": 1,
+  "src": "dz",
+  "artist": "Santana",
+  "album": "Santana",
+  "csv_artist": "Santana"
+ },
+ {
+  "year": 1969,
+  "rank": 17,
+  "text": "Sly & The Family Stone Stand",
+  "k": 5,
+  "src": "dz",
+  "artist": "Sly & The Family Stone",
+  "album": "Stand",
+  "csv_artist": "Sly & The Family Stone"
+ },
+ {
+  "year": 1969,
+  "rank": 18,
+  "text": "The Soft Machine Soft Machine Volume 2",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Soft Machine",
+  "album": "Soft Machine Volume 2",
+  "csv_artist": "The Soft Machine"
+ },
+ {
+  "year": 1969,
+  "rank": 19,
+  "text": "Kim Fowley Outrageous",
+  "k": 2,
+  "src": "dz",
+  "artist": "Kim Fowley",
+  "album": "Outrageous",
+  "csv_artist": null
+ },
+ {
+  "year": 1969,
+  "rank": 20,
+  "text": "Dusty Springfield Dusty In Memphis",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dusty Springfield",
+  "album": "Dusty In Memphis",
+  "csv_artist": "Dusty Springfield"
+ },
+ {
+  "year": 1970,
+  "rank": 1,
+  "text": "The Stooges Fun House",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Stooges",
+  "album": "Fun House",
+  "csv_artist": "The Stooges"
+ },
+ {
+  "year": 1970,
+  "rank": 2,
+  "text": "John Lennon Plastic Ono Band",
+  "k": 2,
+  "src": "dz",
+  "artist": "John Lennon",
+  "album": "Plastic Ono Band",
+  "csv_artist": "John Lennon"
+ },
+ {
+  "year": 1970,
+  "rank": 3,
+  "text": "MC5 Back In The USA",
+  "k": 1,
+  "src": "dz",
+  "artist": "MC5",
+  "album": "Back In The USA",
+  "csv_artist": "MC5"
+ },
+ {
+  "year": 1970,
+  "rank": 4,
+  "text": "Deep Purple In Rock",
+  "k": 2,
+  "src": "dz",
+  "artist": "Deep Purple",
+  "album": "In Rock",
+  "csv_artist": "Deep Purple"
+ },
+ {
+  "year": 1970,
+  "rank": 5,
+  "text": "Led Zeppelin III",
+  "k": 2,
+  "src": "dz",
+  "artist": "Led Zeppelin",
+  "album": "III",
+  "csv_artist": null
+ },
+ {
+  "year": 1970,
+  "rank": 6,
+  "text": "Creedence Clearwater Revival Cosmos Factory + Pendulum",
+  "k": 3,
+  "src": "dz",
+  "artist": "Creedence Clearwater Revival",
+  "album": "Cosmos Factory + Pendulum",
+  "csv_artist": null
+ },
+ {
+  "year": 1970,
+  "rank": 7,
+  "text": "Black Sabbath Paranoid",
+  "k": 2,
+  "src": "dz",
+  "artist": "Black Sabbath",
+  "album": "Paranoid",
+  "csv_artist": "Black Sabbath"
+ },
+ {
+  "year": 1970,
+  "rank": 8,
+  "text": "Funkadelic Funkadelic + Free Your Mind & Your Ass Will Follow",
+  "k": 1,
+  "src": "dz",
+  "artist": "Funkadelic",
+  "album": "Funkadelic + Free Your Mind & Your Ass Will Follow",
+  "csv_artist": null
+ },
+ {
+  "year": 1970,
+  "rank": 9,
+  "text": "Curtis Mayfield Curtis",
+  "k": 2,
+  "src": "dz",
+  "artist": "Curtis Mayfield",
+  "album": "Curtis",
+  "csv_artist": "Curtis Mayfield"
+ },
+ {
+  "year": 1970,
+  "rank": 10,
+  "text": "Cactus Cactus",
+  "k": 1,
+  "src": "dz",
+  "artist": "Cactus",
+  "album": "Cactus",
+  "csv_artist": "Cactus"
+ },
+ {
+  "year": 1970,
+  "rank": 11,
+  "text": "Nick Drake Bryter Layter",
+  "k": 2,
+  "src": "dz",
+  "artist": "Nick Drake",
+  "album": "Bryter Layter",
+  "csv_artist": "Nick Drake"
+ },
+ {
+  "year": 1970,
+  "rank": 12,
+  "text": "The Doors Absolutely Live + Morrison Hotel",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Doors",
+  "album": "Absolutely Live + Morrison Hotel",
+  "csv_artist": null
+ },
+ {
+  "year": 1970,
+  "rank": 13,
+  "text": "The Soft Machine Third",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Soft Machine",
+  "album": "Third",
+  "csv_artist": "The Soft Machine"
+ },
+ {
+  "year": 1970,
+  "rank": 14,
+  "text": "James Brown Sex Machine",
+  "k": 2,
+  "src": "dz",
+  "artist": "James Brown",
+  "album": "Sex Machine",
+  "csv_artist": "James Brown"
+ },
+ {
+  "year": 1970,
+  "rank": 15,
+  "text": "The Velvet Underground Loaded",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Velvet Underground",
+  "album": "Loaded",
+  "csv_artist": "The Velvet Underground"
+ },
+ {
+  "year": 1970,
+  "rank": 16,
+  "text": "Santana Abraxas",
+  "k": 1,
+  "src": "dz",
+  "artist": "Santana",
+  "album": "Abraxas",
+  "csv_artist": "Santana"
+ },
+ {
+  "year": 1970,
+  "rank": 17,
+  "text": "Simon & Garfunkel Bridge Over Troubled Water",
+  "k": 3,
+  "src": "dz",
+  "artist": "Simon & Garfunkel",
+  "album": "Bridge Over Troubled Water",
+  "csv_artist": "Simon & Garfunkel"
+ },
+ {
+  "year": 1970,
+  "rank": 18,
+  "text": "Can Soundtracks",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Can",
+  "album": "Soundtracks",
+  "csv_artist": "Can"
+ },
+ {
+  "year": 1970,
+  "rank": 19,
+  "text": "Van Morrison Moondance",
+  "k": 2,
+  "src": "dz",
+  "artist": "Van Morrison",
+  "album": "Moondance",
+  "csv_artist": "Van Morrison"
+ },
+ {
+  "year": 1970,
+  "rank": 20,
+  "text": "Syd Barrett Madcap Laughs + Barrett",
+  "k": 2,
+  "src": "dz",
+  "artist": "Syd Barrett",
+  "album": "Madcap Laughs + Barrett",
+  "csv_artist": "Syd Barrett"
+ },
+ {
+  "year": 1971,
+  "rank": 1,
+  "text": "T. Rex Electric Warrior",
+  "k": 2,
+  "src": "dz",
+  "artist": "T. Rex",
+  "album": "Electric Warrior",
+  "csv_artist": "T. Rex"
+ },
+ {
+  "year": 1971,
+  "rank": 2,
+  "text": "The Doors L.A. Woman",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Doors",
+  "album": "L.A. Woman",
+  "csv_artist": "The Doors"
+ },
+ {
+  "year": 1971,
+  "rank": 3,
+  "text": "Marvin Gaye What's Going On",
+  "k": 2,
+  "src": "dz",
+  "artist": "Marvin Gaye",
+  "album": "What's Going On",
+  "csv_artist": "Marvin Gaye"
+ },
+ {
+  "year": 1971,
+  "rank": 4,
+  "text": "MC5 High Time",
+  "k": 1,
+  "src": "dz",
+  "artist": "MC5",
+  "album": "High Time",
+  "csv_artist": "MC5"
+ },
+ {
+  "year": 1971,
+  "rank": 5,
+  "text": "John Lennon Imagine",
+  "k": 2,
+  "src": "dz",
+  "artist": "John Lennon",
+  "album": "Imagine",
+  "csv_artist": "John Lennon"
+ },
+ {
+  "year": 1971,
+  "rank": 6,
+  "text": "Can Tago Mago",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Can",
+  "album": "Tago Mago",
+  "csv_artist": "Can"
+ },
+ {
+  "year": 1971,
+  "rank": 7,
+  "text": "Sly&The Family Stone There's A Riot Goin'on",
+  "k": 3,
+  "src": "dz",
+  "artist": "Sly&The Family Stone",
+  "album": "There's A Riot Goin'on",
+  "csv_artist": "Sly & The Family Stone"
+ },
+ {
+  "year": 1971,
+  "rank": 8,
+  "text": "Serge Gainsbourg Melody Nelson",
+  "k": 2,
+  "src": "dz",
+  "artist": "Serge Gainsbourg",
+  "album": "Melody Nelson",
+  "csv_artist": "Serge Gainsbourg"
+ },
+ {
+  "year": 1971,
+  "rank": 9,
+  "text": "The Kinks Muswell Hillbillies",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Kinks",
+  "album": "Muswell Hillbillies",
+  "csv_artist": "The Kinks"
+ },
+ {
+  "year": 1971,
+  "rank": 10,
+  "text": "Led Zeppelin IV",
+  "k": 2,
+  "src": "dz",
+  "artist": "Led Zeppelin",
+  "album": "IV",
+  "csv_artist": "Led Zeppelin"
+ },
+ {
+  "year": 1971,
+  "rank": 11,
+  "text": "The Flamin' Groovies Teenage Head",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Flamin' Groovies",
+  "album": "Teenage Head",
+  "csv_artist": "The Flamin' Groovies"
+ },
+ {
+  "year": 1971,
+  "rank": 12,
+  "text": "Status Quo Dog Of Two Head",
+  "k": 2,
+  "src": "dz",
+  "artist": "Status Quo",
+  "album": "Dog Of Two Head",
+  "csv_artist": "Status Quo"
+ },
+ {
+  "year": 1971,
+  "rank": 13,
+  "text": "Alice Cooper Love It To Death",
+  "k": 2,
+  "src": "dz",
+  "artist": "Alice Cooper",
+  "album": "Love It To Death",
+  "csv_artist": "Alice Cooper"
+ },
+ {
+  "year": 1971,
+  "rank": 14,
+  "text": "David Bowie Hunky Dory",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Hunky Dory",
+  "csv_artist": "David Bowie"
+ },
+ {
+  "year": 1971,
+  "rank": 15,
+  "text": "Faces A Nod Is As Good As A Wink... To A Blind Horse",
+  "k": 1,
+  "src": "dz",
+  "artist": "Faces",
+  "album": "A Nod Is As Good As A Wink... To A Blind Horse",
+  "csv_artist": "Faces"
+ },
+ {
+  "year": 1971,
+  "rank": 16,
+  "text": "The Rolling Stones Sticky Fingers",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "Sticky Fingers",
+  "csv_artist": "The Rolling Stones"
+ },
+ {
+  "year": 1971,
+  "rank": 17,
+  "text": "Rod Stewart Every Picture Tells A Story",
+  "k": 2,
+  "src": "dz",
+  "artist": "Rod Stewart",
+  "album": "Every Picture Tells A Story",
+  "csv_artist": "Rod Stewart"
+ },
+ {
+  "year": 1971,
+  "rank": 18,
+  "text": "Captain Beefheart & His Magic Band Mirror Man",
+  "k": 6,
+  "src": "dz",
+  "artist": "Captain Beefheart & His Magic Band",
+  "album": "Mirror Man",
+  "csv_artist": "Captain Beefheart & His Magic Band"
+ },
+ {
+  "year": 1971,
+  "rank": 19,
+  "text": "John Cale & Terry Riley Church Of Anthrax",
+  "k": 2,
+  "src": "dz",
+  "artist": "John Cale",
+  "album": "& Terry Riley Church Of Anthrax",
+  "csv_artist": "John Cale & Terry Riley"
+ },
+ {
+  "year": 1971,
+  "rank": 20,
+  "text": "Pink Floyd Meddle",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pink Floyd",
+  "album": "Meddle",
+  "csv_artist": "Pink Floyd"
+ },
+ {
+  "year": 1972,
+  "rank": 1,
+  "text": "David Bowie Ziggy Stardust",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Ziggy Stardust",
+  "csv_artist": "David Bowie"
+ },
+ {
+  "year": 1972,
+  "rank": 2,
+  "text": "T. Rex The Slider",
+  "k": 2,
+  "src": "dz",
+  "artist": "T. Rex",
+  "album": "The Slider",
+  "csv_artist": "T. Rex"
+ },
+ {
+  "year": 1972,
+  "rank": 3,
+  "text": "Captain Beefheart Clearspot + The Spotlight Kid",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Captain Beefheart",
+  "album": "Clearspot + The Spotlight Kid",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 4,
+  "text": "Al Green I'm Still In Love With You + Let's Stay Together",
+  "k": 2,
+  "src": "dz",
+  "artist": "Al Green",
+  "album": "I'm Still In Love With You + Let's Stay Together",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 5,
+  "text": "Deep Purple Machine Head",
+  "k": 2,
+  "src": "dz",
+  "artist": "Deep Purple",
+  "album": "Machine Head",
+  "csv_artist": "Deep Purple"
+ },
+ {
+  "year": 1972,
+  "rank": 6,
+  "text": "Curtis Mayfield Superfly",
+  "k": 2,
+  "src": "dz",
+  "artist": "Curtis Mayfield",
+  "album": "Superfly",
+  "csv_artist": "Curtis Mayfield"
+ },
+ {
+  "year": 1972,
+  "rank": 7,
+  "text": "Roxy Music Roxy Music",
+  "k": 2,
+  "src": "dz",
+  "artist": "Roxy Music",
+  "album": "Roxy Music",
+  "csv_artist": "Roxy Music"
+ },
+ {
+  "year": 1972,
+  "rank": 8,
+  "text": "Lou Reed Transformer",
+  "k": 2,
+  "src": "dz",
+  "artist": "Lou Reed",
+  "album": "Transformer",
+  "csv_artist": "Lou Reed"
+ },
+ {
+  "year": 1972,
+  "rank": 9,
+  "text": "The Rolling Stones Exile On Main Street",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Rolling Stones",
+  "album": "Exile On Main Street",
+  "csv_artist": "The Rolling Stones"
+ },
+ {
+  "year": 1972,
+  "rank": 10,
+  "text": "Tim Buckley Greetings From L.A.",
+  "k": 2,
+  "src": "dz",
+  "artist": "Tim Buckley",
+  "album": "Greetings From L.A.",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 11,
+  "text": "Can Ege Barnyasi",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Can",
+  "album": "Ege Barnyasi",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 12,
+  "text": "Nick Drake Pink Moon",
+  "k": 2,
+  "src": "dz",
+  "artist": "Nick Drake",
+  "album": "Pink Moon",
+  "csv_artist": "Nick Drake"
+ },
+ {
+  "year": 1972,
+  "rank": 13,
+  "text": "Big Star N°1 Record",
+  "k": 2,
+  "src": "dz",
+  "artist": "Big Star",
+  "album": "N°1 Record",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 14,
+  "text": "Slapp Happy Sort Of...",
+  "k": 2,
+  "src": "dz",
+  "artist": "Slapp Happy",
+  "album": "Sort Of...",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 15,
+  "text": "Faust So Far",
+  "k": 1,
+  "src": "dz",
+  "artist": "Faust",
+  "album": "So Far",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 16,
+  "text": "Status Quo Piledriver",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Status Quo",
+  "album": "Piledriver",
+  "csv_artist": "Status Quo"
+ },
+ {
+  "year": 1972,
+  "rank": 17,
+  "text": "Neu ! Neu !",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Neu !",
+  "album": "Neu !",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 18,
+  "text": "The JB's Food For Thought",
+  "k": 2,
+  "src": "dz",
+  "artist": "The JB's",
+  "album": "Food For Thought",
+  "csv_artist": "The JBs"
+ },
+ {
+  "year": 1972,
+  "rank": 19,
+  "text": "Pink Fairies What A Bunch Of Sweeties",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pink Fairies",
+  "album": "What A Bunch Of Sweeties",
+  "csv_artist": null
+ },
+ {
+  "year": 1972,
+  "rank": 20,
+  "text": "Kim Fowley I'm Bad",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Kim Fowley",
+  "album": "I'm Bad",
+  "csv_artist": "Kim Fowley"
+ },
+ {
+  "year": 1973,
+  "rank": 1,
+  "text": "Pink Floyd Dark Side Of The Moon",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pink Floyd",
+  "album": "Dark Side Of The Moon",
+  "csv_artist": "Pink Floyd"
+ },
+ {
+  "year": 1973,
+  "rank": 2,
+  "text": "Iggy &amp; The Stooges Raw Power",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Iggy",
+  "album": "&amp; The Stooges Raw Power",
+  "csv_artist": null
+ },
+ {
+  "year": 1973,
+  "rank": 3,
+  "text": "Neu! Neu 2",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Neu!",
+  "album": "Neu 2",
+  "csv_artist": "Neu!"
+ },
+ {
+  "year": 1973,
+  "rank": 4,
+  "text": "Roxy Music Stranded + For Your Pleasure",
+  "k": 2,
+  "src": "dz",
+  "artist": "Roxy Music",
+  "album": "Stranded + For Your Pleasure",
+  "csv_artist": "Roxy Music"
+ },
+ {
+  "year": 1973,
+  "rank": 5,
+  "text": "Al Green Call Me",
+  "k": 2,
+  "src": "dz",
+  "artist": "Al Green",
+  "album": "Call Me",
+  "csv_artist": "Al Green"
+ },
+ {
+  "year": 1973,
+  "rank": 6,
+  "text": "David Bowie Aladdin Sane",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Aladdin Sane",
+  "csv_artist": "David Bowie"
+ },
+ {
+  "year": 1973,
+  "rank": 7,
+  "text": "Can Future Days",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Can",
+  "album": "Future Days",
+  "csv_artist": "Can"
+ },
+ {
+  "year": 1973,
+  "rank": 8,
+  "text": "Curtis Mayfield Back To The World",
+  "k": 2,
+  "src": "dz",
+  "artist": "Curtis Mayfield",
+  "album": "Back To The World",
+  "csv_artist": "Curtis Mayfield"
+ },
+ {
+  "year": 1973,
+  "rank": 9,
+  "text": "Todd Rundgren A Wizard, A True Star",
+  "k": 2,
+  "src": "dz",
+  "artist": "Todd Rundgren",
+  "album": "A Wizard, A True Star",
+  "csv_artist": "Todd Rundgren"
+ },
+ {
+  "year": 1973,
+  "rank": 10,
+  "text": "Hawkwind Space Ritual",
+  "k": 1,
+  "src": "dz",
+  "artist": "Hawkwind",
+  "album": "Space Ritual",
+  "csv_artist": "Hawkwind"
+ },
+ {
+  "year": 1973,
+  "rank": 11,
+  "text": "Faust The Faust Tapes + Faust IV",
+  "k": 1,
+  "src": "dz",
+  "artist": "Faust",
+  "album": "The Faust Tapes + Faust IV",
+  "csv_artist": "Faust"
+ },
+ {
+  "year": 1973,
+  "rank": 12,
+  "text": "Bob Marley &amp; The Wailers Catch A Fire",
+  "k": null,
+  "src": null,
+  "artist": null,
+  "album": null,
+  "csv_artist": null
+ },
+ {
+  "year": 1973,
+  "rank": 13,
+  "text": "The New York Dolls New York Dolls",
+  "k": 4,
+  "src": "dz",
+  "artist": "The New York Dolls",
+  "album": "New York Dolls",
+  "csv_artist": "The New York Dolls"
+ },
+ {
+  "year": 1973,
+  "rank": 14,
+  "text": "The Upsetters Blackboard Jungle Dub",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Upsetters",
+  "album": "Blackboard Jungle Dub",
+  "csv_artist": "The Upsetters"
+ },
+ {
+  "year": 1973,
+  "rank": 15,
+  "text": "Lou Reed Berlin",
+  "k": 2,
+  "src": "dz",
+  "artist": "Lou Reed",
+  "album": "Berlin",
+  "csv_artist": "Lou Reed"
+ },
+ {
+  "year": 1973,
+  "rank": 16,
+  "text": "Marvin Gaye Let's Get It On",
+  "k": 2,
+  "src": "dz",
+  "artist": "Marvin Gaye",
+  "album": "Let's Get It On",
+  "csv_artist": "Marvin Gaye"
+ },
+ {
+  "year": 1973,
+  "rank": 17,
+  "text": "Stevie Wonder Innervisions",
+  "k": 2,
+  "src": "dz",
+  "artist": "Stevie Wonder",
+  "album": "Innervisions",
+  "csv_artist": "Stevie Wonder"
+ },
+ {
+  "year": 1973,
+  "rank": 18,
+  "text": "The JB's Doin' It To Death",
+  "k": 2,
+  "src": "dz",
+  "artist": "The JB's",
+  "album": "Doin' It To Death",
+  "csv_artist": "The JB's"
+ },
+ {
+  "year": 1973,
+  "rank": 19,
+  "text": "Kevin Coyne Marjory Razor Blade",
+  "k": 2,
+  "src": "dz",
+  "artist": "Kevin Coyne",
+  "album": "Marjory Razor Blade",
+  "csv_artist": "Kevin Coyne"
+ },
+ {
+  "year": 1973,
+  "rank": 20,
+  "text": "Mike Oldfield Tubular Bells",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mike Oldfield",
+  "album": "Tubular Bells",
+  "csv_artist": "Mike Oldfield"
+ },
+ {
+  "year": 1974,
+  "rank": 1,
+  "text": "Robert Wyatt Rock Bottom",
+  "k": 2,
+  "src": "dz",
+  "artist": "Robert Wyatt",
+  "album": "Rock Bottom",
+  "csv_artist": "Robert Wyatt"
+ },
+ {
+  "year": 1974,
+  "rank": 2,
+  "text": "Kraftwerk Autobahn",
+  "k": 1,
+  "src": "dz",
+  "artist": "Kraftwerk",
+  "album": "Autobahn",
+  "csv_artist": null
+ },
+ {
+  "year": 1974,
+  "rank": 3,
+  "text": "Brian Eno Here Come The Warm Jets + Taking Tiger Mountain By Strategy",
+  "k": 2,
+  "src": "dz",
+  "artist": "Brian Eno",
+  "album": "Here Come The Warm Jets + Taking Tiger Mountain By Strategy",
+  "csv_artist": "Brian Eno"
+ },
+ {
+  "year": 1974,
+  "rank": 4,
+  "text": "The Velvet Underground Live 1969 vol 1 & 2",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "The Velvet Underground",
+  "album": "Live 1969 vol 1 & 2",
+  "csv_artist": "The Velvet Underground"
+ },
+ {
+  "year": 1974,
+  "rank": 5,
+  "text": "Roxy Music Country Life",
+  "k": 2,
+  "src": "dz",
+  "artist": "Roxy Music",
+  "album": "Country Life",
+  "csv_artist": "Roxy Music"
+ },
+ {
+  "year": 1974,
+  "rank": 6,
+  "text": "George Mc Crae Rock Your Baby",
+  "k": 3,
+  "src": "dz",
+  "artist": "George Mc Crae",
+  "album": "Rock Your Baby",
+  "csv_artist": "George McCrae"
+ },
+ {
+  "year": 1974,
+  "rank": 7,
+  "text": "The New York Dolls Too Much Too Soon",
+  "k": 4,
+  "src": "dz",
+  "artist": "The New York Dolls",
+  "album": "Too Much Too Soon",
+  "csv_artist": "The New York Dolls"
+ },
+ {
+  "year": 1974,
+  "rank": 8,
+  "text": "Fred Wesley & The JB's Damn Right I Am Somebody",
+  "k": 5,
+  "src": "dz",
+  "artist": "Fred Wesley & The JB's",
+  "album": "Damn Right I Am Somebody",
+  "csv_artist": "Fred Wesley & The JB's"
+ },
+ {
+  "year": 1974,
+  "rank": 9,
+  "text": "Sparks Kimono My House",
+  "k": 1,
+  "src": "dz",
+  "artist": "Sparks",
+  "album": "Kimono My House",
+  "csv_artist": "Sparks"
+ },
+ {
+  "year": 1974,
+  "rank": 10,
+  "text": "John Cale Fear",
+  "k": 2,
+  "src": "dz",
+  "artist": "John Cale",
+  "album": "Fear",
+  "csv_artist": "John Cale"
+ },
+ {
+  "year": 1974,
+  "rank": 11,
+  "text": "Bob Marley & The Wailers Natty Dread",
+  "k": 5,
+  "src": "dz",
+  "artist": "Bob Marley & The Wailers",
+  "album": "Natty Dread",
+  "csv_artist": "Bob Marley & The Wailers"
+ },
+ {
+  "year": 1974,
+  "rank": 12,
+  "text": "Steely Dan Pretzel Logic",
+  "k": 2,
+  "src": "dz",
+  "artist": "Steely Dan",
+  "album": "Pretzel Logic",
+  "csv_artist": null
+ },
+ {
+  "year": 1974,
+  "rank": 13,
+  "text": "Harmonia Musik Von Harmonia",
+  "k": 1,
+  "src": "dz",
+  "artist": "Harmonia",
+  "album": "Musik Von Harmonia",
+  "csv_artist": null
+ },
+ {
+  "year": 1974,
+  "rank": 14,
+  "text": "Augustus Pablo King Tubbys Meets Rockers Uptown",
+  "k": 2,
+  "src": "dz",
+  "artist": "Augustus Pablo",
+  "album": "King Tubbys Meets Rockers Uptown",
+  "csv_artist": null
+ },
+ {
+  "year": 1974,
+  "rank": 15,
+  "text": "Bohannon Keep On Dancing",
+  "k": 1,
+  "src": "dz",
+  "artist": "Bohannon",
+  "album": "Keep On Dancing",
+  "csv_artist": "Bohannon"
+ },
+ {
+  "year": 1974,
+  "rank": 16,
+  "text": "Cluster Zuckerzeit",
+  "k": 1,
+  "src": "dz",
+  "artist": "Cluster",
+  "album": "Zuckerzeit",
+  "csv_artist": "Cluster"
+ },
+ {
+  "year": 1974,
+  "rank": 17,
+  "text": "Supertramp Crime Of The Century",
+  "k": 1,
+  "src": "dz",
+  "artist": "Supertramp",
+  "album": "Crime Of The Century",
+  "csv_artist": "Supertramp"
+ },
+ {
+  "year": 1974,
+  "rank": 18,
+  "text": "Christophe Les Mots Bleus",
+  "k": 1,
+  "src": "dz",
+  "artist": "Christophe",
+  "album": "Les Mots Bleus",
+  "csv_artist": "Christophe"
+ },
+ {
+  "year": 1974,
+  "rank": 19,
+  "text": "The Residents Meet The Residents",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Residents",
+  "album": "Meet The Residents",
+  "csv_artist": "The Residents"
+ },
+ {
+  "year": 1974,
+  "rank": 20,
+  "text": "Big Star Radio City",
+  "k": 2,
+  "src": "dz",
+  "artist": "Big Star",
+  "album": "Radio City",
+  "csv_artist": "Big Star"
+ },
+ {
+  "year": 1975,
+  "rank": 1,
+  "text": "Kraftwerk Radio Activity",
+  "k": 1,
+  "src": "dz",
+  "artist": "Kraftwerk",
+  "album": "Radio Activity",
+  "csv_artist": "Kraftwerk"
+ },
+ {
+  "year": 1975,
+  "rank": 2,
+  "text": "Dr. Feelgood Down By The Jetty + Malpractice",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dr. Feelgood",
+  "album": "Down By The Jetty + Malpractice",
+  "csv_artist": "Dr. Feelgood"
+ },
+ {
+  "year": 1975,
+  "rank": 3,
+  "text": "Neu ! Neu 75",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Neu !",
+  "album": "Neu 75",
+  "csv_artist": "Neu!"
+ },
+ {
+  "year": 1975,
+  "rank": 4,
+  "text": "Led Zeppelin Physical Graffity",
+  "k": 2,
+  "src": "dz",
+  "artist": "Led Zeppelin",
+  "album": "Physical Graffity",
+  "csv_artist": null
+ },
+ {
+  "year": 1975,
+  "rank": 5,
+  "text": "Brian Eno Another Green World",
+  "k": 2,
+  "src": "dz",
+  "artist": "Brian Eno",
+  "album": "Another Green World",
+  "csv_artist": "Brian Eno"
+ },
+ {
+  "year": 1975,
+  "rank": 6,
+  "text": "Patti Smith Horses",
+  "k": 2,
+  "src": "dz",
+  "artist": "Patti Smith",
+  "album": "Horses",
+  "csv_artist": "Patti Smith"
+ },
+ {
+  "year": 1975,
+  "rank": 7,
+  "text": "Pink Floyd Wish You Were Here",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pink Floyd",
+  "album": "Wish You Were Here",
+  "csv_artist": "Pink Floyd"
+ },
+ {
+  "year": 1975,
+  "rank": 8,
+  "text": "Burning Spear Marcus Garvey",
+  "k": 2,
+  "src": "dz",
+  "artist": "Burning Spear",
+  "album": "Marcus Garvey",
+  "csv_artist": "Burning Spear"
+ },
+ {
+  "year": 1975,
+  "rank": 9,
+  "text": "Donna Summer Love To Love You Baby",
+  "k": 2,
+  "src": "dz",
+  "artist": "Donna Summer",
+  "album": "Love To Love You Baby",
+  "csv_artist": "Donna Summer"
+ },
+ {
+  "year": 1975,
+  "rank": 10,
+  "text": "King Tubby Dub From The Roots",
+  "k": 2,
+  "src": "dz",
+  "artist": "King Tubby",
+  "album": "Dub From The Roots",
+  "csv_artist": "King Tubby"
+ },
+ {
+  "year": 1975,
+  "rank": 11,
+  "text": "Bohannon Insides Out",
+  "k": 1,
+  "src": "dz",
+  "artist": "Bohannon",
+  "album": "Insides Out",
+  "csv_artist": "Bohannon"
+ },
+ {
+  "year": 1975,
+  "rank": 12,
+  "text": "Tony Allen Jealousy",
+  "k": 2,
+  "src": "dz",
+  "artist": "Tony Allen",
+  "album": "Jealousy",
+  "csv_artist": "Tony Allen"
+ },
+ {
+  "year": 1975,
+  "rank": 13,
+  "text": "Al Green Is Love",
+  "k": 2,
+  "src": "dz",
+  "artist": "Al Green",
+  "album": "Is Love",
+  "csv_artist": "Al Green"
+ },
+ {
+  "year": 1975,
+  "rank": 14,
+  "text": "Parliament Mothership Connection + Chocolate City",
+  "k": 1,
+  "src": "dz",
+  "artist": "Parliament",
+  "album": "Mothership Connection + Chocolate City",
+  "csv_artist": "Parliament"
+ },
+ {
+  "year": 1975,
+  "rank": 15,
+  "text": "Bruce Springsteen Born To Run",
+  "k": 2,
+  "src": "dz",
+  "artist": "Bruce Springsteen",
+  "album": "Born To Run",
+  "csv_artist": "Bruce Springsteen"
+ },
+ {
+  "year": 1975,
+  "rank": 16,
+  "text": "Keith Hudson Pick A Dub",
+  "k": 2,
+  "src": "dz",
+  "artist": "Keith Hudson",
+  "album": "Pick A Dub",
+  "csv_artist": "Keith Hudson"
+ },
+ {
+  "year": 1975,
+  "rank": 17,
+  "text": "Neil Young Tonight's The Night",
+  "k": 2,
+  "src": "dz",
+  "artist": "Neil Young",
+  "album": "Tonight's The Night",
+  "csv_artist": "Neil Young"
+ },
+ {
+  "year": 1975,
+  "rank": 18,
+  "text": "Fela Kuti & Africa 70 He Miss Road + Everything Scatter",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Fela Kuti",
+  "album": "& Africa 70 He Miss Road + Everything Scatter",
+  "csv_artist": "Fela Kuti & Africa 70"
+ },
+ {
+  "year": 1975,
+  "rank": 19,
+  "text": "Frank Zappa & The Mothers Of Invention One Size Fits All",
+  "k": 2,
+  "src": "dz",
+  "artist": "Frank Zappa",
+  "album": "& The Mothers Of Invention One Size Fits All",
+  "csv_artist": "Frank Zappa & The Mothers Of Invention"
+ },
+ {
+  "year": 1975,
+  "rank": 20,
+  "text": "Abba Abba",
+  "k": 1,
+  "src": "dz",
+  "artist": "Abba",
+  "album": "Abba",
+  "csv_artist": "Abba"
+ },
+ {
+  "year": 1976,
+  "rank": 1,
+  "text": "Ramones Ramones",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ramones",
+  "album": "Ramones",
+  "csv_artist": "Ramones"
+ },
+ {
+  "year": 1976,
+  "rank": 2,
+  "text": "The Modern Lovers The Modern Lovers",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Modern Lovers",
+  "album": "The Modern Lovers",
+  "csv_artist": "The Modern Lovers"
+ },
+ {
+  "year": 1976,
+  "rank": 3,
+  "text": "Blondie Blondie",
+  "k": 1,
+  "src": "dz",
+  "artist": "Blondie",
+  "album": "Blondie",
+  "csv_artist": "Blondie"
+ },
+ {
+  "year": 1976,
+  "rank": 4,
+  "text": "Eddie & The Hot Rods Teenage Depression",
+  "k": 5,
+  "src": "dzartist",
+  "artist": "Eddie & The Hot Rods",
+  "album": "Teenage Depression",
+  "csv_artist": "Eddie & The Hot Rods"
+ },
+ {
+  "year": 1976,
+  "rank": 5,
+  "text": "Stevie Wonder Songs In The Key Of Life",
+  "k": 2,
+  "src": "dz",
+  "artist": "Stevie Wonder",
+  "album": "Songs In The Key Of Life",
+  "csv_artist": "Stevie Wonder"
+ },
+ {
+  "year": 1976,
+  "rank": 6,
+  "text": "Lee «Scratch» Perry Super Ape",
+  "k": 3,
+  "src": "dz",
+  "artist": "Lee «Scratch» Perry",
+  "album": "Super Ape",
+  "csv_artist": "Lee 'Scratch' Perry"
+ },
+ {
+  "year": 1976,
+  "rank": 7,
+  "text": "David Bowie Station To Station",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Station To Station",
+  "csv_artist": null
+ },
+ {
+  "year": 1976,
+  "rank": 8,
+  "text": "Donna Summer A Love Trilogy + Four Seasons Of Love",
+  "k": 2,
+  "src": "dz",
+  "artist": "Donna Summer",
+  "album": "A Love Trilogy + Four Seasons Of Love",
+  "csv_artist": null
+ },
+ {
+  "year": 1976,
+  "rank": 9,
+  "text": "The Flamin' Groovies Shake Some Action",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Flamin' Groovies",
+  "album": "Shake Some Action",
+  "csv_artist": "The Flamin' Groovies"
+ },
+ {
+  "year": 1976,
+  "rank": 10,
+  "text": "Lou Reed Coney Island Baby",
+  "k": 2,
+  "src": "dz",
+  "artist": "Lou Reed",
+  "album": "Coney Island Baby",
+  "csv_artist": "Lou Reed"
+ },
+ {
+  "year": 1976,
+  "rank": 11,
+  "text": "Peter Tosh Legalize It",
+  "k": 2,
+  "src": "dz",
+  "artist": "Peter Tosh",
+  "album": "Legalize It",
+  "csv_artist": "Peter Tosh"
+ },
+ {
+  "year": 1976,
+  "rank": 12,
+  "text": "The Residents The Third Reich'n'Roll",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Residents",
+  "album": "The Third Reich'n'Roll",
+  "csv_artist": "The Residents"
+ },
+ {
+  "year": 1976,
+  "rank": 13,
+  "text": "Fela Kuti & Africa 70 Kalakuta Show",
+  "k": 2,
+  "src": "dz",
+  "artist": "Fela Kuti",
+  "album": "& Africa 70 Kalakuta Show",
+  "csv_artist": "Fela Kuti & Africa 70"
+ },
+ {
+  "year": 1976,
+  "rank": 14,
+  "text": "Max Romeo War Ina Babylon",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Max Romeo",
+  "album": "War Ina Babylon",
+  "csv_artist": "Max Romeo"
+ },
+ {
+  "year": 1976,
+  "rank": 15,
+  "text": "Toots & The Maytals Reggae Got Soul",
+  "k": 4,
+  "src": "dz",
+  "artist": "Toots & The Maytals",
+  "album": "Reggae Got Soul",
+  "csv_artist": "Toots & The Maytals"
+ },
+ {
+  "year": 1976,
+  "rank": 16,
+  "text": "Chris Spedding Chris Spedding",
+  "k": 2,
+  "src": "dz",
+  "artist": "Chris Spedding",
+  "album": "Chris Spedding",
+  "csv_artist": "Chris Spedding"
+ },
+ {
+  "year": 1976,
+  "rank": 17,
+  "text": "The Mighty Diamonds Right Time",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Mighty Diamonds",
+  "album": "Right Time",
+  "csv_artist": "The Mighty Diamonds"
+ },
+ {
+  "year": 1976,
+  "rank": 18,
+  "text": "Bohannon Dance Your Ass Off",
+  "k": 1,
+  "src": "dz",
+  "artist": "Bohannon",
+  "album": "Dance Your Ass Off",
+  "csv_artist": "Bohannon"
+ },
+ {
+  "year": 1976,
+  "rank": 19,
+  "text": "Dillinger CB 200",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Dillinger",
+  "album": "CB 200",
+  "csv_artist": "Dillinger"
+ },
+ {
+  "year": 1976,
+  "rank": 20,
+  "text": "Bunny Wailer Blackheart Man",
+  "k": 2,
+  "src": "dz",
+  "artist": "Bunny Wailer",
+  "album": "Blackheart Man",
+  "csv_artist": "Bunny Wailer"
+ },
+ {
+  "year": 1977,
+  "rank": 1,
+  "text": "The Saints I'm Stranded",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Saints",
+  "album": "I'm Stranded",
+  "csv_artist": "The Saints"
+ },
+ {
+  "year": 1977,
+  "rank": 2,
+  "text": "Kraftwerk Trans Europe Express",
+  "k": 1,
+  "src": "dz",
+  "artist": "Kraftwerk",
+  "album": "Trans Europe Express",
+  "csv_artist": "Kraftwerk"
+ },
+ {
+  "year": 1977,
+  "rank": 3,
+  "text": "Suicide Suicide",
+  "k": 1,
+  "src": "dz",
+  "artist": "Suicide",
+  "album": "Suicide",
+  "csv_artist": "Suicide"
+ },
+ {
+  "year": 1977,
+  "rank": 4,
+  "text": "Wire Pink Flag",
+  "k": 1,
+  "src": "dz",
+  "artist": "Wire",
+  "album": "Pink Flag",
+  "csv_artist": "Wire"
+ },
+ {
+  "year": 1977,
+  "rank": 5,
+  "text": "Iggy Pop The Idiot + Lust For Life",
+  "k": 2,
+  "src": "dz",
+  "artist": "Iggy Pop",
+  "album": "The Idiot + Lust For Life",
+  "csv_artist": "Iggy Pop"
+ },
+ {
+  "year": 1977,
+  "rank": 6,
+  "text": "The Clash The Clash",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Clash",
+  "album": "The Clash",
+  "csv_artist": "The Clash"
+ },
+ {
+  "year": 1977,
+  "rank": 7,
+  "text": "Johnny Thunders & The Heartbreakers L.A.M.F.",
+  "k": 5,
+  "src": "dz",
+  "artist": "Johnny Thunders & The Heartbreakers",
+  "album": "L.A.M.F.",
+  "csv_artist": "Johnny Thunders & The Heartbreakers"
+ },
+ {
+  "year": 1977,
+  "rank": 8,
+  "text": "Talking Heads '77",
+  "k": 2,
+  "src": "dz",
+  "artist": "Talking Heads",
+  "album": "'77",
+  "csv_artist": "Talking Heads"
+ },
+ {
+  "year": 1977,
+  "rank": 9,
+  "text": "Ramones Leave Home + Rocket To Russia",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ramones",
+  "album": "Leave Home + Rocket To Russia",
+  "csv_artist": "Ramones"
+ },
+ {
+  "year": 1977,
+  "rank": 10,
+  "text": "Television Marquee Moon",
+  "k": 1,
+  "src": "dz",
+  "artist": "Television",
+  "album": "Marquee Moon",
+  "csv_artist": "Television"
+ },
+ {
+  "year": 1977,
+  "rank": 11,
+  "text": "David Bowie Low + Heroes",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Low + Heroes",
+  "csv_artist": "David Bowie"
+ },
+ {
+  "year": 1977,
+  "rank": 12,
+  "text": "The Stranglers Rattus Norvegicus + No More Heroes",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Stranglers",
+  "album": "Rattus Norvegicus + No More Heroes",
+  "csv_artist": "The Stranglers"
+ },
+ {
+  "year": 1977,
+  "rank": 13,
+  "text": "The Sex Pistols Nevermind The Bollocks",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "The",
+  "album": "Sex Pistols Nevermind The Bollocks",
+  "csv_artist": "The Sex Pistols"
+ },
+ {
+  "year": 1977,
+  "rank": 14,
+  "text": "The Jam In The City",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Jam",
+  "album": "In The City",
+  "csv_artist": "The Jam"
+ },
+ {
+  "year": 1977,
+  "rank": 15,
+  "text": "Damned Damned Damned Damned",
+  "k": 1,
+  "src": "dz",
+  "artist": "Damned",
+  "album": "Damned Damned Damned",
+  "csv_artist": "Damned"
+ },
+ {
+  "year": 1977,
+  "rank": 16,
+  "text": "Cerrone Supernature",
+  "k": 1,
+  "src": "dz",
+  "artist": "Cerrone",
+  "album": "Supernature",
+  "csv_artist": "Cerrone"
+ },
+ {
+  "year": 1977,
+  "rank": 17,
+  "text": "Parliament Funkentelechy Vs The Placebo Syndrome",
+  "k": 1,
+  "src": "dz",
+  "artist": "Parliament",
+  "album": "Funkentelechy Vs The Placebo Syndrome",
+  "csv_artist": "Parliament"
+ },
+ {
+  "year": 1977,
+  "rank": 18,
+  "text": "Blondie Plastic Letters",
+  "k": 1,
+  "src": "dz",
+  "artist": "Blondie",
+  "album": "Plastic Letters",
+  "csv_artist": "Blondie"
+ },
+ {
+  "year": 1977,
+  "rank": 19,
+  "text": "Richard Hell & the Voidoids Blank Generation",
+  "k": 5,
+  "src": "dz",
+  "artist": "Richard Hell & the Voidoids",
+  "album": "Blank Generation",
+  "csv_artist": "Richard Hell & The Voidoids"
+ },
+ {
+  "year": 1977,
+  "rank": 20,
+  "text": "Donna Summer Once Upon A Time",
+  "k": 2,
+  "src": "dz",
+  "artist": "Donna Summer",
+  "album": "Once Upon A Time",
+  "csv_artist": "Donna Summer"
+ },
+ {
+  "year": 1978,
+  "rank": 1,
+  "text": "Devo Q: Are We Not Men? A: We Are Devo",
+  "k": 1,
+  "src": "dz",
+  "artist": "Devo",
+  "album": "Q: Are We Not Men? A: We Are Devo",
+  "csv_artist": "Devo"
+ },
+ {
+  "year": 1978,
+  "rank": 2,
+  "text": "Public Image Limited Public Image",
+  "k": 3,
+  "src": "dz",
+  "artist": "Public Image Limited",
+  "album": "Public Image",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 3,
+  "text": "Kraftwerk The Man Machine",
+  "k": 1,
+  "src": "dz",
+  "artist": "Kraftwerk",
+  "album": "The Man Machine",
+  "csv_artist": "Kraftwerk"
+ },
+ {
+  "year": 1978,
+  "rank": 4,
+  "text": "Pere Ubu The Modern Dance + Dub Housing",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pere Ubu",
+  "album": "The Modern Dance + Dub Housing",
+  "csv_artist": "Pere Ubu"
+ },
+ {
+  "year": 1978,
+  "rank": 5,
+  "text": "The Jam All Mod Cons",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Jam",
+  "album": "All Mod Cons",
+  "csv_artist": "The Jam"
+ },
+ {
+  "year": 1978,
+  "rank": 6,
+  "text": "The Police Outlandos D'Amour",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Police",
+  "album": "Outlandos D'Amour",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 7,
+  "text": "The Saints Eternally Yours + Prehistoric Sounds",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Saints",
+  "album": "Eternally Yours + Prehistoric Sounds",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 8,
+  "text": "Buzzcocks Another Music In A Different Kitchen + Love Bites",
+  "k": 1,
+  "src": "dz",
+  "artist": "Buzzcocks",
+  "album": "Another Music In A Different Kitchen + Love Bites",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 9,
+  "text": "Throbbing Gristle D.O.A.",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Throbbing Gristle",
+  "album": "D.O.A.",
+  "csv_artist": "Throbbing Gristle"
+ },
+ {
+  "year": 1978,
+  "rank": 10,
+  "text": "Blondie Parallel Lines",
+  "k": 1,
+  "src": "dz",
+  "artist": "Blondie",
+  "album": "Parallel Lines",
+  "csv_artist": "Blondie"
+ },
+ {
+  "year": 1978,
+  "rank": 11,
+  "text": "Ramones Road To Ruin",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ramones",
+  "album": "Road To Ruin",
+  "csv_artist": "Ramones"
+ },
+ {
+  "year": 1978,
+  "rank": 12,
+  "text": "DMZ Dmz",
+  "k": 1,
+  "src": "dz",
+  "artist": "DMZ",
+  "album": "Dmz",
+  "csv_artist": "DMZ"
+ },
+ {
+  "year": 1978,
+  "rank": 13,
+  "text": "XTC White Music + Go 2",
+  "k": 1,
+  "src": "dz",
+  "artist": "XTC",
+  "album": "White Music + Go 2",
+  "csv_artist": "XTC"
+ },
+ {
+  "year": 1978,
+  "rank": 14,
+  "text": "Moon Martin Shots From A Cold Nightmare",
+  "k": 2,
+  "src": "dz",
+  "artist": "Moon Martin",
+  "album": "Shots From A Cold Nightmare",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 15,
+  "text": "Dire Straits Dire Straits",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dire Straits",
+  "album": "Dire Straits",
+  "csv_artist": null
+ },
+ {
+  "year": 1978,
+  "rank": 16,
+  "text": "Funkadelic One Nation Under A Groove",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Funkadelic",
+  "album": "One Nation Under A Groove",
+  "csv_artist": "Funkadelic"
+ },
+ {
+  "year": 1978,
+  "rank": 17,
+  "text": "Magazine Real Life",
+  "k": 1,
+  "src": "dz",
+  "artist": "Magazine",
+  "album": "Real Life",
+  "csv_artist": "Magazine"
+ },
+ {
+  "year": 1978,
+  "rank": 18,
+  "text": "Elvis Costello This Year's Model",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Elvis Costello",
+  "album": "This Year's Model",
+  "csv_artist": "Elvis Costello"
+ },
+ {
+  "year": 1978,
+  "rank": 19,
+  "text": "The Clash Give'em Enough Rope",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Clash",
+  "album": "Give'em Enough Rope",
+  "csv_artist": "The Clash"
+ },
+ {
+  "year": 1978,
+  "rank": 20,
+  "text": "Talking Heads More Songs About Building & Food",
+  "k": 2,
+  "src": "dz",
+  "artist": "Talking Heads",
+  "album": "More Songs About Building & Food",
+  "csv_artist": null
+ },
+ {
+  "year": 1980,
+  "rank": 1,
+  "text": "Joy Division Closer",
+  "k": 2,
+  "src": "dz",
+  "artist": "Joy Division",
+  "album": "Closer",
+  "csv_artist": "Joy Division"
+ },
+ {
+  "year": 1980,
+  "rank": 2,
+  "text": "Talking Heads Remain In Light",
+  "k": 2,
+  "src": "dz",
+  "artist": "Talking Heads",
+  "album": "Remain In Light",
+  "csv_artist": "Talking Heads"
+ },
+ {
+  "year": 1980,
+  "rank": 3,
+  "text": "The Young Marble Giants Colossal Youth",
+  "k": 4,
+  "src": "dz",
+  "artist": "The Young Marble Giants",
+  "album": "Colossal Youth",
+  "csv_artist": "The Young Marble Giants"
+ },
+ {
+  "year": 1980,
+  "rank": 4,
+  "text": "Killing Joke Killing Joke",
+  "k": 2,
+  "src": "dz",
+  "artist": "Killing Joke",
+  "album": "Killing Joke",
+  "csv_artist": "Killing Joke"
+ },
+ {
+  "year": 1980,
+  "rank": 5,
+  "text": "XTC Black Sea",
+  "k": 1,
+  "src": "dz",
+  "artist": "XTC",
+  "album": "Black Sea",
+  "csv_artist": "XTC"
+ },
+ {
+  "year": 1980,
+  "rank": 6,
+  "text": "The Pretenders The Pretenders",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Pretenders",
+  "album": "The Pretenders",
+  "csv_artist": "The Pretenders"
+ },
+ {
+  "year": 1980,
+  "rank": 7,
+  "text": "The Feelies Crazy Rhythms",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Feelies",
+  "album": "Crazy Rhythms",
+  "csv_artist": "The Feelies"
+ },
+ {
+  "year": 1980,
+  "rank": 8,
+  "text": "The Cure Seventeen Seconds",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Cure",
+  "album": "Seventeen Seconds",
+  "csv_artist": "The Cure"
+ },
+ {
+  "year": 1980,
+  "rank": 9,
+  "text": "The Specials More Specials",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Specials",
+  "album": "More Specials",
+  "csv_artist": "The Specials"
+ },
+ {
+  "year": 1980,
+  "rank": 10,
+  "text": "Ultravox Vienna",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ultravox",
+  "album": "Vienna",
+  "csv_artist": "Ultravox"
+ },
+ {
+  "year": 1980,
+  "rank": 11,
+  "text": "Simple Minds Empires & Dance",
+  "k": 2,
+  "src": "dz",
+  "artist": "Simple Minds",
+  "album": "Empires & Dance",
+  "csv_artist": "Simple Minds"
+ },
+ {
+  "year": 1980,
+  "rank": 12,
+  "text": "The Cramps Songs The Lord Taught Us",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Cramps",
+  "album": "Songs The Lord Taught Us",
+  "csv_artist": null
+ },
+ {
+  "year": 1980,
+  "rank": 13,
+  "text": "The Monochrome Set The Strange Boutique + Love Zombies",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Monochrome Set",
+  "album": "The Strange Boutique + Love Zombies",
+  "csv_artist": null
+ },
+ {
+  "year": 1980,
+  "rank": 14,
+  "text": "Orchestral Manoeuvres In The Dark O.M.D. + Organisation",
+  "k": 5,
+  "src": "dz",
+  "artist": "Orchestral Manoeuvres In The Dark",
+  "album": "O.M.D. + Organisation",
+  "csv_artist": "Orchestral Manoeuvres In The Dark"
+ },
+ {
+  "year": 1980,
+  "rank": 15,
+  "text": "The Dead Kennedys Fresh Fruit For Rotting Vegetables",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Dead Kennedys",
+  "album": "Fresh Fruit For Rotting Vegetables",
+  "csv_artist": "The Dead Kennedys"
+ },
+ {
+  "year": 1980,
+  "rank": 16,
+  "text": "The B-52's Wild Planet",
+  "k": 2,
+  "src": "dz",
+  "artist": "The B-52's",
+  "album": "Wild Planet",
+  "csv_artist": "The B-52's"
+ },
+ {
+  "year": 1980,
+  "rank": 17,
+  "text": "Echo & The Bunnymen Crocodiles",
+  "k": 4,
+  "src": "dz",
+  "artist": "Echo & The Bunnymen",
+  "album": "Crocodiles",
+  "csv_artist": "Echo & The Bunnymen"
+ },
+ {
+  "year": 1980,
+  "rank": 18,
+  "text": "The Undertones Hypnotised",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Undertones",
+  "album": "Hypnotised",
+  "csv_artist": "The Undertones"
+ },
+ {
+  "year": 1980,
+  "rank": 19,
+  "text": "The Clash Sandinista",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Clash",
+  "album": "Sandinista",
+  "csv_artist": "The Clash"
+ },
+ {
+  "year": 1980,
+  "rank": 20,
+  "text": "David Bowie Scary Monsters",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Bowie",
+  "album": "Scary Monsters",
+  "csv_artist": "David Bowie"
+ },
+ {
+  "year": 1981,
+  "rank": 1,
+  "text": "Basement 5 1965-1980",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Basement 5",
+  "album": "1965-1980",
+  "csv_artist": "Basement 5"
+ },
+ {
+  "year": 1981,
+  "rank": 2,
+  "text": "Brian Eno & David Byrne My Life In A Bush Of Ghosts",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Brian Eno",
+  "album": "& David Byrne My Life In A Bush Of Ghosts",
+  "csv_artist": "Brian Eno & David Byrne"
+ },
+ {
+  "year": 1981,
+  "rank": 3,
+  "text": "Echo & The Bunnymen Heaven Up Here",
+  "k": 4,
+  "src": "dz",
+  "artist": "Echo & The Bunnymen",
+  "album": "Heaven Up Here",
+  "csv_artist": "Echo & The Bunnymen"
+ },
+ {
+  "year": 1981,
+  "rank": 4,
+  "text": "Kraftwerk Computer World",
+  "k": 1,
+  "src": "dz",
+  "artist": "Kraftwerk",
+  "album": "Computer World",
+  "csv_artist": "Kraftwerk"
+ },
+ {
+  "year": 1981,
+  "rank": 5,
+  "text": "The Human League Dare",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Human League",
+  "album": "Dare",
+  "csv_artist": "The Human League"
+ },
+ {
+  "year": 1981,
+  "rank": 6,
+  "text": "Au Pairs Playing With A Different Sex",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Au Pairs",
+  "album": "Playing With A Different Sex",
+  "csv_artist": "Au Pairs"
+ },
+ {
+  "year": 1981,
+  "rank": 7,
+  "text": "Heaven 17 Penthouse & Pavement",
+  "k": 2,
+  "src": "dz",
+  "artist": "Heaven 17",
+  "album": "Penthouse & Pavement",
+  "csv_artist": "Heaven 17"
+ },
+ {
+  "year": 1981,
+  "rank": 8,
+  "text": "The Stray Cats Stray Cats + Gonna Ball",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Stray Cats",
+  "album": "Stray Cats + Gonna Ball",
+  "csv_artist": null
+ },
+ {
+  "year": 1981,
+  "rank": 9,
+  "text": "Grace Jones Nightclubbing",
+  "k": 2,
+  "src": "dz",
+  "artist": "Grace Jones",
+  "album": "Nightclubbing",
+  "csv_artist": "Grace Jones"
+ },
+ {
+  "year": 1981,
+  "rank": 10,
+  "text": "Depeche Mode Speak & Spell",
+  "k": 2,
+  "src": "dz",
+  "artist": "Depeche Mode",
+  "album": "Speak & Spell",
+  "csv_artist": "Depeche Mode"
+ },
+ {
+  "year": 1981,
+  "rank": 11,
+  "text": "Ultravox Rage In Eden",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ultravox",
+  "album": "Rage In Eden",
+  "csv_artist": "Ultravox"
+ },
+ {
+  "year": 1981,
+  "rank": 12,
+  "text": "The Gun Club Fire Of Love",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Gun Club",
+  "album": "Fire Of Love",
+  "csv_artist": "The Gun Club"
+ },
+ {
+  "year": 1981,
+  "rank": 13,
+  "text": "New Order Movement",
+  "k": 2,
+  "src": "dz",
+  "artist": "New Order",
+  "album": "Movement",
+  "csv_artist": "New Order"
+ },
+ {
+  "year": 1981,
+  "rank": 14,
+  "text": "The Stranglers La Folie",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Stranglers",
+  "album": "La Folie",
+  "csv_artist": "The Stranglers"
+ },
+ {
+  "year": 1981,
+  "rank": 15,
+  "text": "D.A.F. Alles Ist Gut",
+  "k": 1,
+  "src": "dz",
+  "artist": "D.A.F.",
+  "album": "Alles Ist Gut",
+  "csv_artist": "D.A.F."
+ },
+ {
+  "year": 1981,
+  "rank": 16,
+  "text": "Squeeze Eastside Story",
+  "k": 1,
+  "src": "dz",
+  "artist": "Squeeze",
+  "album": "Eastside Story",
+  "csv_artist": "Squeeze"
+ },
+ {
+  "year": 1981,
+  "rank": 17,
+  "text": "The Cramps Psychedelic Jungle",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Cramps",
+  "album": "Psychedelic Jungle",
+  "csv_artist": "The Cramps"
+ },
+ {
+  "year": 1981,
+  "rank": 18,
+  "text": "Gang Of Four Solid Gold",
+  "k": 3,
+  "src": "dz",
+  "artist": "Gang Of Four",
+  "album": "Solid Gold",
+  "csv_artist": "Gang Of Four"
+ },
+ {
+  "year": 1981,
+  "rank": 19,
+  "text": "The Cure Faith",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Cure",
+  "album": "Faith",
+  "csv_artist": "The Cure"
+ },
+ {
+  "year": 1981,
+  "rank": 20,
+  "text": "Joseph K The Only Fun In Town",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Joseph K",
+  "album": "The Only Fun In Town",
+  "csv_artist": "Joseph K"
+ },
+ {
+  "year": 1982,
+  "rank": 1,
+  "text": "XTC English Settlement",
+  "k": 1,
+  "src": "dz",
+  "artist": "XTC",
+  "album": "English Settlement",
+  "csv_artist": "XTC"
+ },
+ {
+  "year": 1982,
+  "rank": 2,
+  "text": "The Jam The Gift",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Jam",
+  "album": "The Gift",
+  "csv_artist": "The Jam"
+ },
+ {
+  "year": 1982,
+  "rank": 3,
+  "text": "The Cure Pornography",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Cure",
+  "album": "Pornography",
+  "csv_artist": "The Cure"
+ },
+ {
+  "year": 1982,
+  "rank": 4,
+  "text": "X Under The Big Black Sun",
+  "k": 1,
+  "src": "dz",
+  "artist": "X",
+  "album": "Under The Big Black Sun",
+  "csv_artist": "X"
+ },
+ {
+  "year": 1982,
+  "rank": 5,
+  "text": "The Fun Boy Three Fun Boy 3",
+  "k": 4,
+  "src": "dz",
+  "artist": "The Fun Boy Three",
+  "album": "Fun Boy 3",
+  "csv_artist": null
+ },
+ {
+  "year": 1982,
+  "rank": 6,
+  "text": "The Dead Kennedys Plastic Surgery Disasters",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Dead Kennedys",
+  "album": "Plastic Surgery Disasters",
+  "csv_artist": null
+ },
+ {
+  "year": 1982,
+  "rank": 7,
+  "text": "Kid Creole & The Coconuts Tropical Gangsters",
+  "k": 5,
+  "src": "dzartist",
+  "artist": "Kid Creole & The Coconuts",
+  "album": "Tropical Gangsters",
+  "csv_artist": "Kid Creole & The Coconuts"
+ },
+ {
+  "year": 1982,
+  "rank": 8,
+  "text": "The London Cowboys Animal Pleasure",
+  "k": 3,
+  "src": "dz",
+  "artist": "The London Cowboys",
+  "album": "Animal Pleasure",
+  "csv_artist": "The London Cowboys"
+ },
+ {
+  "year": 1982,
+  "rank": 9,
+  "text": "Wall Of Voodoo Call Of The West",
+  "k": 3,
+  "src": "dz",
+  "artist": "Wall Of Voodoo",
+  "album": "Call Of The West",
+  "csv_artist": "Wall Of Voodoo"
+ },
+ {
+  "year": 1982,
+  "rank": 10,
+  "text": "Einstürzende Neubauten Kollaps",
+  "k": 2,
+  "src": "dz",
+  "artist": "Einstürzende Neubauten",
+  "album": "Kollaps",
+  "csv_artist": "Einsturzende Neubauten"
+ },
+ {
+  "year": 1982,
+  "rank": 11,
+  "text": "ABC The Lexicon Of Love",
+  "k": 1,
+  "src": "dz",
+  "artist": "ABC",
+  "album": "The Lexicon Of Love",
+  "csv_artist": "ABC"
+ },
+ {
+  "year": 1982,
+  "rank": 12,
+  "text": "Kevin Rowland & Dexys Midnight Runners Too Rye Aye",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Kevin Rowland",
+  "album": "& Dexys Midnight Runners Too Rye Aye",
+  "csv_artist": null
+ },
+ {
+  "year": 1982,
+  "rank": 13,
+  "text": "The Lords Of The New Church The Lords Of The New Church",
+  "k": 6,
+  "src": "dz",
+  "artist": "The Lords Of The New Church",
+  "album": "The Lords Of The New Church",
+  "csv_artist": "The Lords Of The New Church"
+ },
+ {
+  "year": 1982,
+  "rank": 14,
+  "text": "Fleshtones Roman Gods",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Fleshtones",
+  "album": "Roman Gods",
+  "csv_artist": "Fleshtones"
+ },
+ {
+  "year": 1982,
+  "rank": 15,
+  "text": "Marvin Gaye Midnight Love",
+  "k": 2,
+  "src": "dz",
+  "artist": "Marvin Gaye",
+  "album": "Midnight Love",
+  "csv_artist": "Marvin Gaye"
+ },
+ {
+  "year": 1982,
+  "rank": 16,
+  "text": "The Birthday Party Junkyard",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Birthday Party",
+  "album": "Junkyard",
+  "csv_artist": "The Birthday Party"
+ },
+ {
+  "year": 1982,
+  "rank": 17,
+  "text": "A Certain Ratio Sextet",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "A Certain Ratio",
+  "album": "Sextet",
+  "csv_artist": "A Certain Ratio"
+ },
+ {
+  "year": 1982,
+  "rank": 18,
+  "text": "Elvis Costello Imperial Bedroom",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Elvis Costello",
+  "album": "Imperial Bedroom",
+  "csv_artist": "Elvis Costello"
+ },
+ {
+  "year": 1982,
+  "rank": 19,
+  "text": "Laurie Anderson Big Science",
+  "k": 2,
+  "src": "dz",
+  "artist": "Laurie Anderson",
+  "album": "Big Science",
+  "csv_artist": "Laurie Anderson"
+ },
+ {
+  "year": 1982,
+  "rank": 20,
+  "text": "Tom Tom Club Tom Tom Club",
+  "k": 3,
+  "src": "dz",
+  "artist": "Tom Tom Club",
+  "album": "Tom Tom Club",
+  "csv_artist": "Tom Tom Club"
+ },
+ {
+  "year": 1983,
+  "rank": 1,
+  "text": "New Order Power, Corruption & Lies",
+  "k": 2,
+  "src": "dz",
+  "artist": "New Order",
+  "album": "Power, Corruption & Lies",
+  "csv_artist": "New Order"
+ },
+ {
+  "year": 1983,
+  "rank": 2,
+  "text": "Alan Vega Saturn Strip",
+  "k": 2,
+  "src": "dz",
+  "artist": "Alan Vega",
+  "album": "Saturn Strip",
+  "csv_artist": "Alan Vega"
+ },
+ {
+  "year": 1983,
+  "rank": 3,
+  "text": "Pete Shelley XL One",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Pete Shelley",
+  "album": "XL One",
+  "csv_artist": null
+ },
+ {
+  "year": 1983,
+  "rank": 4,
+  "text": "R.E.M. Murmur",
+  "k": 1,
+  "src": "dz",
+  "artist": "R.E.M.",
+  "album": "Murmur",
+  "csv_artist": "R.E.M."
+ },
+ {
+  "year": 1983,
+  "rank": 5,
+  "text": "The B-52's Whammy!",
+  "k": 2,
+  "src": "dz",
+  "artist": "The B-52's",
+  "album": "Whammy!",
+  "csv_artist": "The B-52's"
+ },
+ {
+  "year": 1983,
+  "rank": 6,
+  "text": "Echo & The Bunnymen Porcupine",
+  "k": 4,
+  "src": "dz",
+  "artist": "Echo & The Bunnymen",
+  "album": "Porcupine",
+  "csv_artist": "Echo & The Bunnymen"
+ },
+ {
+  "year": 1983,
+  "rank": 7,
+  "text": "Malcolm McLaren Duck Rock",
+  "k": 2,
+  "src": "dz",
+  "artist": "Malcolm McLaren",
+  "album": "Duck Rock",
+  "csv_artist": "Malcolm McLaren"
+ },
+ {
+  "year": 1983,
+  "rank": 8,
+  "text": "The Undertones Sin Of Pride",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Undertones",
+  "album": "Sin Of Pride",
+  "csv_artist": "The Undertones"
+ },
+ {
+  "year": 1983,
+  "rank": 9,
+  "text": "The Stranglers Feline",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Stranglers",
+  "album": "Feline",
+  "csv_artist": "The Stranglers"
+ },
+ {
+  "year": 1983,
+  "rank": 10,
+  "text": "Einstürzende Neubauten Drawings Of Patient O.T.",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Einstürzende Neubauten",
+  "album": "Drawings Of Patient O.T.",
+  "csv_artist": "Einsturzende Neubauten"
+ },
+ {
+  "year": 1983,
+  "rank": 11,
+  "text": "Elvis Costello Punch The Clock",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Elvis Costello",
+  "album": "Punch The Clock",
+  "csv_artist": "Elvis Costello"
+ },
+ {
+  "year": 1983,
+  "rank": 12,
+  "text": "Bruce Joyner & The Plantations Way Down South",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Bruce Joyner",
+  "album": "& The Plantations Way Down South",
+  "csv_artist": null
+ },
+ {
+  "year": 1983,
+  "rank": 13,
+  "text": "The The Soul Mining",
+  "k": 2,
+  "src": "dz",
+  "artist": "The The",
+  "album": "Soul Mining",
+  "csv_artist": "The The"
+ },
+ {
+  "year": 1983,
+  "rank": 14,
+  "text": "Bauhaus Burning From The Inside",
+  "k": 1,
+  "src": "dz",
+  "artist": "Bauhaus",
+  "album": "Burning From The Inside",
+  "csv_artist": null
+ },
+ {
+  "year": 1983,
+  "rank": 15,
+  "text": "The Cramps Smell Of Female",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Cramps",
+  "album": "Smell Of Female",
+  "csv_artist": "The Cramps"
+ },
+ {
+  "year": 1983,
+  "rank": 16,
+  "text": "Dogs Legendary Lovers",
+  "k": 1,
+  "src": "dz",
+  "artist": "Dogs",
+  "album": "Legendary Lovers",
+  "csv_artist": null
+ },
+ {
+  "year": 1983,
+  "rank": 17,
+  "text": "The Chameleons Script Of The Bridge",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Chameleons",
+  "album": "Script Of The Bridge",
+  "csv_artist": null
+ },
+ {
+  "year": 1983,
+  "rank": 18,
+  "text": "Aztec Camera High Land Hard Rain",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Aztec Camera",
+  "album": "High Land Hard Rain",
+  "csv_artist": "Aztec Camera"
+ },
+ {
+  "year": 1983,
+  "rank": 19,
+  "text": "Violent Femmes Violent Femmes",
+  "k": 2,
+  "src": "dz",
+  "artist": "Violent Femmes",
+  "album": "Violent Femmes",
+  "csv_artist": "Violent Femmes"
+ },
+ {
+  "year": 1983,
+  "rank": 20,
+  "text": "XTC Mummer",
+  "k": 1,
+  "src": "dz",
+  "artist": "XTC",
+  "album": "Mummer",
+  "csv_artist": "XTC"
+ },
+ {
+  "year": 1985,
+  "rank": 1,
+  "text": "The Jesus & Mary Chain Psychocandy",
+  "k": 5,
+  "src": "dz",
+  "artist": "The Jesus & Mary Chain",
+  "album": "Psychocandy",
+  "csv_artist": "The Jesus & Mary Chain"
+ },
+ {
+  "year": 1985,
+  "rank": 2,
+  "text": "The Smiths Meat Is Murder",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Smiths",
+  "album": "Meat Is Murder",
+  "csv_artist": "The Smiths"
+ },
+ {
+  "year": 1985,
+  "rank": 3,
+  "text": "Einstürzende Neubauten Halber Mensch",
+  "k": 2,
+  "src": "dz",
+  "artist": "Einstürzende Neubauten",
+  "album": "Halber Mensch",
+  "csv_artist": "Einsturzende Neubauten"
+ },
+ {
+  "year": 1985,
+  "rank": 4,
+  "text": "New Order Lowlife",
+  "k": 2,
+  "src": "dz",
+  "artist": "New Order",
+  "album": "Lowlife",
+  "csv_artist": "New Order"
+ },
+ {
+  "year": 1985,
+  "rank": 5,
+  "text": "Hüsker Dü Flip Your Wig + New Day Rising",
+  "k": 2,
+  "src": "dz",
+  "artist": "Hüsker Dü",
+  "album": "Flip Your Wig + New Day Rising",
+  "csv_artist": null
+ },
+ {
+  "year": 1985,
+  "rank": 6,
+  "text": "Sonic Youth Bad Moon Rising",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sonic Youth",
+  "album": "Bad Moon Rising",
+  "csv_artist": null
+ },
+ {
+  "year": 1985,
+  "rank": 7,
+  "text": "Big Black Racer X",
+  "k": 2,
+  "src": "dz",
+  "artist": "Big Black",
+  "album": "Racer X",
+  "csv_artist": "Big Black"
+ },
+ {
+  "year": 1985,
+  "rank": 8,
+  "text": "Run DMC Kings Of Rock",
+  "k": 2,
+  "src": "dz",
+  "artist": "Run DMC",
+  "album": "Kings Of Rock",
+  "csv_artist": null
+ },
+ {
+  "year": 1985,
+  "rank": 9,
+  "text": "The Pogues Rum Sodomy & The Lash",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Pogues",
+  "album": "Rum Sodomy & The Lash",
+  "csv_artist": "The Pogues"
+ },
+ {
+  "year": 1985,
+  "rank": 10,
+  "text": "The Velvet Underground V.U.",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Velvet Underground",
+  "album": "V.U.",
+  "csv_artist": "The Velvet Underground"
+ },
+ {
+  "year": 1985,
+  "rank": 11,
+  "text": "Jeffrey Lee Pierce Wildweed",
+  "k": 3,
+  "src": "dz",
+  "artist": "Jeffrey Lee Pierce",
+  "album": "Wildweed",
+  "csv_artist": "Jeffrey Lee Pierce"
+ },
+ {
+  "year": 1985,
+  "rank": 12,
+  "text": "Nick Cave & The Bad Seeds The First Born Is Dead",
+  "k": 6,
+  "src": "dz",
+  "artist": "Nick Cave & The Bad Seeds",
+  "album": "The First Born Is Dead",
+  "csv_artist": "Nick Cave & The Bad Seeds"
+ },
+ {
+  "year": 1985,
+  "rank": 13,
+  "text": "Mantronix The Album",
+  "k": 1,
+  "src": "dz",
+  "artist": "Mantronix",
+  "album": "The Album",
+  "csv_artist": "Mantronix"
+ },
+ {
+  "year": 1985,
+  "rank": 14,
+  "text": "The Fall This Nation's Saving Grace",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Fall",
+  "album": "This Nation's Saving Grace",
+  "csv_artist": "The Fall"
+ },
+ {
+  "year": 1985,
+  "rank": 15,
+  "text": "The Woodentops Straight Eight Bushwalker",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Woodentops",
+  "album": "Straight Eight Bushwalker",
+  "csv_artist": null
+ },
+ {
+  "year": 1985,
+  "rank": 16,
+  "text": "Scraping Foetus Off The Wheel Nail",
+  "k": 5,
+  "src": "dz",
+  "artist": "Scraping Foetus Off The Wheel",
+  "album": "Nail",
+  "csv_artist": "Scraping Foetus Off The Wheel"
+ },
+ {
+  "year": 1985,
+  "rank": 17,
+  "text": "Prince Around The World In A Day",
+  "k": 1,
+  "src": "dz",
+  "artist": "Prince",
+  "album": "Around The World In A Day",
+  "csv_artist": "Prince"
+ },
+ {
+  "year": 1985,
+  "rank": 18,
+  "text": "The Cure The Head On The Door",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Cure",
+  "album": "The Head On The Door",
+  "csv_artist": "The Cure"
+ },
+ {
+  "year": 1985,
+  "rank": 19,
+  "text": "Spacemen 3 Sound Of Confusion",
+  "k": 2,
+  "src": "dz",
+  "artist": "Spacemen 3",
+  "album": "Sound Of Confusion",
+  "csv_artist": "Spacemen 3"
+ },
+ {
+  "year": 1985,
+  "rank": 20,
+  "text": "Fishbone Fishbone",
+  "k": 1,
+  "src": "dz",
+  "artist": "Fishbone",
+  "album": "Fishbone",
+  "csv_artist": "Fishbone"
+ },
+ {
+  "year": 1987,
+  "rank": 1,
+  "text": "Les Thugs Electric Troubles",
+  "k": 2,
+  "src": "dz",
+  "artist": "Les Thugs",
+  "album": "Electric Troubles",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 2,
+  "text": "Big Black Songs About Fucking",
+  "k": 2,
+  "src": "dz",
+  "artist": "Big Black",
+  "album": "Songs About Fucking",
+  "csv_artist": "Big Black"
+ },
+ {
+  "year": 1987,
+  "rank": 3,
+  "text": "Sonic Youth Sister",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sonic Youth",
+  "album": "Sister",
+  "csv_artist": "Sonic Youth"
+ },
+ {
+  "year": 1987,
+  "rank": 4,
+  "text": "Eric B & Rakim Paid In Full",
+  "k": 4,
+  "src": "dz",
+  "artist": "Eric B & Rakim",
+  "album": "Paid In Full",
+  "csv_artist": "Eric B. & Rakim"
+ },
+ {
+  "year": 1987,
+  "rank": 5,
+  "text": "That Petrol Emotion Babble",
+  "k": 3,
+  "src": "dz",
+  "artist": "That Petrol Emotion",
+  "album": "Babble",
+  "csv_artist": "That Petrol Emotion"
+ },
+ {
+  "year": 1987,
+  "rank": 6,
+  "text": "Pixies Come On Pilgrim",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pixies",
+  "album": "Come On Pilgrim",
+  "csv_artist": "Pixies"
+ },
+ {
+  "year": 1987,
+  "rank": 7,
+  "text": "The Young Gods Young Gods",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Young Gods",
+  "album": "Young Gods",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 8,
+  "text": "Boogie Down Productions Criminal Minded",
+  "k": 3,
+  "src": "dz",
+  "artist": "Boogie Down Productions",
+  "album": "Criminal Minded",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 9,
+  "text": "Butthole Surfers Locust Abortion Technician",
+  "k": 2,
+  "src": "dz",
+  "artist": "Butthole Surfers",
+  "album": "Locust Abortion Technician",
+  "csv_artist": "Butthole Surfers"
+ },
+ {
+  "year": 1987,
+  "rank": 10,
+  "text": "The Jesus & Mary Chain Darklands",
+  "k": 5,
+  "src": "dz",
+  "artist": "The Jesus & Mary Chain",
+  "album": "Darklands",
+  "csv_artist": "The Jesus & Mary Chain"
+ },
+ {
+  "year": 1987,
+  "rank": 11,
+  "text": "Negativland Escape From Noise",
+  "k": 1,
+  "src": "dz",
+  "artist": "Negativland",
+  "album": "Escape From Noise",
+  "csv_artist": "Negativland"
+ },
+ {
+  "year": 1987,
+  "rank": 12,
+  "text": "Public Enemy Yo! Bum Rush The Show",
+  "k": 2,
+  "src": "dz",
+  "artist": "Public Enemy",
+  "album": "Yo! Bum Rush The Show",
+  "csv_artist": "Public Enemy"
+ },
+ {
+  "year": 1987,
+  "rank": 13,
+  "text": "Yargo Bodybeat",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Yargo",
+  "album": "Bodybeat",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 14,
+  "text": "My Bloody Valentine Ecstasy",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "My Bloody Valentine",
+  "album": "Ecstasy",
+  "csv_artist": "My Bloody Valentine"
+ },
+ {
+  "year": 1987,
+  "rank": 15,
+  "text": "The Wedding Present George Best",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Wedding Present",
+  "album": "George Best",
+  "csv_artist": "The Wedding Present"
+ },
+ {
+  "year": 1987,
+  "rank": 16,
+  "text": "LL Cool J B.A.D.",
+  "k": 3,
+  "src": "dz",
+  "artist": "LL Cool J",
+  "album": "B.A.D.",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 17,
+  "text": "Prince Sign Of The Times",
+  "k": 1,
+  "src": "dz",
+  "artist": "Prince",
+  "album": "Sign Of The Times",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 18,
+  "text": "The Shamen Drop",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Shamen",
+  "album": "Drop",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 19,
+  "text": "Loop Heaven's End",
+  "k": 1,
+  "src": "dz",
+  "artist": "Loop",
+  "album": "Heaven's End",
+  "csv_artist": null
+ },
+ {
+  "year": 1987,
+  "rank": 20,
+  "text": "Dinosaur Jr. You're Living All Over Me",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dinosaur Jr.",
+  "album": "You're Living All Over Me",
+  "csv_artist": "Dinosaur Jr."
+ },
+ {
+  "year": 1988,
+  "rank": 1,
+  "text": "Public Enemy It Takes A Nation Of Millions To Hold Us Back",
+  "k": 2,
+  "src": "dz",
+  "artist": "Public Enemy",
+  "album": "It Takes A Nation Of Millions To Hold Us Back",
+  "csv_artist": "Public Enemy"
+ },
+ {
+  "year": 1988,
+  "rank": 2,
+  "text": "My Bloody Valentine Isn't Anything",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "My Bloody Valentine",
+  "album": "Isn't Anything",
+  "csv_artist": "My Bloody Valentine"
+ },
+ {
+  "year": 1988,
+  "rank": 3,
+  "text": "Pixies Surfer Rosa",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pixies",
+  "album": "Surfer Rosa",
+  "csv_artist": "Pixies"
+ },
+ {
+  "year": 1988,
+  "rank": 4,
+  "text": "Sonic Youth Daydream Nation",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sonic Youth",
+  "album": "Daydream Nation",
+  "csv_artist": "Sonic Youth"
+ },
+ {
+  "year": 1988,
+  "rank": 5,
+  "text": "Eric B & Rakim Follow The Leader",
+  "k": 4,
+  "src": "dz",
+  "artist": "Eric B & Rakim",
+  "album": "Follow The Leader",
+  "csv_artist": "Eric B. & Rakim"
+ },
+ {
+  "year": 1988,
+  "rank": 6,
+  "text": "World Domination Enterprises Let's Play Domination",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "World Domination",
+  "album": "Enterprises Let's Play Domination",
+  "csv_artist": "World Domination Enterprises"
+ },
+ {
+  "year": 1988,
+  "rank": 7,
+  "text": "The Justified Ancients Of Mumu Who Killed The Jams?",
+  "k": 5,
+  "src": "dzartist",
+  "artist": "The Justified Ancients Of Mumu",
+  "album": "Who Killed The Jams?",
+  "csv_artist": "The Justified Ancients Of Mu Mu"
+ },
+ {
+  "year": 1988,
+  "rank": 8,
+  "text": "Dinosaur Jr. Bug",
+  "k": 2,
+  "src": "dz",
+  "artist": "Dinosaur Jr.",
+  "album": "Bug",
+  "csv_artist": "Dinosaur Jr."
+ },
+ {
+  "year": 1988,
+  "rank": 9,
+  "text": "Nick Cave & The Bad Seeds Tender Prey",
+  "k": 6,
+  "src": "dz",
+  "artist": "Nick Cave & The Bad Seeds",
+  "album": "Tender Prey",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 10,
+  "text": "Happy Mondays Bummed",
+  "k": 2,
+  "src": "dz",
+  "artist": "Happy Mondays",
+  "album": "Bummed",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 11,
+  "text": "EPMD Strictly Business",
+  "k": 1,
+  "src": "dz",
+  "artist": "EPMD",
+  "album": "Strictly Business",
+  "csv_artist": "EPMD"
+ },
+ {
+  "year": 1988,
+  "rank": 12,
+  "text": "The Fall I Am Kurious, Oranj + The Frenz Experiment",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Fall",
+  "album": "I Am Kurious, Oranj + The Frenz Experiment",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 13,
+  "text": "Butthole Surfers Hairway To Steven",
+  "k": 2,
+  "src": "dz",
+  "artist": "Butthole Surfers",
+  "album": "Hairway To Steven",
+  "csv_artist": "Butthole Surfers"
+ },
+ {
+  "year": 1988,
+  "rank": 14,
+  "text": "Ultra Vivid Scene Ultra Vivid Scene",
+  "k": 3,
+  "src": "dz",
+  "artist": "Ultra Vivid Scene",
+  "album": "Ultra Vivid Scene",
+  "csv_artist": "Ultra Vivid Scene"
+ },
+ {
+  "year": 1988,
+  "rank": 15,
+  "text": "The Sugarcubes Life's Too Good",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Sugarcubes",
+  "album": "Life's Too Good",
+  "csv_artist": "The Sugarcubes"
+ },
+ {
+  "year": 1988,
+  "rank": 16,
+  "text": "Jungle Brothers Straight Outta Jungle",
+  "k": 2,
+  "src": "dz",
+  "artist": "Jungle Brothers",
+  "album": "Straight Outta Jungle",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 17,
+  "text": "Bomb The Bass Into The Dragon",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Bomb The Bass",
+  "album": "Into The Dragon",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 18,
+  "text": "Talk Talk Spirit Of Eden",
+  "k": 2,
+  "src": "dz",
+  "artist": "Talk Talk",
+  "album": "Spirit Of Eden",
+  "csv_artist": null
+ },
+ {
+  "year": 1988,
+  "rank": 19,
+  "text": "808 State New Build",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "808 State",
+  "album": "New Build",
+  "csv_artist": "808 State"
+ },
+ {
+  "year": 1988,
+  "rank": 20,
+  "text": "The Beatnigs The Beatnigs",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Beatnigs",
+  "album": "The Beatnigs",
+  "csv_artist": "The Beatnigs"
+ },
+ {
+  "year": 1989,
+  "rank": 1,
+  "text": "De la Soul Three Feet High & Rising",
+  "k": 3,
+  "src": "dz",
+  "artist": "De la Soul",
+  "album": "Three Feet High & Rising",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 2,
+  "text": "Pixies Doolittle",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pixies",
+  "album": "Doolittle",
+  "csv_artist": "Pixies"
+ },
+ {
+  "year": 1989,
+  "rank": 3,
+  "text": "The Stone Roses Stone Roses",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Stone Roses",
+  "album": "Stone Roses",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 4,
+  "text": "Nirvana Bleach",
+  "k": 1,
+  "src": "dz",
+  "artist": "Nirvana",
+  "album": "Bleach",
+  "csv_artist": "Nirvana"
+ },
+ {
+  "year": 1989,
+  "rank": 5,
+  "text": "The Young Gods L'Eau Rouge",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Young Gods",
+  "album": "L'Eau Rouge",
+  "csv_artist": "The Young Gods"
+ },
+ {
+  "year": 1989,
+  "rank": 6,
+  "text": "Beastie Boys Paul's Boutique",
+  "k": 2,
+  "src": "dz",
+  "artist": "Beastie Boys",
+  "album": "Paul's Boutique",
+  "csv_artist": "Beastie Boys"
+ },
+ {
+  "year": 1989,
+  "rank": 7,
+  "text": "Coldcut What's That Noise",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Coldcut",
+  "album": "What's That Noise",
+  "csv_artist": "Coldcut"
+ },
+ {
+  "year": 1989,
+  "rank": 8,
+  "text": "Happy Mondays Hallelujah",
+  "k": 2,
+  "src": "dz",
+  "artist": "Happy Mondays",
+  "album": "Hallelujah",
+  "csv_artist": "Happy Mondays"
+ },
+ {
+  "year": 1989,
+  "rank": 9,
+  "text": "808 State 90",
+  "k": 2,
+  "src": "dz",
+  "artist": "808 State",
+  "album": "90",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 10,
+  "text": "N.W.A. Straight Outta Compton",
+  "k": 1,
+  "src": "dz",
+  "artist": "N.W.A.",
+  "album": "Straight Outta Compton",
+  "csv_artist": "N.W.A."
+ },
+ {
+  "year": 1989,
+  "rank": 11,
+  "text": "Slint Tweez",
+  "k": 1,
+  "src": "dz",
+  "artist": "Slint",
+  "album": "Tweez",
+  "csv_artist": "Slint"
+ },
+ {
+  "year": 1989,
+  "rank": 12,
+  "text": "Inner City Paradise",
+  "k": 2,
+  "src": "dz",
+  "artist": "Inner City",
+  "album": "Paradise",
+  "csv_artist": "Inner City"
+ },
+ {
+  "year": 1989,
+  "rank": 13,
+  "text": "Mudhoney Superfuzz Bigmuff",
+  "k": 1,
+  "src": "dz",
+  "artist": "Mudhoney",
+  "album": "Superfuzz Bigmuff",
+  "csv_artist": "Mudhoney"
+ },
+ {
+  "year": 1989,
+  "rank": 14,
+  "text": "Soul II Soul Club Classics Volume I",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Soul II Soul",
+  "album": "Club Classics Volume I",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 15,
+  "text": "New Order Technique",
+  "k": 2,
+  "src": "dz",
+  "artist": "New Order",
+  "album": "Technique",
+  "csv_artist": "New Order"
+ },
+ {
+  "year": 1989,
+  "rank": 16,
+  "text": "Les Thugs Still Angry",
+  "k": 2,
+  "src": "dz",
+  "artist": "Les Thugs",
+  "album": "Still Angry",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 17,
+  "text": "No Means No Wrong",
+  "k": 3,
+  "src": "dz",
+  "artist": "No Means No",
+  "album": "Wrong",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 18,
+  "text": "Screaming Trees Buzz Factory",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Screaming Trees",
+  "album": "Buzz Factory",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 19,
+  "text": "The Wedding Present Bizarro",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Wedding Present",
+  "album": "Bizarro",
+  "csv_artist": null
+ },
+ {
+  "year": 1989,
+  "rank": 20,
+  "text": "Spacemen 3 Playing With Fire",
+  "k": 2,
+  "src": "dz",
+  "artist": "Spacemen 3",
+  "album": "Playing With Fire",
+  "csv_artist": "Spacemen 3"
+ },
+ {
+  "year": 1990,
+  "rank": 1,
+  "text": "Happy Mondays Pills'n'Thrills & Bellyaches",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Happy Mondays",
+  "album": "Pills'n'Thrills & Bellyaches",
+  "csv_artist": "Happy Mondays"
+ },
+ {
+  "year": 1990,
+  "rank": 2,
+  "text": "Eric B & Rakim Let The Rhythm Hit'em",
+  "k": 4,
+  "src": "dz",
+  "artist": "Eric B & Rakim",
+  "album": "Let The Rhythm Hit'em",
+  "csv_artist": "Eric B. & Rakim"
+ },
+ {
+  "year": 1990,
+  "rank": 3,
+  "text": "Sonic Youth Goo",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sonic Youth",
+  "album": "Goo",
+  "csv_artist": null
+ },
+ {
+  "year": 1990,
+  "rank": 4,
+  "text": "Public Enemy Fear Of A Black Planet",
+  "k": 2,
+  "src": "dz",
+  "artist": "Public Enemy",
+  "album": "Fear Of A Black Planet",
+  "csv_artist": "Public Enemy"
+ },
+ {
+  "year": 1990,
+  "rank": 5,
+  "text": "Pixies Bossanova",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pixies",
+  "album": "Bossanova",
+  "csv_artist": "Pixies"
+ },
+ {
+  "year": 1990,
+  "rank": 6,
+  "text": "Stereo Mc's Supernatural",
+  "k": 2,
+  "src": "dz",
+  "artist": "Stereo Mc's",
+  "album": "Supernatural",
+  "csv_artist": "Stereo MC's"
+ },
+ {
+  "year": 1990,
+  "rank": 7,
+  "text": "The Breeders Pod",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Breeders",
+  "album": "Pod",
+  "csv_artist": "The Breeders"
+ },
+ {
+  "year": 1990,
+  "rank": 8,
+  "text": "That Petrol Emotion Chemicrazy",
+  "k": 3,
+  "src": "dz",
+  "artist": "That Petrol Emotion",
+  "album": "Chemicrazy",
+  "csv_artist": "That Petrol Emotion"
+ },
+ {
+  "year": 1990,
+  "rank": 9,
+  "text": "Jungle Brothers Done By The Forces Of Nature",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Jungle Brothers",
+  "album": "Done By The Forces Of Nature",
+  "csv_artist": "Jungle Brothers"
+ },
+ {
+  "year": 1990,
+  "rank": 10,
+  "text": "The La's The La's",
+  "k": 2,
+  "src": "dz",
+  "artist": "The La's",
+  "album": "The La's",
+  "csv_artist": "The La's"
+ },
+ {
+  "year": 1990,
+  "rank": 11,
+  "text": "The KLF Chill Out",
+  "k": 2,
+  "src": "dz",
+  "artist": "The KLF",
+  "album": "Chill Out",
+  "csv_artist": null
+ },
+ {
+  "year": 1990,
+  "rank": 12,
+  "text": "Nick Cave & The Bad Seeds The Good Son",
+  "k": 6,
+  "src": "dz",
+  "artist": "Nick Cave & The Bad Seeds",
+  "album": "The Good Son",
+  "csv_artist": "Nick Cave & The Bad Seeds"
+ },
+ {
+  "year": 1990,
+  "rank": 13,
+  "text": "A Tribe Called Quest People's Instinctive Travels & The Paths Of Rhythm",
+  "k": 4,
+  "src": "dz",
+  "artist": "A Tribe Called Quest",
+  "album": "People's Instinctive Travels & The Paths Of Rhythm",
+  "csv_artist": "A Tribe Called Quest"
+ },
+ {
+  "year": 1990,
+  "rank": 14,
+  "text": "The Fall Extricate",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Fall",
+  "album": "Extricate",
+  "csv_artist": "The Fall"
+ },
+ {
+  "year": 1990,
+  "rank": 15,
+  "text": "Mazzy Star She Hangs Brightly",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mazzy Star",
+  "album": "She Hangs Brightly",
+  "csv_artist": "Mazzy Star"
+ },
+ {
+  "year": 1990,
+  "rank": 16,
+  "text": "Julee Cruise Floating Into The Night",
+  "k": 2,
+  "src": "dz",
+  "artist": "Julee Cruise",
+  "album": "Floating Into The Night",
+  "csv_artist": null
+ },
+ {
+  "year": 1990,
+  "rank": 17,
+  "text": "The Jackofficers Digital Dump",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "The",
+  "album": "Jackofficers Digital Dump",
+  "csv_artist": "The Jackofficers"
+ },
+ {
+  "year": 1990,
+  "rank": 18,
+  "text": "Fugazi Repeater",
+  "k": 1,
+  "src": "dz",
+  "artist": "Fugazi",
+  "album": "Repeater",
+  "csv_artist": "Fugazi"
+ },
+ {
+  "year": 1990,
+  "rank": 19,
+  "text": "The Shamen En-tact",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Shamen",
+  "album": "En-tact",
+  "csv_artist": "The Shamen"
+ },
+ {
+  "year": 1990,
+  "rank": 20,
+  "text": "Deee-Lite World Clique",
+  "k": 1,
+  "src": "dz",
+  "artist": "Deee-Lite",
+  "album": "World Clique",
+  "csv_artist": "Deee-Lite"
+ },
+ {
+  "year": 1991,
+  "rank": 1,
+  "text": "My Bloody Valentine Loveless",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "My Bloody Valentine",
+  "album": "Loveless",
+  "csv_artist": "My Bloody Valentine"
+ },
+ {
+  "year": 1991,
+  "rank": 2,
+  "text": "Nirvana Nevermind",
+  "k": 1,
+  "src": "dz",
+  "artist": "Nirvana",
+  "album": "Nevermind",
+  "csv_artist": "Nirvana"
+ },
+ {
+  "year": 1991,
+  "rank": 3,
+  "text": "Massive Attack Blue Lines",
+  "k": 2,
+  "src": "dz",
+  "artist": "Massive Attack",
+  "album": "Blue Lines",
+  "csv_artist": "Massive Attack"
+ },
+ {
+  "year": 1991,
+  "rank": 4,
+  "text": "Primal Scream Screamadelica",
+  "k": 2,
+  "src": "dz",
+  "artist": "Primal Scream",
+  "album": "Screamadelica",
+  "csv_artist": "Primal Scream"
+ },
+ {
+  "year": 1991,
+  "rank": 5,
+  "text": "LFO Frequencies",
+  "k": 1,
+  "src": "dz",
+  "artist": "LFO",
+  "album": "Frequencies",
+  "csv_artist": "LFO"
+ },
+ {
+  "year": 1991,
+  "rank": 6,
+  "text": "The Orb Adventures Beyond The Ultraworld",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "The Orb",
+  "album": "Adventures Beyond The Ultraworld",
+  "csv_artist": "The Orb"
+ },
+ {
+  "year": 1991,
+  "rank": 7,
+  "text": "Mercury Rev Yerself Is Steam",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mercury Rev",
+  "album": "Yerself Is Steam",
+  "csv_artist": "Mercury Rev"
+ },
+ {
+  "year": 1991,
+  "rank": 8,
+  "text": "The KLF The White Room",
+  "k": 2,
+  "src": "dz",
+  "artist": "The KLF",
+  "album": "The White Room",
+  "csv_artist": "The KLF"
+ },
+ {
+  "year": 1991,
+  "rank": 9,
+  "text": "Orbital Orbital",
+  "k": 1,
+  "src": "dz",
+  "artist": "Orbital",
+  "album": "Orbital",
+  "csv_artist": "Orbital"
+ },
+ {
+  "year": 1991,
+  "rank": 10,
+  "text": "Nightmares On Wax A Word On Science",
+  "k": 3,
+  "src": "dz",
+  "artist": "Nightmares On Wax",
+  "album": "A Word On Science",
+  "csv_artist": "Nightmares On Wax"
+ },
+ {
+  "year": 1991,
+  "rank": 11,
+  "text": "Jesus Lizard Goat",
+  "k": 2,
+  "src": "dz",
+  "artist": "Jesus Lizard",
+  "album": "Goat",
+  "csv_artist": "Jesus Lizard"
+ },
+ {
+  "year": 1991,
+  "rank": 12,
+  "text": "Soundgarden Badmotorfinger",
+  "k": 1,
+  "src": "dz",
+  "artist": "Soundgarden",
+  "album": "Badmotorfinger",
+  "csv_artist": "Soundgarden"
+ },
+ {
+  "year": 1991,
+  "rank": 13,
+  "text": "Pixies Trompe Le Monde",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pixies",
+  "album": "Trompe Le Monde",
+  "csv_artist": "Pixies"
+ },
+ {
+  "year": 1991,
+  "rank": 14,
+  "text": "Consolidated Friendly Fascism",
+  "k": 1,
+  "src": "dz",
+  "artist": "Consolidated",
+  "album": "Friendly Fascism",
+  "csv_artist": "Consolidated"
+ },
+ {
+  "year": 1991,
+  "rank": 15,
+  "text": "808 State Ex:El",
+  "k": 2,
+  "src": "dz",
+  "artist": "808 State",
+  "album": "Ex:El",
+  "csv_artist": "808 State"
+ },
+ {
+  "year": 1991,
+  "rank": 16,
+  "text": "R.E.M. Out Of Time",
+  "k": 1,
+  "src": "dz",
+  "artist": "R.E.M.",
+  "album": "Out Of Time",
+  "csv_artist": "R.E.M."
+ },
+ {
+  "year": 1991,
+  "rank": 17,
+  "text": "X 101 X101",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "X",
+  "album": "101 X101",
+  "csv_artist": "X 101"
+ },
+ {
+  "year": 1991,
+  "rank": 18,
+  "text": "Therapy Babyteeth",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Therapy",
+  "album": "Babyteeth",
+  "csv_artist": "Therapy?"
+ },
+ {
+  "year": 1991,
+  "rank": 19,
+  "text": "Talk Talk Laughing Stock",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Talk Talk",
+  "album": "Laughing Stock",
+  "csv_artist": "Talk Talk"
+ },
+ {
+  "year": 1991,
+  "rank": 20,
+  "text": "Slint Spiderland",
+  "k": 1,
+  "src": "dz",
+  "artist": "Slint",
+  "album": "Spiderland",
+  "csv_artist": "Slint"
+ },
+ {
+  "year": 1992,
+  "rank": 1,
+  "text": "Nick Cave & The Bad Seeds Henry's Dream",
+  "k": 6,
+  "src": "dz",
+  "artist": "Nick Cave & The Bad Seeds",
+  "album": "Henry's Dream",
+  "csv_artist": "Nick Cave & The Bad Seeds"
+ },
+ {
+  "year": 1992,
+  "rank": 2,
+  "text": "Pavement Slanted & Enchanted",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pavement",
+  "album": "Slanted & Enchanted",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 3,
+  "text": "Sugar Copper Blue",
+  "k": 1,
+  "src": "dz",
+  "artist": "Sugar",
+  "album": "Copper Blue",
+  "csv_artist": "Sugar"
+ },
+ {
+  "year": 1992,
+  "rank": 4,
+  "text": "Prodigy Experience",
+  "k": 1,
+  "src": "dz",
+  "artist": "Prodigy",
+  "album": "Experience",
+  "csv_artist": "Prodigy"
+ },
+ {
+  "year": 1992,
+  "rank": 5,
+  "text": "PJ Harvey Dry",
+  "k": 2,
+  "src": "dz",
+  "artist": "PJ Harvey",
+  "album": "Dry",
+  "csv_artist": "PJ Harvey"
+ },
+ {
+  "year": 1992,
+  "rank": 6,
+  "text": "Ministry Psalm 69",
+  "k": 1,
+  "src": "dz",
+  "artist": "Ministry",
+  "album": "Psalm 69",
+  "csv_artist": "Ministry"
+ },
+ {
+  "year": 1992,
+  "rank": 7,
+  "text": "Shut up & Dance Death Is Not The End",
+  "k": 4,
+  "src": "dzartist",
+  "artist": "Shut up & Dance",
+  "album": "Death Is Not The End",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 8,
+  "text": "Th' Faith Healers Lido",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Th' Faith Healers",
+  "album": "Lido",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 9,
+  "text": "The Disposable Heroes Of Hiphoprisy Hypocrisy Is The Greatest Luxury",
+  "k": 5,
+  "src": "dz",
+  "artist": "The Disposable Heroes Of Hiphoprisy",
+  "album": "Hypocrisy Is The Greatest Luxury",
+  "csv_artist": "The Disposable Heroes Of Hiphoprisy"
+ },
+ {
+  "year": 1992,
+  "rank": 10,
+  "text": "X 102 Rings Of Saturn",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "X",
+  "album": "102 Rings Of Saturn",
+  "csv_artist": "X 102"
+ },
+ {
+  "year": 1992,
+  "rank": 11,
+  "text": "Lemonheads It's A Shame About Ray",
+  "k": 1,
+  "src": "dz",
+  "artist": "Lemonheads",
+  "album": "It's A Shame About Ray",
+  "csv_artist": "Lemonheads"
+ },
+ {
+  "year": 1992,
+  "rank": 12,
+  "text": "The Jesus Lizard Liar",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Jesus Lizard",
+  "album": "Liar",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 13,
+  "text": "R.E.M. Automatic For The People",
+  "k": 1,
+  "src": "dz",
+  "artist": "R.E.M.",
+  "album": "Automatic For The People",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 14,
+  "text": "The Orb UFOrb",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Orb",
+  "album": "UFOrb",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 15,
+  "text": "Nicolette Now Is Early",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Nicolette",
+  "album": "Now Is Early",
+  "csv_artist": "Nicolette"
+ },
+ {
+  "year": 1992,
+  "rank": 16,
+  "text": "Jeff Mills Waveform Transmissions Vol 1",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Jeff Mills",
+  "album": "Waveform Transmissions Vol 1",
+  "csv_artist": "Jeff Mills"
+ },
+ {
+  "year": 1992,
+  "rank": 17,
+  "text": "Arrested Development 5 Years, 3 Months & 2 Days",
+  "k": 2,
+  "src": "dz",
+  "artist": "Arrested Development",
+  "album": "5 Years, 3 Months & 2 Days",
+  "csv_artist": null
+ },
+ {
+  "year": 1992,
+  "rank": 18,
+  "text": "Beastie Boys Check Your Head",
+  "k": 2,
+  "src": "dz",
+  "artist": "Beastie Boys",
+  "album": "Check Your Head",
+  "csv_artist": "Beastie Boys"
+ },
+ {
+  "year": 1992,
+  "rank": 19,
+  "text": "Polygon Window Surfing On Sine Waves",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Polygon",
+  "album": "Window Surfing On Sine Waves",
+  "csv_artist": "Polygon Window"
+ },
+ {
+  "year": 1992,
+  "rank": 20,
+  "text": "The Young Gods TV Sky",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Young Gods",
+  "album": "TV Sky",
+  "csv_artist": "The Young Gods"
+ },
+ {
+  "year": 1993,
+  "rank": 1,
+  "text": "Björk Debut",
+  "k": 1,
+  "src": "dz",
+  "artist": "Björk",
+  "album": "Debut",
+  "csv_artist": "Bjork"
+ },
+ {
+  "year": 1993,
+  "rank": 2,
+  "text": "Tindersticks Tindersticks",
+  "k": 1,
+  "src": "dz",
+  "artist": "Tindersticks",
+  "album": "Tindersticks",
+  "csv_artist": null
+ },
+ {
+  "year": 1993,
+  "rank": 3,
+  "text": "Original Rockers Rockers To Rockers",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Original Rockers",
+  "album": "Rockers To Rockers",
+  "csv_artist": null
+ },
+ {
+  "year": 1993,
+  "rank": 4,
+  "text": "US3 Hand On The Torch",
+  "k": 1,
+  "src": "dz",
+  "artist": "US3",
+  "album": "Hand On The Torch",
+  "csv_artist": "US3"
+ },
+ {
+  "year": 1993,
+  "rank": 5,
+  "text": "Orbital Orbital 2",
+  "k": 1,
+  "src": "dz",
+  "artist": "Orbital",
+  "album": "Orbital 2",
+  "csv_artist": "Orbital"
+ },
+ {
+  "year": 1993,
+  "rank": 6,
+  "text": "Trans-Global Underground Dream Of 100 Nations",
+  "k": 2,
+  "src": "dz",
+  "artist": "Trans-Global Underground",
+  "album": "Dream Of 100 Nations",
+  "csv_artist": "Trans-Global Underground"
+ },
+ {
+  "year": 1993,
+  "rank": 7,
+  "text": "United Future Organization U.F.O.",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "United Future Organization",
+  "album": "U.F.O.",
+  "csv_artist": null
+ },
+ {
+  "year": 1993,
+  "rank": 8,
+  "text": "Black Dog Productions Bytes",
+  "k": 3,
+  "src": "dz",
+  "artist": "Black Dog Productions",
+  "album": "Bytes",
+  "csv_artist": "Black Dog Productions"
+ },
+ {
+  "year": 1993,
+  "rank": 9,
+  "text": "Mu-ziq Tango'n'vectif",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Mu-ziq",
+  "album": "Tango'n'vectif",
+  "csv_artist": "Mu-Ziq"
+ },
+ {
+  "year": 1993,
+  "rank": 10,
+  "text": "Guru Jazzmatazz",
+  "k": 1,
+  "src": "dz",
+  "artist": "Guru",
+  "album": "Jazzmatazz",
+  "csv_artist": "Guru"
+ },
+ {
+  "year": 1993,
+  "rank": 11,
+  "text": "Stereolab Transient Random-Noise Bursts With Announcements",
+  "k": 1,
+  "src": "dz",
+  "artist": "Stereolab",
+  "album": "Transient Random-Noise Bursts With Announcements",
+  "csv_artist": "Stereolab"
+ },
+ {
+  "year": 1993,
+  "rank": 12,
+  "text": "Frank Black Frank Black",
+  "k": 2,
+  "src": "dz",
+  "artist": "Frank Black",
+  "album": "Frank Black",
+  "csv_artist": "Frank Black"
+ },
+ {
+  "year": 1993,
+  "rank": 13,
+  "text": "Mazzy Star So Tonight That I Might See",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mazzy Star",
+  "album": "So Tonight That I Might See",
+  "csv_artist": "Mazzy Star"
+ },
+ {
+  "year": 1993,
+  "rank": 14,
+  "text": "Aphex Twin Selected Ambient Works 85-92",
+  "k": 2,
+  "src": "dz",
+  "artist": "Aphex Twin",
+  "album": "Selected Ambient Works 85-92",
+  "csv_artist": "Aphex Twin"
+ },
+ {
+  "year": 1993,
+  "rank": 15,
+  "text": "B12 Electro-Soma",
+  "k": 1,
+  "src": "dz",
+  "artist": "B12",
+  "album": "Electro-Soma",
+  "csv_artist": "B12"
+ },
+ {
+  "year": 1993,
+  "rank": 16,
+  "text": "Snoop Doggy Dogg Doggystyle",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Snoop",
+  "album": "Doggy Dogg Doggystyle",
+  "csv_artist": "Snoop Doggy Dogg"
+ },
+ {
+  "year": 1993,
+  "rank": 17,
+  "text": "The Boo Radleys Giant Steps",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Boo Radleys",
+  "album": "Giant Steps",
+  "csv_artist": "The Boo Radleys"
+ },
+ {
+  "year": 1993,
+  "rank": 18,
+  "text": "Autechre Incunabula",
+  "k": 1,
+  "src": "dz",
+  "artist": "Autechre",
+  "album": "Incunabula",
+  "csv_artist": "Autechre"
+ },
+ {
+  "year": 1993,
+  "rank": 19,
+  "text": "Cypress Hill Black Sunday",
+  "k": 2,
+  "src": "dz",
+  "artist": "Cypress Hill",
+  "album": "Black Sunday",
+  "csv_artist": "Cypress Hill"
+ },
+ {
+  "year": 1993,
+  "rank": 20,
+  "text": "The Auteurs New Wave",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Auteurs",
+  "album": "New Wave",
+  "csv_artist": "The Auteurs"
+ },
+ {
+  "year": 1995,
+  "rank": 1,
+  "text": "Tricky Maxinquaye",
+  "k": 1,
+  "src": "dz",
+  "artist": "Tricky",
+  "album": "Maxinquaye",
+  "csv_artist": "Tricky"
+ },
+ {
+  "year": 1995,
+  "rank": 2,
+  "text": "Leftfield Leftism",
+  "k": 1,
+  "src": "dz",
+  "artist": "Leftfield",
+  "album": "Leftism",
+  "csv_artist": "Leftfield"
+ },
+ {
+  "year": 1995,
+  "rank": 3,
+  "text": "Goldie Timeless",
+  "k": 1,
+  "src": "dz",
+  "artist": "Goldie",
+  "album": "Timeless",
+  "csv_artist": "Goldie"
+ },
+ {
+  "year": 1995,
+  "rank": 4,
+  "text": "St Germain Boulevard",
+  "k": 2,
+  "src": "dz",
+  "artist": "St Germain",
+  "album": "Boulevard",
+  "csv_artist": "St Germain"
+ },
+ {
+  "year": 1995,
+  "rank": 5,
+  "text": "DJ Krush Strictly Turntablized + Meiso",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "DJ Krush",
+  "album": "Strictly Turntablized + Meiso",
+  "csv_artist": "DJ Krush"
+ },
+ {
+  "year": 1995,
+  "rank": 6,
+  "text": "Tindersticks Tindersticks 2",
+  "k": 1,
+  "src": "dz",
+  "artist": "Tindersticks",
+  "album": "Tindersticks 2",
+  "csv_artist": "Tindersticks"
+ },
+ {
+  "year": 1995,
+  "rank": 7,
+  "text": "Pan Sonic Vakio",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pan Sonic",
+  "album": "Vakio",
+  "csv_artist": "Pan Sonic"
+ },
+ {
+  "year": 1995,
+  "rank": 8,
+  "text": "Autechre Tri Repetae",
+  "k": 1,
+  "src": "dz",
+  "artist": "Autechre",
+  "album": "Tri Repetae",
+  "csv_artist": "Autechre"
+ },
+ {
+  "year": 1995,
+  "rank": 9,
+  "text": "Mouse On Mars laora Tahiti",
+  "k": 3,
+  "src": "dz",
+  "artist": "Mouse On Mars",
+  "album": "laora Tahiti",
+  "csv_artist": null
+ },
+ {
+  "year": 1995,
+  "rank": 10,
+  "text": "The Chemical Brothers Exit Planet Dust",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Chemical Brothers",
+  "album": "Exit Planet Dust",
+  "csv_artist": "The Chemical Brothers"
+ },
+ {
+  "year": 1995,
+  "rank": 11,
+  "text": "PJ Harvey To Bring You My Love",
+  "k": 2,
+  "src": "dz",
+  "artist": "PJ Harvey",
+  "album": "To Bring You My Love",
+  "csv_artist": "PJ Harvey"
+ },
+ {
+  "year": 1995,
+  "rank": 12,
+  "text": "Björk Post",
+  "k": 1,
+  "src": "dz",
+  "artist": "Björk",
+  "album": "Post",
+  "csv_artist": "Bjork"
+ },
+ {
+  "year": 1995,
+  "rank": 13,
+  "text": "Oval 94 Diskont",
+  "k": 1,
+  "src": "dz",
+  "artist": "Oval",
+  "album": "94 Diskont",
+  "csv_artist": "Oval"
+ },
+ {
+  "year": 1995,
+  "rank": 14,
+  "text": "Foo Fighters Foo Fighters",
+  "k": 2,
+  "src": "dz",
+  "artist": "Foo Fighters",
+  "album": "Foo Fighters",
+  "csv_artist": "Foo Fighters"
+ },
+ {
+  "year": 1995,
+  "rank": 15,
+  "text": "The Mighty Bop La Vague Sensorielle + Meets DJ Cam & La Funk Mob",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Mighty Bop",
+  "album": "La Vague Sensorielle + Meets DJ Cam & La Funk Mob",
+  "csv_artist": "The Mighty Bop"
+ },
+ {
+  "year": 1995,
+  "rank": 16,
+  "text": "Wagon Christ Throbbing Pouch",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Wagon",
+  "album": "Christ Throbbing Pouch",
+  "csv_artist": "Wagon Christ"
+ },
+ {
+  "year": 1995,
+  "rank": 17,
+  "text": "Aphex Twin I Care Because You Do + Classics",
+  "k": 2,
+  "src": "dz",
+  "artist": "Aphex Twin",
+  "album": "I Care Because You Do + Classics",
+  "csv_artist": "Aphex Twin"
+ },
+ {
+  "year": 1995,
+  "rank": 18,
+  "text": "A Guy Called Gerald Black Secret Technology",
+  "k": 4,
+  "src": "dz",
+  "artist": "A Guy Called Gerald",
+  "album": "Black Secret Technology",
+  "csv_artist": "A Guy Called Gerald"
+ },
+ {
+  "year": 1995,
+  "rank": 19,
+  "text": "Carl Craig 6.9 The Sound Of Music",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Carl Craig",
+  "album": "6.9 The Sound Of Music",
+  "csv_artist": "Carl Craig"
+ },
+ {
+  "year": 1995,
+  "rank": 20,
+  "text": "DJ Cam Underground Vibes",
+  "k": 2,
+  "src": "dz",
+  "artist": "DJ Cam",
+  "album": "Underground Vibes",
+  "csv_artist": "DJ Cam"
+ },
+ {
+  "year": 1996,
+  "rank": 1,
+  "text": "DJ Shadow Endtroducing",
+  "k": 2,
+  "src": "dz",
+  "artist": "DJ Shadow",
+  "album": "Endtroducing",
+  "csv_artist": "DJ Shadow"
+ },
+ {
+  "year": 1996,
+  "rank": 2,
+  "text": "Daft Punk Homework",
+  "k": 2,
+  "src": "dz",
+  "artist": "Daft Punk",
+  "album": "Homework",
+  "csv_artist": "Daft Punk"
+ },
+ {
+  "year": 1996,
+  "rank": 3,
+  "text": "Motorbass Pansoul",
+  "k": 1,
+  "src": "dz",
+  "artist": "Motorbass",
+  "album": "Pansoul",
+  "csv_artist": "Motorbass"
+ },
+ {
+  "year": 1996,
+  "rank": 4,
+  "text": "Squarepusher Feed Me Weird Things",
+  "k": 1,
+  "src": "dz",
+  "artist": "Squarepusher",
+  "album": "Feed Me Weird Things",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 5,
+  "text": "Herbert 100 Lbs",
+  "k": 1,
+  "src": "dz",
+  "artist": "Herbert",
+  "album": "100 Lbs",
+  "csv_artist": "Herbert"
+ },
+ {
+  "year": 1996,
+  "rank": 6,
+  "text": "Paul Johnson Feel The Music",
+  "k": 2,
+  "src": "dz",
+  "artist": "Paul Johnson",
+  "album": "Feel The Music",
+  "csv_artist": "Paul Johnson"
+ },
+ {
+  "year": 1996,
+  "rank": 7,
+  "text": "Beck Odelay",
+  "k": 1,
+  "src": "dz",
+  "artist": "Beck",
+  "album": "Odelay",
+  "csv_artist": "Beck"
+ },
+ {
+  "year": 1996,
+  "rank": 8,
+  "text": "Porter Ricks Biokinetics",
+  "k": 2,
+  "src": "dz",
+  "artist": "Porter Ricks",
+  "album": "Biokinetics",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 9,
+  "text": "Superdiscount Superdiscount",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Superdiscount",
+  "album": "Superdiscount",
+  "csv_artist": "Super Discount"
+ },
+ {
+  "year": 1996,
+  "rank": 10,
+  "text": "Lamb Lamb",
+  "k": 1,
+  "src": "dz",
+  "artist": "Lamb",
+  "album": "Lamb",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 11,
+  "text": "Fat Boy Slim Better Living Through Chemistry",
+  "k": 3,
+  "src": "dz",
+  "artist": "Fat Boy Slim",
+  "album": "Better Living Through Chemistry",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 12,
+  "text": "Coldcut JDJ 70 Minutes Of Madness",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Coldcut",
+  "album": "JDJ 70 Minutes Of Madness",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 13,
+  "text": "Nicolette Let No One Live Rent Free In Your Head",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Nicolette",
+  "album": "Let No One Live Rent Free In Your Head",
+  "csv_artist": "Nicolette"
+ },
+ {
+  "year": 1996,
+  "rank": 14,
+  "text": "Basic Channel Basic Channel",
+  "k": 2,
+  "src": "dz",
+  "artist": "Basic Channel",
+  "album": "Basic Channel",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 15,
+  "text": "Dave Clarke X-mix Electro Boogie + Archive 1",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Dave Clarke",
+  "album": "X-mix Electro Boogie + Archive 1",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 16,
+  "text": "Belle & Sebastian If You're Feeling Sinister",
+  "k": 3,
+  "src": "dz",
+  "artist": "Belle & Sebastian",
+  "album": "If You're Feeling Sinister",
+  "csv_artist": null
+ },
+ {
+  "year": 1996,
+  "rank": 17,
+  "text": "Alec Empire The Destroyer + Hypermodern Jazz 2000",
+  "k": 2,
+  "src": "dz",
+  "artist": "Alec Empire",
+  "album": "The Destroyer + Hypermodern Jazz 2000",
+  "csv_artist": "Alec Empire"
+ },
+ {
+  "year": 1996,
+  "rank": 18,
+  "text": "LTJ Bukem Logical Progression",
+  "k": 2,
+  "src": "dz",
+  "artist": "LTJ Bukem",
+  "album": "Logical Progression",
+  "csv_artist": "LTJ Bukem"
+ },
+ {
+  "year": 1996,
+  "rank": 19,
+  "text": "Dimitri From Paris Sacrebleu",
+  "k": 3,
+  "src": "dz",
+  "artist": "Dimitri From Paris",
+  "album": "Sacrebleu",
+  "csv_artist": "Dimitri From Paris"
+ },
+ {
+  "year": 1996,
+  "rank": 20,
+  "text": "The Wiseguys Executive Suite",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Wiseguys",
+  "album": "Executive Suite",
+  "csv_artist": "The Wiseguys"
+ },
+ {
+  "year": 1997,
+  "rank": 1,
+  "text": "Roni Size & Reprazent New Forms",
+  "k": 2,
+  "src": "dz",
+  "artist": "Roni Size",
+  "album": "& Reprazent New Forms",
+  "csv_artist": "Roni Size & Reprazent"
+ },
+ {
+  "year": 1997,
+  "rank": 2,
+  "text": "Major Force The Original Art-Form",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Major Force",
+  "album": "The Original Art-Form",
+  "csv_artist": "Major Force"
+ },
+ {
+  "year": 1997,
+  "rank": 3,
+  "text": "Radiohead OK Computer",
+  "k": 1,
+  "src": "dz",
+  "artist": "Radiohead",
+  "album": "OK Computer",
+  "csv_artist": "Radiohead"
+ },
+ {
+  "year": 1997,
+  "rank": 4,
+  "text": "The Chemical Brothers Dig Your Own Hole",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Chemical Brothers",
+  "album": "Dig Your Own Hole",
+  "csv_artist": "The Chemical Brothers"
+ },
+ {
+  "year": 1997,
+  "rank": 5,
+  "text": "Faze Action Plans & Designs",
+  "k": 2,
+  "src": "dz",
+  "artist": "Faze Action",
+  "album": "Plans & Designs",
+  "csv_artist": "Faze Action"
+ },
+ {
+  "year": 1997,
+  "rank": 6,
+  "text": "David Holmes Lets Get Killed",
+  "k": 2,
+  "src": "dz",
+  "artist": "David Holmes",
+  "album": "Lets Get Killed",
+  "csv_artist": null
+ },
+ {
+  "year": 1997,
+  "rank": 7,
+  "text": "Kruder & Dorfmeister DJ Kicks",
+  "k": 3,
+  "src": "dz",
+  "artist": "Kruder & Dorfmeister",
+  "album": "DJ Kicks",
+  "csv_artist": "Kruder & Dorfmeister"
+ },
+ {
+  "year": 1997,
+  "rank": 8,
+  "text": "Death In Vegas Dead Elvis",
+  "k": 3,
+  "src": "dz",
+  "artist": "Death In Vegas",
+  "album": "Dead Elvis",
+  "csv_artist": "Death In Vegas"
+ },
+ {
+  "year": 1997,
+  "rank": 9,
+  "text": "Björk Homogenic",
+  "k": 1,
+  "src": "dz",
+  "artist": "Björk",
+  "album": "Homogenic",
+  "csv_artist": "Bjork"
+ },
+ {
+  "year": 1997,
+  "rank": 10,
+  "text": "Amon Tobin Bricolage",
+  "k": 2,
+  "src": "dz",
+  "artist": "Amon Tobin",
+  "album": "Bricolage",
+  "csv_artist": "Amon Tobin"
+ },
+ {
+  "year": 1997,
+  "rank": 11,
+  "text": "Nils Petter Molvaer Khmer",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Nils Petter Molvaer",
+  "album": "Khmer",
+  "csv_artist": "Nils Petter Molvaer"
+ },
+ {
+  "year": 1997,
+  "rank": 12,
+  "text": "Fennesz Hotel Paral.lel",
+  "k": 1,
+  "src": "dz",
+  "artist": "Fennesz",
+  "album": "Hotel Paral.lel",
+  "csv_artist": "Fennesz"
+ },
+ {
+  "year": 1997,
+  "rank": 13,
+  "text": "Tosca Opera",
+  "k": 1,
+  "src": "dz",
+  "artist": "Tosca",
+  "album": "Opera",
+  "csv_artist": "Tosca"
+ },
+ {
+  "year": 1997,
+  "rank": 14,
+  "text": "Moodyman Your Silent Introduction",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Moodyman",
+  "album": "Your Silent Introduction",
+  "csv_artist": null
+ },
+ {
+  "year": 1997,
+  "rank": 15,
+  "text": "Squarepusher Hard Normal Daddy",
+  "k": 1,
+  "src": "dz",
+  "artist": "Squarepusher",
+  "album": "Hard Normal Daddy",
+  "csv_artist": "Squarepusher"
+ },
+ {
+  "year": 1997,
+  "rank": 16,
+  "text": "Plaid Not For Threes",
+  "k": 1,
+  "src": "dz",
+  "artist": "Plaid",
+  "album": "Not For Threes",
+  "csv_artist": null
+ },
+ {
+  "year": 1997,
+  "rank": 17,
+  "text": "As One Planetary Folklore",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "As One",
+  "album": "Planetary Folklore",
+  "csv_artist": null
+ },
+ {
+  "year": 1997,
+  "rank": 18,
+  "text": "Luke Vibert Big Soup",
+  "k": 2,
+  "src": "dz",
+  "artist": "Luke Vibert",
+  "album": "Big Soup",
+  "csv_artist": "Luke Vibert"
+ },
+ {
+  "year": 1997,
+  "rank": 19,
+  "text": "Luke Slater Freek Funk",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Luke Slater",
+  "album": "Freek Funk",
+  "csv_artist": "Luke Slater"
+ },
+ {
+  "year": 1997,
+  "rank": 20,
+  "text": "Carl Craig More Songs About Food & Revolutionary Art",
+  "k": 2,
+  "src": "dz",
+  "artist": "Carl Craig",
+  "album": "More Songs About Food & Revolutionary Art",
+  "csv_artist": "Carl Craig"
+ },
+ {
+  "year": 1998,
+  "rank": 1,
+  "text": "Kruder & Dorfmeister K&D Sessions",
+  "k": 3,
+  "src": "dz",
+  "artist": "Kruder & Dorfmeister",
+  "album": "K&D Sessions",
+  "csv_artist": "Kruder & Dorfmeister"
+ },
+ {
+  "year": 1998,
+  "rank": 2,
+  "text": "Mercury Rev Deserter's Songs",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mercury Rev",
+  "album": "Deserter's Songs",
+  "csv_artist": "Mercury Rev"
+ },
+ {
+  "year": 1998,
+  "rank": 3,
+  "text": "Amon Tobin Permutation",
+  "k": 2,
+  "src": "dz",
+  "artist": "Amon Tobin",
+  "album": "Permutation",
+  "csv_artist": "Amon Tobin"
+ },
+ {
+  "year": 1998,
+  "rank": 4,
+  "text": "Pan Sonic Kulma + V.V.V.",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pan Sonic",
+  "album": "Kulma + V.V.V.",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 5,
+  "text": "Massive Attack Mezzanine",
+  "k": 2,
+  "src": "dz",
+  "artist": "Massive Attack",
+  "album": "Mezzanine",
+  "csv_artist": "Massive Attack"
+ },
+ {
+  "year": 1998,
+  "rank": 6,
+  "text": "Unkle Psyence Fiction",
+  "k": 1,
+  "src": "dz",
+  "artist": "Unkle",
+  "album": "Psyence Fiction",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 7,
+  "text": "Boards Of Canada Music Has The Right To Children",
+  "k": 3,
+  "src": "dz",
+  "artist": "Boards Of Canada",
+  "album": "Music Has The Right To Children",
+  "csv_artist": "Boards Of Canada"
+ },
+ {
+  "year": 1998,
+  "rank": 8,
+  "text": "Plastikman Consumed",
+  "k": 1,
+  "src": "dz",
+  "artist": "Plastikman",
+  "album": "Consumed",
+  "csv_artist": "Plastikman"
+ },
+ {
+  "year": 1998,
+  "rank": 9,
+  "text": "Freestylers We Rock Hard",
+  "k": 1,
+  "src": "dz",
+  "artist": "Freestylers",
+  "album": "We Rock Hard",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 10,
+  "text": "Thievery Corporation Sounds From The Thievery Hifi",
+  "k": 2,
+  "src": "dz",
+  "artist": "Thievery Corporation",
+  "album": "Sounds From The Thievery Hifi",
+  "csv_artist": "Thievery Corporation"
+ },
+ {
+  "year": 1998,
+  "rank": 11,
+  "text": "Kurtis Mantronik I Sing The Body Electro",
+  "k": 2,
+  "src": "dz",
+  "artist": "Kurtis Mantronik",
+  "album": "I Sing The Body Electro",
+  "csv_artist": "Kurtis Mantronik"
+ },
+ {
+  "year": 1998,
+  "rank": 12,
+  "text": "Fat Boy Slim You've Come A Long Way, Baby",
+  "k": 3,
+  "src": "dz",
+  "artist": "Fat Boy Slim",
+  "album": "You've Come A Long Way, Baby",
+  "csv_artist": "Fat Boy Slim"
+ },
+ {
+  "year": 1998,
+  "rank": 13,
+  "text": "Pole Cd 1 + Pole 2",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pole",
+  "album": "Cd 1 + Pole 2",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 14,
+  "text": "Propellerheads Decksandrumsandrockandroll",
+  "k": 1,
+  "src": "dz",
+  "artist": "Propellerheads",
+  "album": "Decksandrumsandrockandroll",
+  "csv_artist": "Propellerheads"
+ },
+ {
+  "year": 1998,
+  "rank": 15,
+  "text": "Noir Désir One Trip One Noise",
+  "k": 2,
+  "src": "dz",
+  "artist": "Noir Désir",
+  "album": "One Trip One Noise",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 16,
+  "text": "Elliott Smith Xo",
+  "k": 2,
+  "src": "dz",
+  "artist": "Elliott Smith",
+  "album": "Xo",
+  "csv_artist": "Elliott Smith"
+ },
+ {
+  "year": 1998,
+  "rank": 17,
+  "text": "The Wiseguys The Anditote",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Wiseguys",
+  "album": "The Anditote",
+  "csv_artist": null
+ },
+ {
+  "year": 1998,
+  "rank": 18,
+  "text": "Beck Mutations",
+  "k": 1,
+  "src": "dz",
+  "artist": "Beck",
+  "album": "Mutations",
+  "csv_artist": "Beck"
+ },
+ {
+  "year": 1998,
+  "rank": 19,
+  "text": "DJ Krush/Toshinori Kondo Ki-Oku",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "DJ",
+  "album": "Krush/Toshinori Kondo Ki-Oku",
+  "csv_artist": "DJ Krush/Toshinori Kondo"
+ },
+ {
+  "year": 1998,
+  "rank": 20,
+  "text": "Air Moon Safari",
+  "k": 1,
+  "src": "dz",
+  "artist": "Air",
+  "album": "Moon Safari",
+  "csv_artist": "Air"
+ },
+ {
+  "year": 1999,
+  "rank": 1,
+  "text": "Product Of The Environment Product Of The Environment",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Product",
+  "album": "Of The Environment Product Of The Environment",
+  "csv_artist": "Product Of The Environment"
+ },
+ {
+  "year": 1999,
+  "rank": 2,
+  "text": "The Beta Band The Beta Band",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Beta Band",
+  "album": "The Beta Band",
+  "csv_artist": "The Beta Band"
+ },
+ {
+  "year": 1999,
+  "rank": 3,
+  "text": "Peace Orchestra Peace Orchestra",
+  "k": 2,
+  "src": "dz",
+  "artist": "Peace Orchestra",
+  "album": "Peace Orchestra",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 4,
+  "text": "Death In Vegas The Contino Sessions",
+  "k": 3,
+  "src": "dz",
+  "artist": "Death In Vegas",
+  "album": "The Contino Sessions",
+  "csv_artist": "Death In Vegas"
+ },
+ {
+  "year": 1999,
+  "rank": 5,
+  "text": "Porter Ricks/Techno Animal Symbiotics",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Porter",
+  "album": "Ricks/Techno Animal Symbiotics",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 6,
+  "text": "Sofa Surfers Cargo",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sofa Surfers",
+  "album": "Cargo",
+  "csv_artist": "Sofa Surfers"
+ },
+ {
+  "year": 1999,
+  "rank": 7,
+  "text": "Pan Sonic A",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pan Sonic",
+  "album": "A",
+  "csv_artist": "Pan Sonic"
+ },
+ {
+  "year": 1999,
+  "rank": 8,
+  "text": "Peshay Miles From Home",
+  "k": 1,
+  "src": "dz",
+  "artist": "Peshay",
+  "album": "Miles From Home",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 9,
+  "text": "Basement Jaxx Remedy",
+  "k": 2,
+  "src": "dz",
+  "artist": "Basement Jaxx",
+  "album": "Remedy",
+  "csv_artist": "Basement Jaxx"
+ },
+ {
+  "year": 1999,
+  "rank": 10,
+  "text": "Innerzone Orchestra Programmed",
+  "k": 2,
+  "src": "dz",
+  "artist": "Innerzone Orchestra",
+  "album": "Programmed",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 11,
+  "text": "Funkstörung Additional Productions",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Funkstörung",
+  "album": "Additional Productions",
+  "csv_artist": "Funkstorung"
+ },
+ {
+  "year": 1999,
+  "rank": 12,
+  "text": "Faultline Closer Colder",
+  "k": 1,
+  "src": "dz",
+  "artist": "Faultline",
+  "album": "Closer Colder",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 13,
+  "text": "Matmos Quasi-Objects",
+  "k": 1,
+  "src": "dz",
+  "artist": "Matmos",
+  "album": "Quasi-Objects",
+  "csv_artist": "Matmos"
+ },
+ {
+  "year": 1999,
+  "rank": 14,
+  "text": "Monolake Interstate",
+  "k": 1,
+  "src": "dz",
+  "artist": "Monolake",
+  "album": "Interstate",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 15,
+  "text": "Moby Play",
+  "k": 1,
+  "src": "dz",
+  "artist": "Moby",
+  "album": "Play",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 16,
+  "text": "Mr Scruff Keep It Unreal",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mr Scruff",
+  "album": "Keep It Unreal",
+  "csv_artist": null
+ },
+ {
+  "year": 1999,
+  "rank": 17,
+  "text": "Pepe Deluxé Super Sound",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pepe Deluxé",
+  "album": "Super Sound",
+  "csv_artist": "Pepe Deluxe"
+ },
+ {
+  "year": 1999,
+  "rank": 18,
+  "text": "The Cinematic Orchestra Motion",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Cinematic Orchestra",
+  "album": "Motion",
+  "csv_artist": "The Cinematic Orchestra"
+ },
+ {
+  "year": 1999,
+  "rank": 19,
+  "text": "Mouse On Mars Niun Niggung",
+  "k": 3,
+  "src": "dz",
+  "artist": "Mouse On Mars",
+  "album": "Niun Niggung",
+  "csv_artist": "Mouse On Mars"
+ },
+ {
+  "year": 1999,
+  "rank": 20,
+  "text": "Kit Clayton Nek Salanet",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Kit Clayton",
+  "album": "Nek Salanet",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 1,
+  "text": "Grandaddy The Sophware Slump",
+  "k": 1,
+  "src": "dz",
+  "artist": "Grandaddy",
+  "album": "The Sophware Slump",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 2,
+  "text": "Goldfrapp Felt Mountain",
+  "k": 1,
+  "src": "dz",
+  "artist": "Goldfrapp",
+  "album": "Felt Mountain",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 3,
+  "text": "Godspeed You Black Emperor Lift Yr. Skinny Fists Like Antennas To Heaven",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Godspeed",
+  "album": "You Black Emperor Lift Yr. Skinny Fists Like Antennas To Heaven",
+  "csv_artist": "Godspeed You! Black Emperor"
+ },
+ {
+  "year": 2000,
+  "rank": 4,
+  "text": "Nicola Conte Jet Sounds",
+  "k": 2,
+  "src": "dz",
+  "artist": "Nicola Conte",
+  "album": "Jet Sounds",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 5,
+  "text": "Funkstörung Appetite For Destruction",
+  "k": 1,
+  "src": "dz",
+  "artist": "Funkstörung",
+  "album": "Appetite For Destruction",
+  "csv_artist": "Funkstorung"
+ },
+ {
+  "year": 2000,
+  "rank": 6,
+  "text": "The Dandy Warhols Thirteen Tales From Urban Bohemia",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Dandy Warhols",
+  "album": "Thirteen Tales From Urban Bohemia",
+  "csv_artist": "The Dandy Warhols"
+ },
+ {
+  "year": 2000,
+  "rank": 7,
+  "text": "Sigur Rós Agoetis Byrjun",
+  "k": 2,
+  "src": "dz",
+  "artist": "Sigur Rós",
+  "album": "Agoetis Byrjun",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 8,
+  "text": "Air The Virgin Suicides",
+  "k": 1,
+  "src": "dz",
+  "artist": "Air",
+  "album": "The Virgin Suicides",
+  "csv_artist": "Air"
+ },
+ {
+  "year": 2000,
+  "rank": 9,
+  "text": "Calexico Hot Rail",
+  "k": 1,
+  "src": "dz",
+  "artist": "Calexico",
+  "album": "Hot Rail",
+  "csv_artist": "Calexico"
+ },
+ {
+  "year": 2000,
+  "rank": 10,
+  "text": "Tosca Suzuki",
+  "k": 1,
+  "src": "dz",
+  "artist": "Tosca",
+  "album": "Suzuki",
+  "csv_artist": "Tosca"
+ },
+ {
+  "year": 2000,
+  "rank": 11,
+  "text": "St Germain Tourist",
+  "k": 2,
+  "src": "dz",
+  "artist": "St Germain",
+  "album": "Tourist",
+  "csv_artist": "St Germain"
+ },
+ {
+  "year": 2000,
+  "rank": 12,
+  "text": "Lemon Jelly Lemon Jelly",
+  "k": 2,
+  "src": "dz",
+  "artist": "Lemon Jelly",
+  "album": "Lemon Jelly",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 13,
+  "text": "Radiohead Kid A",
+  "k": 1,
+  "src": "dz",
+  "artist": "Radiohead",
+  "album": "Kid A",
+  "csv_artist": "Radiohead"
+ },
+ {
+  "year": 2000,
+  "rank": 14,
+  "text": "Señor Coconut Y Su Conjunto El Baile Aleman",
+  "k": 5,
+  "src": "dzartist",
+  "artist": "Señor Coconut Y Su Conjunto",
+  "album": "El Baile Aleman",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 15,
+  "text": "Rubin Steiner Lo Fi Nu Jazz n°2",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Rubin Steiner",
+  "album": "Lo Fi Nu Jazz n°2",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 16,
+  "text": "Kid 606 P.S. I Love You",
+  "k": 2,
+  "src": "dz",
+  "artist": "Kid 606",
+  "album": "P.S. I Love You",
+  "csv_artist": null
+ },
+ {
+  "year": 2000,
+  "rank": 17,
+  "text": "Vladislav Delay Multila",
+  "k": 2,
+  "src": "dz",
+  "artist": "Vladislav Delay",
+  "album": "Multila",
+  "csv_artist": "Vladislav Delay"
+ },
+ {
+  "year": 2000,
+  "rank": 18,
+  "text": "Pan Sonic Aaltopiiri",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Pan Sonic",
+  "album": "Aaltopiiri",
+  "csv_artist": "Pan Sonic"
+ },
+ {
+  "year": 2000,
+  "rank": 19,
+  "text": "Medeski, Martin & Wood The Dropper",
+  "k": 4,
+  "src": "dz",
+  "artist": "Medeski, Martin & Wood",
+  "album": "The Dropper",
+  "csv_artist": "Medeski, Martin & Wood"
+ },
+ {
+  "year": 2000,
+  "rank": 20,
+  "text": "Pole 3",
+  "k": 1,
+  "src": "dz",
+  "artist": "Pole",
+  "album": "3",
+  "csv_artist": "Pole"
+ },
+ {
+  "year": 2001,
+  "rank": 1,
+  "text": "Troublemakers Doubts & Convictions",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Troublemakers",
+  "album": "Doubts & Convictions",
+  "csv_artist": "Troublemakers"
+ },
+ {
+  "year": 2001,
+  "rank": 2,
+  "text": "Sparklehorse It's A Wonderful Life",
+  "k": 1,
+  "src": "dz",
+  "artist": "Sparklehorse",
+  "album": "It's A Wonderful Life",
+  "csv_artist": null
+ },
+ {
+  "year": 2001,
+  "rank": 3,
+  "text": "Noir Désir Des Visages Des Figures",
+  "k": 2,
+  "src": "dz",
+  "artist": "Noir Désir",
+  "album": "Des Visages Des Figures",
+  "csv_artist": "Noir Desir"
+ },
+ {
+  "year": 2001,
+  "rank": 4,
+  "text": "Gotan Project La Revancha Del Tango",
+  "k": 2,
+  "src": "dz",
+  "artist": "Gotan Project",
+  "album": "La Revancha Del Tango",
+  "csv_artist": "Gotan Project"
+ },
+ {
+  "year": 2001,
+  "rank": 5,
+  "text": "Radiohead Amnesiac",
+  "k": 1,
+  "src": "dz",
+  "artist": "Radiohead",
+  "album": "Amnesiac",
+  "csv_artist": "Radiohead"
+ },
+ {
+  "year": 2001,
+  "rank": 6,
+  "text": "The White Stripes White Blood Cells",
+  "k": 3,
+  "src": "dz",
+  "artist": "The White Stripes",
+  "album": "White Blood Cells",
+  "csv_artist": "The White Stripes"
+ },
+ {
+  "year": 2001,
+  "rank": 7,
+  "text": "Manitoba Start Breaking My Heart",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Manitoba",
+  "album": "Start Breaking My Heart",
+  "csv_artist": "Manitoba"
+ },
+ {
+  "year": 2001,
+  "rank": 8,
+  "text": "Lovage Music To Make Love To Your Old Lady By",
+  "k": 1,
+  "src": "dz",
+  "artist": "Lovage",
+  "album": "Music To Make Love To Your Old Lady By",
+  "csv_artist": null
+ },
+ {
+  "year": 2001,
+  "rank": 9,
+  "text": "Björk Vespertine",
+  "k": 1,
+  "src": "dz",
+  "artist": "Björk",
+  "album": "Vespertine",
+  "csv_artist": null
+ },
+ {
+  "year": 2001,
+  "rank": 10,
+  "text": "The Strokes Is This It",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Strokes",
+  "album": "Is This It",
+  "csv_artist": "The Strokes"
+ },
+ {
+  "year": 2001,
+  "rank": 11,
+  "text": "Smash TV Electrified",
+  "k": 2,
+  "src": "dz",
+  "artist": "Smash TV",
+  "album": "Electrified",
+  "csv_artist": "Smash TV"
+ },
+ {
+  "year": 2001,
+  "rank": 12,
+  "text": "The Avalanches Since I Left You",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Avalanches",
+  "album": "Since I Left You",
+  "csv_artist": "The Avalanches"
+ },
+ {
+  "year": 2001,
+  "rank": 13,
+  "text": "Air 10 000 Hz Legend",
+  "k": 1,
+  "src": "dz",
+  "artist": "Air",
+  "album": "10 000 Hz Legend",
+  "csv_artist": "Air"
+ },
+ {
+  "year": 2001,
+  "rank": 14,
+  "text": "Prefuse 73 Vocal Studies + Uprock Narratives",
+  "k": 2,
+  "src": "dz",
+  "artist": "Prefuse 73",
+  "album": "Vocal Studies + Uprock Narratives",
+  "csv_artist": "Prefuse 73"
+ },
+ {
+  "year": 2001,
+  "rank": 15,
+  "text": "Set Fire To Flames Sings Reign Rebuilders",
+  "k": 4,
+  "src": "dzartist",
+  "artist": "Set Fire To Flames",
+  "album": "Sings Reign Rebuilders",
+  "csv_artist": null
+ },
+ {
+  "year": 2001,
+  "rank": 16,
+  "text": "Miss Kittin & The Hacker First Album",
+  "k": 2,
+  "src": "dz",
+  "artist": "Miss Kittin",
+  "album": "& The Hacker First Album",
+  "csv_artist": "Miss Kittin & The Hacker"
+ },
+ {
+  "year": 2001,
+  "rank": 17,
+  "text": "Matmos A Chance To Cut Is A Chance To Cure",
+  "k": 1,
+  "src": "dz",
+  "artist": "Matmos",
+  "album": "A Chance To Cut Is A Chance To Cure",
+  "csv_artist": "Matmos"
+ },
+ {
+  "year": 2001,
+  "rank": 18,
+  "text": "Felix Da Housecat Kittenz & Thee Glitz",
+  "k": 3,
+  "src": "dz",
+  "artist": "Felix Da Housecat",
+  "album": "Kittenz & Thee Glitz",
+  "csv_artist": "Felix Da Housecat"
+ },
+ {
+  "year": 2001,
+  "rank": 19,
+  "text": "Mercury Rev All Is Dream",
+  "k": 2,
+  "src": "dz",
+  "artist": "Mercury Rev",
+  "album": "All Is Dream",
+  "csv_artist": "Mercury Rev"
+ },
+ {
+  "year": 2001,
+  "rank": 20,
+  "text": "Techno Animal The Brotherhood Of The Bomb",
+  "k": 2,
+  "src": "dz",
+  "artist": "Techno Animal",
+  "album": "The Brotherhood Of The Bomb",
+  "csv_artist": "Techno Animal"
+ },
+ {
+  "year": 2002,
+  "rank": 1,
+  "text": "2 Many DJ's As Heard On Radio Soulwax Pt 2",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "2 Many DJ's",
+  "album": "As Heard On Radio Soulwax Pt 2",
+  "csv_artist": "2 Many DJ's"
+ },
+ {
+  "year": 2002,
+  "rank": 2,
+  "text": "The Cinematic Orchestra Every Day",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Cinematic Orchestra",
+  "album": "Every Day",
+  "csv_artist": "The Cinematic Orchestra"
+ },
+ {
+  "year": 2002,
+  "rank": 3,
+  "text": "Jaga Jazzist A Livingroom Hush",
+  "k": 2,
+  "src": "dz",
+  "artist": "Jaga Jazzist",
+  "album": "A Livingroom Hush",
+  "csv_artist": "Jaga Jazzist"
+ },
+ {
+  "year": 2002,
+  "rank": 4,
+  "text": "DJ Rupture Minesweeper Suite",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "DJ Rupture",
+  "album": "Minesweeper Suite",
+  "csv_artist": "DJ Rupture"
+ },
+ {
+  "year": 2002,
+  "rank": 5,
+  "text": "Faultline Your Love Means Everything",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Faultline",
+  "album": "Your Love Means Everything",
+  "csv_artist": "Faultline"
+ },
+ {
+  "year": 2002,
+  "rank": 6,
+  "text": "Boards Of Canada Geogaddi",
+  "k": 3,
+  "src": "dz",
+  "artist": "Boards Of Canada",
+  "album": "Geogaddi",
+  "csv_artist": "Boards Of Canada"
+ },
+ {
+  "year": 2002,
+  "rank": 7,
+  "text": "Xploding Plastix Amateur Girlfriends Go Proskirt Agents",
+  "k": 2,
+  "src": "dz",
+  "artist": "Xploding Plastix",
+  "album": "Amateur Girlfriends Go Proskirt Agents",
+  "csv_artist": null
+ },
+ {
+  "year": 2002,
+  "rank": 8,
+  "text": "Chris De Luca & Peabird Deadly Wiz Da Disco",
+  "k": 3,
+  "src": "dzartist",
+  "artist": "Chris De Luca",
+  "album": "& Peabird Deadly Wiz Da Disco",
+  "csv_artist": null
+ },
+ {
+  "year": 2002,
+  "rank": 9,
+  "text": "Múm Finally We Are No One",
+  "k": 1,
+  "src": "dz",
+  "artist": "Múm",
+  "album": "Finally We Are No One",
+  "csv_artist": "Mum"
+ },
+ {
+  "year": 2002,
+  "rank": 10,
+  "text": "Baxter Dury Len Parrot's Memorial Lift",
+  "k": 2,
+  "src": "dz",
+  "artist": "Baxter Dury",
+  "album": "Len Parrot's Memorial Lift",
+  "csv_artist": "Baxter Dury"
+ },
+ {
+  "year": 2002,
+  "rank": 11,
+  "text": "The Notwist Neon Golden",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Notwist",
+  "album": "Neon Golden",
+  "csv_artist": "The Notwist"
+ },
+ {
+  "year": 2002,
+  "rank": 12,
+  "text": "Liars They Threw Us All In A Trench & Stuck A Monument On Top",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Liars",
+  "album": "They Threw Us All In A Trench & Stuck A Monument On Top",
+  "csv_artist": "Liars"
+ },
+ {
+  "year": 2002,
+  "rank": 13,
+  "text": "Radio 4 Gotham",
+  "k": 2,
+  "src": "dz",
+  "artist": "Radio 4",
+  "album": "Gotham",
+  "csv_artist": "Radio 4"
+ },
+ {
+  "year": 2002,
+  "rank": 14,
+  "text": "Tony Allen Homecooking",
+  "k": 2,
+  "src": "dz",
+  "artist": "Tony Allen",
+  "album": "Homecooking",
+  "csv_artist": "Tony Allen"
+ },
+ {
+  "year": 2002,
+  "rank": 15,
+  "text": "RJD2 Deadringer",
+  "k": 1,
+  "src": "dz",
+  "artist": "RJD2",
+  "album": "Deadringer",
+  "csv_artist": null
+ },
+ {
+  "year": 2002,
+  "rank": 16,
+  "text": "Death In Vegas Scorpio Rising",
+  "k": 3,
+  "src": "dz",
+  "artist": "Death In Vegas",
+  "album": "Scorpio Rising",
+  "csv_artist": "Death In Vegas"
+ },
+ {
+  "year": 2002,
+  "rank": 17,
+  "text": "Boom Bip Seed To Sum",
+  "k": 2,
+  "src": "dz",
+  "artist": "Boom Bip",
+  "album": "Seed To Sum",
+  "csv_artist": null
+ },
+ {
+  "year": 2002,
+  "rank": 18,
+  "text": "The Faint Danse Macabre",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Faint",
+  "album": "Danse Macabre",
+  "csv_artist": "The Faint"
+ },
+ {
+  "year": 2002,
+  "rank": 19,
+  "text": "DJ Shadow The Private Press",
+  "k": 2,
+  "src": "dz",
+  "artist": "DJ Shadow",
+  "album": "The Private Press",
+  "csv_artist": "DJ Shadow"
+ },
+ {
+  "year": 2002,
+  "rank": 20,
+  "text": "Beck Sea Change",
+  "k": 1,
+  "src": "dz",
+  "artist": "Beck",
+  "album": "Sea Change",
+  "csv_artist": "Beck"
+ },
+ {
+  "year": 2003,
+  "rank": 1,
+  "text": "Matmos The Civil War",
+  "k": 1,
+  "src": "dz",
+  "artist": "Matmos",
+  "album": "The Civil War",
+  "csv_artist": "Matmos"
+ },
+ {
+  "year": 2003,
+  "rank": 2,
+  "text": "Forss Soulhack",
+  "k": 1,
+  "src": "dz",
+  "artist": "Forss",
+  "album": "Soulhack",
+  "csv_artist": "Forss"
+ },
+ {
+  "year": 2003,
+  "rank": 3,
+  "text": "Plastikmann Closer",
+  "k": null,
+  "src": null,
+  "artist": null,
+  "album": null,
+  "csv_artist": null
+ },
+ {
+  "year": 2003,
+  "rank": 4,
+  "text": "Donna Summer This Needs To Be Your Style",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "Donna Summer",
+  "album": "This Needs To Be Your Style",
+  "csv_artist": "Donna Summer"
+ },
+ {
+  "year": 2003,
+  "rank": 5,
+  "text": "I-Wolf Soul Strata",
+  "k": 1,
+  "src": "dz",
+  "artist": "I-Wolf",
+  "album": "Soul Strata",
+  "csv_artist": "I-Wolf"
+ },
+ {
+  "year": 2003,
+  "rank": 6,
+  "text": "Monolake Momentum",
+  "k": 1,
+  "src": "dz",
+  "artist": "Monolake",
+  "album": "Momentum",
+  "csv_artist": "Monolake"
+ },
+ {
+  "year": 2003,
+  "rank": 7,
+  "text": "Dopplereffekt Linear Accelerator",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Dopplereffekt",
+  "album": "Linear Accelerator",
+  "csv_artist": "Dopplereffekt"
+ },
+ {
+  "year": 2003,
+  "rank": 8,
+  "text": "Manitoba Up In Flames",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Manitoba",
+  "album": "Up In Flames",
+  "csv_artist": "Manitoba"
+ },
+ {
+  "year": 2003,
+  "rank": 9,
+  "text": "The Cinematic Orchestra Man With A Movie Camera",
+  "k": 3,
+  "src": "dz",
+  "artist": "The Cinematic Orchestra",
+  "album": "Man With A Movie Camera",
+  "csv_artist": "The Cinematic Orchestra"
+ },
+ {
+  "year": 2003,
+  "rank": 10,
+  "text": "The White Stripes Elephant",
+  "k": 3,
+  "src": "dz",
+  "artist": "The White Stripes",
+  "album": "Elephant",
+  "csv_artist": "The White Stripes"
+ },
+ {
+  "year": 2003,
+  "rank": 11,
+  "text": "Venetian Snares Venetian Snares",
+  "k": 2,
+  "src": "dz",
+  "artist": "Venetian Snares",
+  "album": "Venetian Snares",
+  "csv_artist": "Venetian Snares"
+ },
+ {
+  "year": 2003,
+  "rank": 12,
+  "text": "DJ Scud Ambush!",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "DJ",
+  "album": "Scud Ambush!",
+  "csv_artist": "DJ Scud"
+ },
+ {
+  "year": 2003,
+  "rank": 13,
+  "text": "The Rapture Echoes",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Rapture",
+  "album": "Echoes",
+  "csv_artist": "The Rapture"
+ },
+ {
+  "year": 2003,
+  "rank": 14,
+  "text": "The Kills Keep On Your Mean Side",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Kills",
+  "album": "Keep On Your Mean Side",
+  "csv_artist": "The Kills"
+ },
+ {
+  "year": 2003,
+  "rank": 15,
+  "text": "The Bug Pressure",
+  "k": 2,
+  "src": "dz",
+  "artist": "The Bug",
+  "album": "Pressure",
+  "csv_artist": "The Bug"
+ },
+ {
+  "year": 2003,
+  "rank": 16,
+  "text": "Radiohead Hail To The Thief",
+  "k": 1,
+  "src": "dz",
+  "artist": "Radiohead",
+  "album": "Hail To The Thief",
+  "csv_artist": "Radiohead"
+ },
+ {
+  "year": 2003,
+  "rank": 17,
+  "text": "Fourtet Rounds",
+  "k": 1,
+  "src": "dz",
+  "artist": "Fourtet",
+  "album": "Rounds",
+  "csv_artist": "Fourtet"
+ },
+ {
+  "year": 2003,
+  "rank": 18,
+  "text": "Alias Muted",
+  "k": 1,
+  "src": "dz",
+  "artist": "Alias",
+  "album": "Muted",
+  "csv_artist": "Alias"
+ },
+ {
+  "year": 2003,
+  "rank": 19,
+  "text": "Riow Arai Mind Edit",
+  "k": null,
+  "src": null,
+  "artist": null,
+  "album": null,
+  "csv_artist": "Riow Arai"
+ },
+ {
+  "year": 2003,
+  "rank": 20,
+  "text": "Zongamin Zongamin",
+  "k": 1,
+  "src": "dz",
+  "artist": "Zongamin",
+  "album": "Zongamin",
+  "csv_artist": "Zongamin"
+ },
+ {
+  "year": 2004,
+  "rank": 1,
+  "text": "TV On The Radio Desperate Youth, Blood Thirsty Babes",
+  "k": 4,
+  "src": "dz",
+  "artist": "TV On The Radio",
+  "album": "Desperate Youth, Blood Thirsty Babes",
+  "csv_artist": "TV On The Radio"
+ },
+ {
+  "year": 2004,
+  "rank": 2,
+  "text": "Pan Sonic Kesto",
+  "k": 2,
+  "src": "dz",
+  "artist": "Pan Sonic",
+  "album": "Kesto",
+  "csv_artist": "Pan Sonic"
+ },
+ {
+  "year": 2004,
+  "rank": 3,
+  "text": "End The Sounds Of Disaster",
+  "k": 1,
+  "src": "dz",
+  "artist": "End",
+  "album": "The Sounds Of Disaster",
+  "csv_artist": "End"
+ },
+ {
+  "year": 2004,
+  "rank": 4,
+  "text": "Gonzales Solo Piano",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Gonzales",
+  "album": "Solo Piano",
+  "csv_artist": "Gonzales"
+ },
+ {
+  "year": 2004,
+  "rank": 5,
+  "text": "Danger Mouse The Grey Album",
+  "k": 2,
+  "src": "dz",
+  "artist": "Danger Mouse",
+  "album": "The Grey Album",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 6,
+  "text": "Shitmat Killababylonkutz",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Shitmat",
+  "album": "Killababylonkutz",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 7,
+  "text": "Modey Lemon Thunder + Lightning",
+  "k": 2,
+  "src": "dz",
+  "artist": "Modey Lemon",
+  "album": "Thunder + Lightning",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 8,
+  "text": "Servovalve Le Sixième Doigt",
+  "k": 1,
+  "src": "dz",
+  "artist": "Servovalve",
+  "album": "Le Sixième Doigt",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 9,
+  "text": "Fennesz/Vainio/Zanési GRM Experience",
+  "k": null,
+  "src": null,
+  "artist": null,
+  "album": null,
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 10,
+  "text": "Jason Forrest The Unrelenting Songs Of The 1979 Post Disco Crash",
+  "k": 2,
+  "src": "dz",
+  "artist": "Jason Forrest",
+  "album": "The Unrelenting Songs Of The 1979 Post Disco Crash",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 11,
+  "text": "Otto Von Schirach Global Speaker Fisting",
+  "k": 3,
+  "src": "dz",
+  "artist": "Otto Von Schirach",
+  "album": "Global Speaker Fisting",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 12,
+  "text": "I-Wolf & Burdy Meet The Babylonians",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "I-Wolf",
+  "album": "& Burdy Meet The Babylonians",
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 13,
+  "text": "Björk Medúlla",
+  "k": 1,
+  "src": "dzartist",
+  "artist": "Björk",
+  "album": "Medúlla",
+  "csv_artist": "Bjork"
+ },
+ {
+  "year": 2004,
+  "rank": 14,
+  "text": "Electrelane The Power Out",
+  "k": 1,
+  "src": "dz",
+  "artist": "Electrelane",
+  "album": "The Power Out",
+  "csv_artist": "Electrelane"
+ },
+ {
+  "year": 2004,
+  "rank": 15,
+  "text": "Chick! Chick! Chick! Louden Up Now",
+  "k": null,
+  "src": null,
+  "artist": null,
+  "album": null,
+  "csv_artist": null
+ },
+ {
+  "year": 2004,
+  "rank": 16,
+  "text": "Eagles Of Death Metal Peace Love Death Metal",
+  "k": 4,
+  "src": "dz",
+  "artist": "Eagles Of Death Metal",
+  "album": "Peace Love Death Metal",
+  "csv_artist": "Eagles Of Death Metal"
+ },
+ {
+  "year": 2004,
+  "rank": 17,
+  "text": "William Shatner Has Been",
+  "k": 2,
+  "src": "dzartist",
+  "artist": "William Shatner",
+  "album": "Has Been",
+  "csv_artist": "William Shatner"
+ },
+ {
+  "year": 2004,
+  "rank": 18,
+  "text": "Brian Wilson Smile",
+  "k": 2,
+  "src": "dz",
+  "artist": "Brian Wilson",
+  "album": "Smile",
+  "csv_artist": "Brian Wilson"
+ },
+ {
+  "year": 2004,
+  "rank": 19,
+  "text": "Air Talkie Walkie",
+  "k": 1,
+  "src": "dz",
+  "artist": "Air",
+  "album": "Talkie Walkie",
+  "csv_artist": "Air"
+ },
+ {
+  "year": 2004,
+  "rank": 20,
+  "text": "Nicolas Repac Swing-Swing",
+  "k": 2,
+  "src": "dz",
+  "artist": "Nicolas Repac",
+  "album": "Swing-Swing",
+  "csv_artist": "Nicolas Repac"
+ }
+]

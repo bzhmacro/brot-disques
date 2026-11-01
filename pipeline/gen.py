@@ -16,8 +16,8 @@ def ico(svc):
     return f'<svg class="ic" aria-hidden="true"><use href="#i-{svc}"/></svg>'
 SPRITE = '<svg width="0" height="0" style="position:absolute" aria-hidden="true">' + ''.join(
     f'<symbol id="i-{k}" viewBox="0 0 24 24"><path d="{v}"/></symbol>' for k, v in ICONS.items()) + '</svg>'
-NAMES = {'deezer': 'Deezer', 'spotify': 'Spotify', 'youtube': 'YouTube'}
-CLS = {'deezer': 'lk-dz', 'spotify': 'lk-sp', 'youtube': 'lk-yt'}
+NAMES = {'deezer': 'Deezer', 'spotify': 'Spotify', 'youtube': 'YouTube', 'discogs': 'Discogs'}
+CLS = {'deezer': 'lk-dz', 'spotify': 'lk-sp', 'youtube': 'lk-yt', 'discogs': 'lk-dc'}
 def lnk(svc, href, exact):
     if exact:
         return (f'<a class="lk {CLS[svc]}" data-svc="{svc}" href="{E(href)}" target="_blank" rel="noopener" '
@@ -26,7 +26,16 @@ def lnk(svc, href, exact):
             f'title="Rechercher sur {NAMES[svc]}" aria-label="Rechercher sur {NAMES[svc]}">{ico(svc)}<span class="srch">⌕</span></a>')
 def album_links(a, artist=''):
     return (lnk('deezer', a['deezer'], True) if 'deezer' in a else lnk('deezer', deezer_search(artist, a['title']), False)) \
-        + lnk('spotify', a['spotify'], bool(a.get('spotify_exact'))) + lnk('youtube', a['youtube'], False)
+        + lnk('spotify', a['spotify'], bool(a.get('spotify_exact'))) + lnk('youtube', a['youtube'], False) \
+        + lnk('discogs', discogs_search(artist, a['title']), False)
+
+def discogs_search(artist, title):
+    import re, urllib.parse
+    t = re.sub(r'\s*\+\s*(\(|Vol).*$', '', title, flags=re.I)  # "(Vol.1) + (Vol.2)" -> first volume
+    t = re.sub(r'\(?\bVol\.?\s*\d[^)]*\)?', '', t, flags=re.I)   # drop volume markers
+    t = re.sub(r'[«»"*]', ' ', t)
+    q = re.sub(r'\s+', ' ', (artist + ' ' + t)).strip()
+    return 'https://www.discogs.com/search?' + urllib.parse.urlencode({'q': q})
 
 def deezer_search(artist, title):
     import urllib.parse
@@ -43,7 +52,6 @@ def render_albums(artist, albums):
         found = 'deezer' in a or a.get('spotify_exact')
         rows.append(f'<div class="alb"><span class="alb-t">{E(a["title"])}</span>'
                     f'<span class="lks">{lk}</span>'
-                    + ('' if found else '<span class="nf" title="Album introuvable en lien direct">∅</span>')
                     + '</div>')
     return ''.join(rows)
 

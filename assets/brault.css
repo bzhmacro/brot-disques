@@ -52,3 +52,4 @@ ol.hlist{grid-template-columns:repeat(auto-fill,minmax(400px,1fr));}
 .ychip[class*=yd]{color:color-mix(in srgb,var(--yc) 70%,var(--paper));border-color:color-mix(in srgb,var(--yc) 35%,transparent);background:color-mix(in srgb,var(--yc) 12%,transparent);}
 .ychip[class*=yd]:hover{background:color-mix(in srgb,var(--yc) 26%,transparent);border-color:var(--yc);color:var(--paper);}
 @media (max-width:520px){.ychips{grid-template-columns:repeat(5,minmax(0,1fr));}}
+.lk-dc.lk-search:hover{color:var(--paper);}

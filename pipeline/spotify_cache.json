@@ -139,20 +139,6 @@
 "date": "2005",
 "score": 1
 },
-"The Beatles|Rubber Soul": {
-"url": "https://open.spotify.com/album/5TIQEIzrI6RQfUVQ5Y571D",
-"name": "Rubber Soul",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-07-28",
-"score": 1
-},
-"The Beatles|Help!": {
-"url": "https://open.spotify.com/album/3Zl2mKpZWfC0N1rzu68mTK",
-"name": "Help!",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-07-27",
-"score": 1
-},
 "The Who|My Generation": {
 "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy",
 "name": "My Generation (Stereo Version)",
@@ -343,13 +329,6 @@
 "date": "1966-06-16",
 "score": 1
 },
-"The Beatles|Revolver": {
-"url": "https://open.spotify.com/album/4nQ5UtCV2XCnOZ9nHCufVs",
-"name": "Revolver",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-07-29",
-"score": 1
-},
 "The Who|A Quick One": {
 "url": "https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM",
 "name": "A Quick One",
@@ -444,13 +423,6 @@
 "date": "1966-12-09",
 "score": 1
 },
-"Love|Love": {
-"url": "https://open.spotify.com/album/5ijXbx0Xrg6iYwWIXiksUk",
-"name": "Love Inc.",
-"artist": "Love Inc.",
-"date": "1998-06-16",
-"score": 0.85
-},
 "Mothers Of Invention|Freak Out": {
 "url": "https://open.spotify.com/album/6qfS5de8GAy1G5tk7tyiof",
 "name": "Freak Out!",
@@ -499,20 +471,6 @@
 "name": "White Light / White Heat",
 "artist": "The Velvet Underground",
 "date": "2013-01-01",
-"score": 1
-},
-"The Beatles|Sgt. Pepper's Lonely Hearts Club Band": {
-"url": "https://open.spotify.com/album/2KGC4mwJwXTz0jDAKxK3q3",
-"name": "Sgt. Pepper's Lonely Hearts Club Band",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-07-30",
-"score": 1
-},
-"The Beatles|Magical Mystery Tour": {
-"url": "https://open.spotify.com/album/3tFzU03DAwHLWXZXQ9sWrJ",
-"name": "Magical Mystery Tour",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-07-31",
 "score": 1
 },
 "The Doors|The Doors": {
@@ -753,13 +711,6 @@
 "date": "1968-01-01",
 "score": 1
 },
-"Tomorrow|Tomorrow": {
-"url": "https://open.spotify.com/album/7kbFgC9KQyJXUjXETUGJjx",
-"name": "Tomorrow Night",
-"artist": "Carter Tomorrow",
-"date": "2024-12-20",
-"score": 0.85
-},
 "Small Faces|Ogdens' Nut Gone Flake": {
 "url": "https://open.spotify.com/album/2BpHX89LLT9GpZ5IGL8ZMH",
 "name": "Ogdens' Nut Gone Flake",
@@ -829,13 +780,6 @@
 "name": "Streetnoise",
 "artist": "Julie Driscoll, Brian Auger, Brian Auger & The Trinity",
 "date": "1969-05-01",
-"score": 1
-},
-"The Beatles|Abbey Road": {
-"url": "https://open.spotify.com/album/5gRj0X8Bl2dKidoC428AoB",
-"name": "Abbey Road",
-"artist": "The Beatles Complete On Ukulele",
-"date": "2020-08-12",
 "score": 1
 },
 "Led Zeppelin|Led Zeppelin": {
@@ -2440,13 +2384,6 @@
 "date": "1979-11-01",
 "score": 1
 },
-"Paul Collins' Beat|The Beat": {
-"url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL",
-"name": "The Beatles (Remastered 2009)",
-"artist": "The Beatles",
-"date": "1968-11-22",
-"score": 0.85
-},
 "AC/DC|Highway To Hell": {
 "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS",
 "name": "Highway to Hell",
@@ -2740,13 +2677,6 @@
 "name": "Alles ist Gut",
 "artist": "DAF",
 "date": "1981-01-01",
-"score": 1
-},
-"Squeeze|Eastside Story": {
-"url": "https://open.spotify.com/album/5YbLYlScTDmKwozhAvKAhM",
-"name": "Eastside Story",
-"artist": "Capt. Squeeze 1st",
-"date": "2025-02-03",
 "score": 1
 },
 "The Cramps|Psychedelic Jungle": {
@@ -3412,13 +3342,6 @@
 "date": "1986-11-03",
 "score": 1
 },
-"Prince|Parade": {
-"url": "https://open.spotify.com/album/2y9Zys3Vc9rMiO0hxWCnjb",
-"name": "The Parade - EP",
-"artist": "Jordan Prince",
-"date": "2015-12-08",
-"score": 0.86
-},
 "Les Thugs|Electric Troubles": {
 "url": "https://open.spotify.com/album/5ZSeHuRDyQ8jrg3kuVELjD",
 "name": "Electric Troubles + Dirty White Race",
@@ -3954,5 +3877,1859 @@
 "artist": "LFO",
 "date": "1991-07-22",
 "score": 1
+},
+"The Beatles|Rubber Soul": {
+"url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
+"name": "Rubber Soul (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1965-12-03",
+"score": 1
+},
+"The Beatles|Help!": {
+"url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX",
+"name": "Help! (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1965-08-06",
+"score": 1
+},
+"The Beatles|Revolver": {
+"url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
+"name": "Revolver (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1966-08-05",
+"score": 1
+},
+"Love|Love": null,
+"The Beatles|Sgt. Pepper's Lonely Hearts Club Band": {
+"url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW",
+"name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1967-06-01",
+"score": 1
+},
+"The Beatles|Magical Mystery Tour": {
+"url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
+"name": "Magical Mystery Tour (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1967-11-27",
+"score": 1
+},
+"Tomorrow|Tomorrow": null,
+"The Beatles|Abbey Road": {
+"url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+"name": "Abbey Road (Remastered 2009)",
+"artist": "The Beatles",
+"date": "1969-09-26",
+"score": 1
+},
+"Paul Collins' Beat|The Beat": null,
+"Squeeze|Eastside Story": null,
+"Prince|Parade": {
+"url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB",
+"name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+"artist": "Prince",
+"date": "1986-03-31",
+"score": 0.8
+},
+"The Orb|Adventures Beyond The Ultraworld": {
+"url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk",
+"name": "Adventures Beyond The Ultraworld",
+"artist": "The Orb",
+"date": "1991-04-02",
+"score": 1
+},
+"Mercury Rev|Yerself Is Steam": {
+"url": "https://open.spotify.com/album/4HhwJ4in1kJ496d9h1n15q",
+"name": "Yerself Is Steam",
+"artist": "Mercury Rev",
+"date": "1991",
+"score": 1
+},
+"The KLF|The White Room": {
+"url": "https://open.spotify.com/album/7n7NzplHz7xjmTRQ9TxQqu",
+"name": "The White Room (Director's Cut)",
+"artist": "The KLF",
+"date": "2021-04-23",
+"score": 0.8
+},
+"Orbital|Orbital": {
+"url": "https://open.spotify.com/album/7a129X2pYyMqHFfpKidRtr",
+"name": "Orbital",
+"artist": "Orbital",
+"date": "1991-01-01",
+"score": 1
+},
+"Nightmares On Wax|A Word On Science": {
+"url": "https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni",
+"name": "A Word Of Science",
+"artist": "Nightmares On Wax",
+"date": "1991-09-16",
+"score": 0.93
+},
+"Jesus Lizard|Goat": {
+"url": "https://open.spotify.com/album/7uweroXf5R6hWxC1kDXJg3",
+"name": "Goat (Remaster / Reissue)",
+"artist": "The Jesus Lizard",
+"date": "1991",
+"score": 1
+},
+"Soundgarden|Badmotorfinger": {
+"url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3",
+"name": "Badmotorfinger (25th Anniversary Remaster)",
+"artist": "Soundgarden",
+"date": "1991-10-08",
+"score": 1
+},
+"Pixies|Trompe Le Monde": {
+"url": "https://open.spotify.com/album/1xtaONLuwdb5STNnLGNVGi",
+"name": "Trompe le Monde",
+"artist": "Pixies",
+"date": "1991-09-23",
+"score": 1
+},
+"Consolidated|Friendly Fascism": {
+"url": "https://open.spotify.com/album/0YvT40tXBDeVjPlK8gTnXZ",
+"name": "Friendly Fa$cism",
+"artist": "Consolidated",
+"date": "1991-04-26",
+"score": 0.97
+},
+"808 State|Ex:El": {
+"url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z",
+"name": "ex:el",
+"artist": "808 State",
+"date": "1991-03-01",
+"score": 1
+},
+"R.E.M.|Out Of Time": {
+"url": "https://open.spotify.com/album/2vPM8y0gBZTnEO48rGnCzs",
+"name": "Out Of Time",
+"artist": "R.E.M.",
+"date": "1991-03-12",
+"score": 1
+},
+"X-101|X-101": null,
+"Therapy|Babyteeth": null,
+"Talk Talk|Laughing Stock": {
+"url": "https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue",
+"name": "Laughing Stock",
+"artist": "Talk Talk",
+"date": "1991-01-01",
+"score": 1
+},
+"Slint|Spiderland": {
+"url": "https://open.spotify.com/album/3crSdepGPHDSUXAU9y98lG",
+"name": "Spiderland (remastered)",
+"artist": "Slint",
+"date": "2014-06-24",
+"score": 1
+},
+"Nick Cave & The Bad Seeds|Henry's Dream": {
+"url": "https://open.spotify.com/album/6GNmNVoA898u0cN1dYj2Dr",
+"name": "Henry's Dream (2010 Remaster)",
+"artist": "Nick Cave & The Bad Seeds",
+"date": "1992-04-27",
+"score": 1
+},
+"Pavement|Slanted & Enchanted": {
+"url": "https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD",
+"name": "Slanted & Enchanted",
+"artist": "Pavement",
+"date": "1992-04-20",
+"score": 1
+},
+"Sugar|Copper Blue": {
+"url": "https://open.spotify.com/album/7ndxJRCMbUDbuUTEuiG23u",
+"name": "Copper Blue (2012 Remastered)",
+"artist": "Sugar",
+"date": "1992-09-04",
+"score": 1
+},
+"Prodigy|Experience": {
+"url": "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x",
+"name": "Experience",
+"artist": "The Prodigy",
+"date": "1992-09-21",
+"score": 1
+},
+"PJ Harvey|Dry": {
+"url": "https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg",
+"name": "Dry",
+"artist": "PJ Harvey",
+"date": "1992-03-02",
+"score": 1
+},
+"Ministry|Psalm 69": {
+"url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5",
+"name": "KE*A*H** (Psalm 69)",
+"artist": "Ministry",
+"date": "1991",
+"score": 0.85
+},
+"Shut up & Dance|Death Is Not The End": {
+"url": "https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK",
+"name": "Death Is Not the End",
+"artist": "Shut Up and Dance",
+"date": "2009-02-12",
+"score": 1
+},
+"Th' Faith Healers|Lido": {
+"url": "https://open.spotify.com/album/2TDVtKiP7vzkm7ePRvRa5q",
+"name": "Lido",
+"artist": "Th’ Faith Healers",
+"date": "1992-04-08",
+"score": 1
+},
+"The Disposable Heroes Of Hiphoprisy|Hypocrisy Is The Greatest Luxury": {
+"url": "https://open.spotify.com/album/1FJ9XKn6aTTigSG5GTQaXZ",
+"name": "Hypocrisy Is The Greatest Luxury",
+"artist": "The Disposable Heroes Of Hiphoprisy",
+"date": "1992-01-01",
+"score": 1
+},
+"X-102|Discovers The Rings Of Saturn": null,
+"Lemonheads|It's A Shame About Ray": {
+"url": "https://open.spotify.com/album/1W9smK7cjQlH5YZaqbDzQ8",
+"name": "It's a Shame About Ray",
+"artist": "The Lemonheads",
+"date": "1992-10-05",
+"score": 1
+},
+"The Jesus Lizard|Liar": {
+"url": "https://open.spotify.com/album/3NB6ddIwEHykimIztj8kuK",
+"name": "Liar",
+"artist": "The Jesus Lizard",
+"date": "1992",
+"score": 1
+},
+"R.E.M.|Automatic For The People": {
+"url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q",
+"name": "Automatic For The People",
+"artist": "R.E.M.",
+"date": "1992-10-05",
+"score": 1
+},
+"The Orb|UFOrb": {
+"url": "https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb",
+"name": "U.F.Orb",
+"artist": "The Orb",
+"date": "1992-06-29",
+"score": 1
+},
+"Nicolette|Now Is Early": null,
+"Jeff Mills|Waveform Transmissions Vol 1": null,
+"Arrested Development|5 Years, 3 Months & 2 Days": null,
+"Beastie Boys|Check Your Head": {
+"url": "https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq",
+"name": "Check Your Head (Deluxe Edition/Remastered/2009)",
+"artist": "Beastie Boys",
+"date": "1992-04-21",
+"score": 1
+},
+"Polygon Window|Surfing On Sine Waves": {
+"url": "https://open.spotify.com/album/4NH9JJ1uy1ls8wlltjTjG7",
+"name": "Surfing On Sine Waves",
+"artist": "Polygon Window",
+"date": "1993-01-11",
+"score": 1
+},
+"The Young Gods|TV Sky": {
+"url": "https://open.spotify.com/album/4oUhLg5wRdyxGWj2nRQb95",
+"name": "TV Sky (30 years Anniversary)",
+"artist": "The Young Gods",
+"date": "1992",
+"score": 1
+},
+"Björk|Debut": {
+"url": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr",
+"name": "Debut",
+"artist": "Björk",
+"date": "1993-07-05",
+"score": 1
+},
+"Tindersticks|Tindersticks": {
+"url": "https://open.spotify.com/album/4WWzemJiMfNnxbYAmz63fC",
+"name": "Tindersticks",
+"artist": "Tindersticks",
+"date": "1995-04-03",
+"score": 1
+},
+"Original Rockers|Rockers To Rockers": null,
+"US3|Hand On The Torch": {
+"url": "https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1",
+"name": "Hand On The Torch",
+"artist": "Us3",
+"date": "1993-01-01",
+"score": 1
+},
+"Orbital|Orbital 2": {
+"url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W",
+"name": "Orbital 2",
+"artist": "Orbital",
+"date": "1993-01-01",
+"score": 1
+},
+"Trans-Global Underground|Dream Of 100 Nations": {
+"url": "https://open.spotify.com/album/3B9pC7Lum99oskyZBU4dqr",
+"name": "Dream of 100 Nations",
+"artist": "Transglobal Underground",
+"date": "1993-10-18",
+"score": 1
+},
+"United Future Organization|U.F.O.": null,
+"Black Dog Productions|Bytes": {
+"url": "https://open.spotify.com/album/3bVlfmSsqAhusT3IIyfHCW",
+"name": "Bytes",
+"artist": "The Black Dog",
+"date": "1993-03-08",
+"score": 1
+},
+"Mu-ziq|Tango'n'vectif": {
+"url": "https://open.spotify.com/album/5ntb4e9tsASy8K2LM68MMK",
+"name": "Tango N’Vectif",
+"artist": "µ-Ziq",
+"date": "2026-09-25",
+"score": 1
+},
+"Guru|Jazzmatazz": {
+"url": "https://open.spotify.com/album/5oQxcvND931BI5BeiQUQei",
+"name": "The Best Of Guru's Jazzmatazz",
+"artist": "Guru",
+"date": "2008-01-01",
+"score": 0.85
+},
+"Stereolab|Transient Random-Noise Bursts With Announcements": {
+"url": "https://open.spotify.com/album/0XwFmkEzDFl5KrVG5z0lE6",
+"name": "Transient Random-Noise Bursts With Announcements",
+"artist": "Stereolab",
+"date": "1993-08-24",
+"score": 1
+},
+"Frank Black|Frank Black": {
+"url": "https://open.spotify.com/album/1q3ECdv7SORlFJj0OjjBuT",
+"name": "Frank Black",
+"artist": "Frank Black",
+"date": "1993-03-08",
+"score": 1
+},
+"Mazzy Star|So Tonight That I Might See": {
+"url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
+"name": "So Tonight That I Might See",
+"artist": "Mazzy Star",
+"date": "1993-10-05",
+"score": 1
+},
+"Aphex Twin|Selected Ambient Works 85-92": {
+"url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k",
+"name": "Selected Ambient Works 85-92",
+"artist": "Aphex Twin",
+"date": "1992-02-10",
+"score": 1
+},
+"B12|Electro-Soma": {
+"url": "https://open.spotify.com/album/4pVIqLzbBpyVIQLZo7oZhy",
+"name": "Electro Soma",
+"artist": "B12",
+"date": "1993-03-29",
+"score": 1
+},
+"Snoop Doggy Dogg|Doggystyle": {
+"url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
+"name": "Doggystyle",
+"artist": "Snoop Dogg",
+"date": "1993-11-23",
+"score": 1
+},
+"The Boo Radleys|Giant Steps": {
+"url": "https://open.spotify.com/album/6347aGYak5Dsi0hwPMMpmj",
+"name": "Giant Steps",
+"artist": "The Boo Radleys",
+"date": "1993-08-16",
+"score": 1
+},
+"Autechre|Incunabula": {
+"url": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf",
+"name": "Incunabula",
+"artist": "Autechre",
+"date": "1993-11-29",
+"score": 1
+},
+"Cypress Hill|Black Sunday": {
+"url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX",
+"name": "Black Sunday",
+"artist": "Cypress Hill",
+"date": "1993-07-20",
+"score": 1
+},
+"The Auteurs|New Wave": {
+"url": "https://open.spotify.com/album/7dJLDJkGND4ovSCRL4r4bk",
+"name": "New Wave",
+"artist": "The Auteurs",
+"date": "1993-01-01",
+"score": 1
+},
+"Portishead|Dummy": {
+"url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
+"name": "Dummy",
+"artist": "Portishead",
+"date": "1994-01-01",
+"score": 1
+},
+"The Prodigy|Music For A Jilted Generation": {
+"url": "https://open.spotify.com/album/4qhJwKBr2ksxAUFjfJd3rb",
+"name": "Music for the Jilted Generation",
+"artist": "The Prodigy",
+"date": "1994-04-04",
+"score": 0.92
+},
+"Underworld|Dubnobasswithmyheadman": {
+"url": "https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY",
+"name": "Dubnobasswithmyheadman (20th Anniversary Remaster)",
+"artist": "Underworld",
+"date": "1994-01-24",
+"score": 1
+},
+"Sabres Of Paradise|Haunted Dancehall": null,
+"Bandulu|Anti Matters": null,
+"Soundgarden|Superunknown": {
+"url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA",
+"name": "Superunknown (Deluxe Edition)",
+"artist": "Soundgarden",
+"date": "1994-03-09",
+"score": 1
+},
+"La Funk Mob|Tribulations Extra Sensorielles": null,
+"Autechre|Amber": {
+"url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32",
+"name": "Amber",
+"artist": "Autechre",
+"date": "1994-11-07",
+"score": 1
+},
+"DJ Krush|Krush": null,
+"Plastikman|Musik": {
+"url": "https://open.spotify.com/album/3dRmm4T0bCUIw4L1lphVYj",
+"name": "Musik (2024 Remastered)",
+"artist": "Plastikman, Richie Hawtin",
+"date": "2024-12-06",
+"score": 1
+},
+"Black Dog|Spanners": {
+"url": "https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO",
+"name": "Spanners",
+"artist": "The Black Dog",
+"date": "1995-01-16",
+"score": 1
+},
+"Beck|Mellow Gold": {
+"url": "https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj",
+"name": "Mellow Gold",
+"artist": "Beck",
+"date": "1994-03-01",
+"score": 1
+},
+"Aphex Twin|Selected Ambient Works Vol. 2": {
+"url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH",
+"name": "Selected Ambient Works Volume II",
+"artist": "Aphex Twin",
+"date": "1994-03-07",
+"score": 0.88
+},
+"The Jon Spencer Blues Explosion|Orange": {
+"url": "https://open.spotify.com/album/0oarrlKcBgNN2YwMZ6ddej",
+"name": "Orange",
+"artist": "The Jon Spencer Blues Explosion",
+"date": "2010-12-05",
+"score": 1
+},
+"Scorn|Evanescence": {
+"url": "https://open.spotify.com/album/0Vwzlrwn6ENELkr6Qei0Jf",
+"name": "Evanescence",
+"artist": "Scorn",
+"date": "1994",
+"score": 1
+},
+"Mu-ziq|Bluff Limbo": {
+"url": "https://open.spotify.com/album/2K5sVsEuYDUOZnANj1Kn5p",
+"name": "Bluff Limbo",
+"artist": "µ-Ziq",
+"date": "1994-08-15",
+"score": 1
+},
+"Urban Species|Listen": null,
+"Blur|Parklife": {
+"url": "https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4",
+"name": "Parklife",
+"artist": "Blur",
+"date": "1994-04-25",
+"score": 1
+},
+"Björk|Gling Glo": null,
+"Shellac|At Action Park": {
+"url": "https://open.spotify.com/album/0jyTzetEXLkLDqcTdbagVx",
+"name": "At Action Park",
+"artist": "Shellac",
+"date": "1994-10-24",
+"score": 1
+},
+"Tricky|Maxinquaye": {
+"url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8",
+"name": "Maxinquaye",
+"artist": "Tricky, Martina Topley-Bird",
+"date": "1995-01-01",
+"score": 1
+},
+"Leftfield|Leftism": {
+"url": "https://open.spotify.com/album/073h2b1HBGj3K1y63vqyfd",
+"name": "Leftism (Remastered)",
+"artist": "Leftfield",
+"date": "2017-05-05",
+"score": 1
+},
+"Goldie|Timeless": {
+"url": "https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk",
+"name": "Timeless",
+"artist": "Goldie",
+"date": "1995-01-01",
+"score": 1
+},
+"St Germain|Boulevard": {
+"url": "https://open.spotify.com/album/3z6aGZfwBF0obHrf3c5swg",
+"name": "Boulevard (The Complete Series)",
+"artist": "St Germain",
+"date": "1995-07-28",
+"score": 0.8
+},
+"DJ Krush|Strictly Turntablized": null,
+"DJ Krush|Meiso": {
+"url": "https://open.spotify.com/album/4CP9eTY7tIcp3w2idhLwvQ",
+"name": "Meiso",
+"artist": "DJ KRUSH",
+"date": "1996",
+"score": 1
+},
+"Tindersticks|Tindersticks 2": {
+"url": "https://open.spotify.com/album/4WWzemJiMfNnxbYAmz63fC",
+"name": "Tindersticks",
+"artist": "Tindersticks",
+"date": "1995-04-03",
+"score": 0.96
+},
+"Pan Sonic|Vakio": {
+"url": "https://open.spotify.com/album/5vAlc9i4nPlUwSnNqU6mJm",
+"name": "Vakio",
+"artist": "Pan Sonic",
+"date": "1995-01-01",
+"score": 1
+},
+"Autechre|Tri Repetae": {
+"url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI",
+"name": "Tri Repetae",
+"artist": "Autechre",
+"date": "1995-11-06",
+"score": 1
+},
+"Mouse On Mars|laora Tahiti": null,
+"The Chemical Brothers|Exit Planet Dust": {
+"url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg",
+"name": "Exit Planet Dust",
+"artist": "The Chemical Brothers",
+"date": "1995-07-03",
+"score": 1
+},
+"PJ Harvey|To Bring You My Love": {
+"url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8",
+"name": "To Bring You My Love",
+"artist": "PJ Harvey",
+"date": "1995-01-01",
+"score": 1
+},
+"Björk|Post": {
+"url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd",
+"name": "Post",
+"artist": "Björk",
+"date": "1995-06-13",
+"score": 1
+},
+"Oval|94 Diskont": {
+"url": "https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol",
+"name": "94diskont.",
+"artist": "Oval",
+"date": "1996-12-02",
+"score": 1
+},
+"Foo Fighters|Foo Fighters": {
+"url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY",
+"name": "Foo Fighters",
+"artist": "Foo Fighters",
+"date": "1995-07-04",
+"score": 1
+},
+"The Mighty Bop|La Vague Sensorielle": {
+"url": "https://open.spotify.com/album/5LDRICMjyBv1b3WJkbN8el",
+"name": "La vague sensorielle",
+"artist": "The Mighty Bop",
+"date": "1995-01-01",
+"score": 1
+},
+"The Mighty Bop|Meets DJ Cam & La Funk Mob": null,
+"Wagon Christ|Throbbing Pouch": null,
+"Aphex Twin|I Care Because You Do": {
+"url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE",
+"name": "...I Care Because You Do",
+"artist": "Aphex Twin",
+"date": "1995-04-24",
+"score": 1
+},
+"Aphex Twin|Classics": {
+"url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG",
+"name": "Classics",
+"artist": "Aphex Twin",
+"date": "1995",
+"score": 1
+},
+"A Guy Called Gerald|Black Secret Technology": null,
+"Carl Craig|6.9 The Sound Of Music": null,
+"DJ Cam|Underground Vibes": {
+"url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA",
+"name": "Underground Vibes",
+"artist": "DJ Cam",
+"date": "1995-05-20",
+"score": 1
+},
+"DJ Shadow|Endtroducing": {
+"url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN",
+"name": "Endtroducing.....",
+"artist": "DJ Shadow",
+"date": "1996-01-01",
+"score": 1
+},
+"Daft Punk|Homework": {
+"url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
+"name": "Homework",
+"artist": "Daft Punk",
+"date": "1997-01-17",
+"score": 1
+},
+"Motorbass|Pansoul": {
+"url": "https://open.spotify.com/album/39o84oQo2P35eebonxnIVF",
+"name": "Pansoul",
+"artist": "Motorbass",
+"date": "2021-10-21",
+"score": 1
+},
+"Squarepusher|Feed Me Weird Things": {
+"url": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR",
+"name": "Feed Me Weird Things (Remastered)",
+"artist": "Squarepusher",
+"date": "1996",
+"score": 1
+},
+"Herbert|100 Lbs": {
+"url": "https://open.spotify.com/album/1PDx2DibCjJkQeaa1qIblw",
+"name": "100lbs (2013 Special Edition)",
+"artist": "Herbert",
+"date": "2013-10-06",
+"score": 1
+},
+"Paul Johnson|Feel The Music": {
+"url": "https://open.spotify.com/album/3R38w0nQOzuI5mcGPNivxm",
+"name": "Feel The Music",
+"artist": "Paul Johnson",
+"date": "1996-01-01",
+"score": 1
+},
+"Beck|Odelay": {
+"url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp",
+"name": "Odelay",
+"artist": "Beck",
+"date": "1996-06-18",
+"score": 1
+},
+"Porter Ricks|Biokinetics": {
+"url": "https://open.spotify.com/album/3x3d5OeRMzfzheYpigO7XB",
+"name": "Biokinetics",
+"artist": "Porter Ricks",
+"date": "2021-07-02",
+"score": 1
+},
+"Superdiscount|Superdiscount": null,
+"Lamb|Lamb": {
+"url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO",
+"name": "Lamb",
+"artist": "Lamb",
+"date": "1996-01-01",
+"score": 1
+},
+"Fat Boy Slim|Better Living Through Chemistry": {
+"url": "https://open.spotify.com/album/6ryKeoHFK13xMnM9pxFAF8",
+"name": "Better Living Through Chemistry",
+"artist": "Fatboy Slim",
+"date": "1996-09-23",
+"score": 1
+},
+"Coldcut|JDJ 70 Minutes Of Madness": null,
+"Nicolette|Let No One Live Rent Free In Your Head": null,
+"Basic Channel|Basic Channel": null,
+"Dave Clarke|X-mix Electro Boogie": null,
+"Dave Clarke|Archive 1": {
+"url": "https://open.spotify.com/album/3OSEZVidzprB52zOTpOAX0",
+"name": "Dave Clarke (Live)",
+"artist": "Dave Clarke",
+"date": "2003-01-01",
+"score": 0.81
+},
+"Belle & Sebastian|If You're Feeling Sinister": {
+"url": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI",
+"name": "If You're Feeling Sinister",
+"artist": "Belle and Sebastian",
+"date": "1998-02-02",
+"score": 1
+},
+"Alec Empire|The Destroyer": {
+"url": "https://open.spotify.com/album/5b4Ai4nnP5NtUDhmEnIuPk",
+"name": "The Destroyer",
+"artist": "Alec Empire",
+"date": "1996",
+"score": 1
+},
+"Alec Empire|Hypermodern Jazz 2000": {
+"url": "https://open.spotify.com/album/6ZVK6H28JiEPLrAKc6Qrxy",
+"name": "Hypermodern Jazz 2000.5",
+"artist": "Alec Empire",
+"date": "2001-04-02",
+"score": 0.97
+},
+"LTJ Bukem|Logical Progression": null,
+"Dimitri From Paris|Sacrebleu": null,
+"The Wiseguys|Executive Suite": {
+"url": "https://open.spotify.com/album/7LvXpGYUlCS1gKi5WHJqXc",
+"name": "Executive Suite",
+"artist": "The Wiseguys",
+"date": "2006-12-31",
+"score": 1
+},
+"Roni Size & Reprazent|New Forms": {
+"url": "https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM",
+"name": "New Forms (20th Anniversary Edition)",
+"artist": "Roni Size, Reprazent",
+"date": "1997-05-23",
+"score": 1
+},
+"Major Force|The Original Art-Form": null,
+"Radiohead|OK Computer": {
+"url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+"name": "OK Computer",
+"artist": "Radiohead",
+"date": "1997-05-28",
+"score": 1
+},
+"The Chemical Brothers|Dig Your Own Hole": {
+"url": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK",
+"name": "Dig Your Own Hole",
+"artist": "The Chemical Brothers",
+"date": "1997-01-01",
+"score": 1
+},
+"Faze Action|Plans & Designs": {
+"url": "https://open.spotify.com/album/3QxEJt6HjxJiFCRtq7FMsz",
+"name": "Plans & Designs",
+"artist": "Faze Action",
+"date": "2018-10-12",
+"score": 1
+},
+"David Holmes|Lets Get Killed": {
+"url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1",
+"name": "Let's Get Killed",
+"artist": "David Holmes",
+"date": "1997-01-01",
+"score": 1
+},
+"Kruder & Dorfmeister|DJ Kicks": {
+"url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53",
+"name": "DJ-Kicks",
+"artist": "Kruder & Dorfmeister",
+"date": "1996-08-19",
+"score": 1
+},
+"Death In Vegas|Dead Elvis": {
+"url": "https://open.spotify.com/album/1juwFzIjQqYhPJ3aaj1cDd",
+"name": "Dead Elvis",
+"artist": "Death In Vegas",
+"date": "1997-03-17",
+"score": 1
+},
+"Björk|Homogenic": {
+"url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
+"name": "Homogenic",
+"artist": "Björk",
+"date": "1997-09-22",
+"score": 1
+},
+"Amon Tobin|Bricolage": {
+"url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH",
+"name": "Bricolage",
+"artist": "Amon Tobin",
+"date": "1997-05-19",
+"score": 1
+},
+"Nils Petter Molvaer|Khmer": null,
+"Fennesz|Hotel Paral.lel": {
+"url": "https://open.spotify.com/album/5pixtD9q1MQZZ6Nie2hpo1",
+"name": "Hotel Paral.lel",
+"artist": "Fennesz",
+"date": "1997-09-02",
+"score": 1
+},
+"Tosca|Opera": {
+"url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC",
+"name": "Opera",
+"artist": "Tosca",
+"date": "1997-02-13",
+"score": 1
+},
+"Moodyman|Your Silent Introduction": null,
+"Squarepusher|Hard Normal Daddy": {
+"url": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE",
+"name": "Hard Normal Daddy",
+"artist": "Squarepusher",
+"date": "1997-04-28",
+"score": 1
+},
+"Plaid|Not For Threes": {
+"url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL",
+"name": "Not For Threes",
+"artist": "Plaid",
+"date": "1997-10-27",
+"score": 1
+},
+"As One|Planetary Folklore": null,
+"Luke Vibert|Big Soup": null,
+"Luke Slater|Freek Funk": {
+"url": "https://open.spotify.com/album/28Krq111RJfvXWUHejlceu",
+"name": "Freek Funk",
+"artist": "Luke Slater",
+"date": "1997-10-20",
+"score": 1
+},
+"Carl Craig|More Songs About Food & Revolutionary Art": {
+"url": "https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU",
+"name": "More Songs About Food and Revolutionary Art",
+"artist": "Carl Craig",
+"date": "2007-03-14",
+"score": 1
+},
+"Kruder & Dorfmeister|K&D Sessions": {
+"url": "https://open.spotify.com/album/7Em2tm7Nhz7cXEhhenjhXc",
+"name": "Going Under (K&D Sessions TM)",
+"artist": "Rockers Hi-Fi, Kruder & Dorfmeister",
+"date": "1998-10-05",
+"score": 0.85
+},
+"Mercury Rev|Deserter's Songs": {
+"url": "https://open.spotify.com/album/6MvMOhNSo3bYEu42Wj9c4e",
+"name": "Deserter's Songs (Remastered)",
+"artist": "Mercury Rev",
+"date": "1998-09-29",
+"score": 1
+},
+"Amon Tobin|Permutation": {
+"url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp",
+"name": "Permutation",
+"artist": "Amon Tobin",
+"date": "1998-06-01",
+"score": 1
+},
+"Pan Sonic|Kulma": {
+"url": "https://open.spotify.com/album/0hXPccn7ckDhGMViSRwQGc",
+"name": "Kulma",
+"artist": "Pan Sonic",
+"date": "1996-01-01",
+"score": 1
+},
+"Pan Sonic|V.V.V.": null,
+"Massive Attack|Mezzanine": {
+"url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
+"name": "Mezzanine",
+"artist": "Massive Attack",
+"date": "1998-01-01",
+"score": 1
+},
+"Unkle|Psyence Fiction": {
+"url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS",
+"name": "Psyence Fiction",
+"artist": "UNKLE",
+"date": "1998-08-24",
+"score": 1
+},
+"Boards Of Canada|Music Has The Right To Children": {
+"url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU",
+"name": "Music Has The Right To Children",
+"artist": "Boards of Canada",
+"date": "1998-04-20",
+"score": 1
+},
+"Plastikman|Consumed": {
+"url": "https://open.spotify.com/album/1U7aY4kI9xeMuI3nD4LKBy",
+"name": "Consumed",
+"artist": "Plastikman, Richie Hawtin",
+"date": "1998-05-18",
+"score": 1
+},
+"Freestylers|We Rock Hard": {
+"url": "https://open.spotify.com/album/47k3kcJEHioOxtcZm0xCId",
+"name": "We Rock Hard",
+"artist": "Freestylers",
+"date": "1998-01-01",
+"score": 1
+},
+"Thievery Corporation|Sounds From The Thievery Hifi": {
+"url": "https://open.spotify.com/album/3n4Zqt489pJfqDkjRuqN05",
+"name": "Sounds From The Thievery Hi Fi",
+"artist": "Thievery Corporation",
+"date": "1997-06-07",
+"score": 1
+},
+"Kurtis Mantronik|I Sing The Body Electro": {
+"url": "https://open.spotify.com/album/6utFGx7e8pluTJmyO4SAk4",
+"name": "I Sing the Body Electro",
+"artist": "Kurtis Mantronik",
+"date": "1998-09-07",
+"score": 1
+},
+"Fat Boy Slim|You've Come A Long Way, Baby": {
+"url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN",
+"name": "You've Come a Long Way Baby",
+"artist": "Fatboy Slim",
+"date": "1998-10-19",
+"score": 1
+},
+"Pole|Cd 1": null,
+"Pole|Pole 2": null,
+"Propellerheads|Decksandrumsandrockandroll": {
+"url": "https://open.spotify.com/album/4uDxWaL8QzXErlU7LGGwdH",
+"name": "Decksandrumsandrockandroll",
+"artist": "Propellerheads",
+"date": "1998-01-01",
+"score": 1
+},
+"Noir Désir|One Trip One Noise": {
+"url": "https://open.spotify.com/album/7GqPxkJFQbM6o7lLX9T6rj",
+"name": "One Trip One Noise",
+"artist": "Noir Désir",
+"date": "1998-01-01",
+"score": 1
+},
+"Elliott Smith|Xo": {
+"url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh",
+"name": "XO",
+"artist": "Elliott Smith",
+"date": "1998-08-25",
+"score": 1
+},
+"The Wiseguys|The Anditote": null,
+"Beck|Mutations": {
+"url": "https://open.spotify.com/album/3IY3Oh7Gge0GCx7kWieEHc",
+"name": "Mutations",
+"artist": "Beck",
+"date": "1998-01-01",
+"score": 1
+},
+"DJ Krush / Toshinori Kondo|Ki-Oku": null,
+"Air|Moon Safari": {
+"url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA",
+"name": "Moon Safari",
+"artist": "Air",
+"date": "1998-01-16",
+"score": 1
+},
+"Product Of The Environment|Product Of The Environment": null,
+"The Beta Band|The Beta Band": {
+"url": "https://open.spotify.com/album/0XQJJyZnGyJo6S6T10CVhv",
+"name": "The Beta Band",
+"artist": "The Beta Band",
+"date": "1999-06-21",
+"score": 1
+},
+"Peace Orchestra|Peace Orchestra": {
+"url": "https://open.spotify.com/album/0K3eGBMX9RMo9QuQtMEEoT",
+"name": "Peace Orchestra",
+"artist": "Peace Orchestra",
+"date": "1999-09-09",
+"score": 1
+},
+"Death In Vegas|The Contino Sessions": {
+"url": "https://open.spotify.com/album/4emdFI4WR6qBPNBbJzhivv",
+"name": "The Contino Sessions",
+"artist": "Death In Vegas",
+"date": "1999-10-14",
+"score": 1
+},
+"Porter Ricks / Techno Animal|Symbiotics": null,
+"Sofa Surfers|Cargo": {
+"url": "https://open.spotify.com/album/3qbcIU9eaKpe2sfHKsrjVl",
+"name": "Cargo",
+"artist": "Sofa Surfers",
+"date": "2007-09-07",
+"score": 1
+},
+"Pan Sonic|A": {
+"url": "https://open.spotify.com/album/6dE4WLQIwx4Z9lhy0uxfiW",
+"name": "A",
+"artist": "Pan Sonic",
+"date": "2009-01-01",
+"score": 1
+},
+"Peshay|Miles From Home": null,
+"Basement Jaxx|Remedy": {
+"url": "https://open.spotify.com/album/5l7GOQvdeovtIAFmaHXshb",
+"name": "Remedy",
+"artist": "Basement Jaxx",
+"date": "1999-05-10",
+"score": 1
+},
+"Innerzone Orchestra|Programmed": {
+"url": "https://open.spotify.com/album/2R1PYQ5Ix60XywHx0k4W7B",
+"name": "Programmed",
+"artist": "Innerzone Orchestra",
+"date": "2011-04-26",
+"score": 1
+},
+"Funkstörung|Additional Productions": null,
+"Faultline|Closer Colder": {
+"url": "https://open.spotify.com/album/2HnrTUVNApWzcoG2FUV2wG",
+"name": "Closer Colder",
+"artist": "Faultline",
+"date": "1999-09-27",
+"score": 1
+},
+"Matmos|Quasi-Objects": {
+"url": "https://open.spotify.com/album/39MSmCRaxMfDd0UK7RL1Db",
+"name": "Quasi-Objects",
+"artist": "Matmos",
+"date": "1998-06-16",
+"score": 1
+},
+"Monolake|Interstate": {
+"url": "https://open.spotify.com/album/362kIjoTYU09dRbP3TB2Oc",
+"name": "Interstate",
+"artist": "Monolake",
+"date": "1999-02-10",
+"score": 1
+},
+"Moby|Play": {
+"url": "https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb",
+"name": "Play",
+"artist": "Moby",
+"date": "1999-05-17",
+"score": 1
+},
+"Mr Scruff|Keep It Unreal": {
+"url": "https://open.spotify.com/album/66MNxsrJBP9s4xvUssQvXD",
+"name": "Keep It Unreal",
+"artist": "Mr. Scruff",
+"date": "1999",
+"score": 1
+},
+"Pepe Deluxé|Super Sound": {
+"url": "https://open.spotify.com/album/6v7AxEu3RdqH010hSiKULE",
+"name": "Super Sound",
+"artist": "Pepe Deluxé",
+"date": "1999-01-01",
+"score": 1
+},
+"The Cinematic Orchestra|Motion": {
+"url": "https://open.spotify.com/album/7juArEEjY6Eu9uPI6SvCER",
+"name": "Motion",
+"artist": "The Cinematic Orchestra",
+"date": "1999-09-01",
+"score": 1
+},
+"Mouse On Mars|Niun Niggung": {
+"url": "https://open.spotify.com/album/0zxE2GPVT7EJiHk0qr9I0s",
+"name": "Niun Niggung",
+"artist": "Mouse On Mars",
+"date": "1999-01-01",
+"score": 1
+},
+"Kit Clayton|Nek Salanet": null,
+"Grandaddy|The Sophware Slump": null,
+"Goldfrapp|Felt Mountain": {
+"url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed",
+"name": "Felt Mountain",
+"artist": "Goldfrapp",
+"date": "2000-09-01",
+"score": 1
+},
+"Godspeed You! Black Emperor|Lift Yr. Skinny Fists Like Antennas To Heaven": null,
+"Nicola Conte|Jet Sounds": {
+"url": "https://open.spotify.com/album/6F3UXNn8wgohPOjP2QNb4a",
+"name": "Jet Sounds",
+"artist": "Nicola Conte",
+"date": "2000",
+"score": 1
+},
+"Funkstörung|Appetite For Destruction": {
+"url": "https://open.spotify.com/album/60ifBS580QDvzDeZ1jBpKD",
+"name": "Appetite for Destruction",
+"artist": "Funkstörung",
+"date": "2000-04-25",
+"score": 1
+},
+"The Dandy Warhols|Thirteen Tales From Urban Bohemia": {
+"url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak",
+"name": "Thirteen Tales From Urban Bohemia",
+"artist": "The Dandy Warhols",
+"date": "2000-01-01",
+"score": 1
+},
+"Sigur Rós|Agoetis Byrjun": {
+"url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
+"name": "Ágætis byrjun",
+"artist": "Sigur Rós",
+"date": "1999-06-12",
+"score": 0.92
+},
+"Air|The Virgin Suicides": {
+"url": "https://open.spotify.com/album/4wZEy5cdXfDe4e6Xir6Wf7",
+"name": "The Virgin Suicides Redux",
+"artist": "Air",
+"date": "2025-09-26",
+"score": 0.85
+},
+"Calexico|Hot Rail": {
+"url": "https://open.spotify.com/album/6wBjleMHrYfNEchXRrrNws",
+"name": "Hot Rail",
+"artist": "Calexico",
+"date": "2000-05-08",
+"score": 1
+},
+"Tosca|Suzuki": {
+"url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP",
+"name": "Suzuki",
+"artist": "Tosca",
+"date": "2000-03-06",
+"score": 1
+},
+"St Germain|Tourist": {
+"url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj",
+"name": "Tourist (Remastered)",
+"artist": "St Germain",
+"date": "2000",
+"score": 1
+},
+"Lemon Jelly|Lemon Jelly": {
+"url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk",
+"name": "LemonJelly.ky",
+"artist": "Lemon Jelly",
+"date": "2000-10-23",
+"score": 0.91
+},
+"Radiohead|Kid A": {
+"url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
+"name": "Kid A",
+"artist": "Radiohead",
+"date": "2000-10-02",
+"score": 1
+},
+"Señor Coconut Y Su Conjunto|El Baile Aleman": {
+"url": "https://open.spotify.com/album/3Ccq6HKwk0Wpc5O9Edi70H",
+"name": "El Baile Alemán",
+"artist": "Señor Coconut",
+"date": "2000-01-26",
+"score": 1
+},
+"Rubin Steiner|Lo Fi Nu Jazz n°2": {
+"url": "https://open.spotify.com/album/75aiX8eI5wUz5FZFNuzmjc",
+"name": "Lo-fi Nu Jazz, Vol. 2",
+"artist": "Rubin Steiner",
+"date": "2000",
+"score": 0.85
+},
+"Kid 606|P.S. I Love You": null,
+"Vladislav Delay|Multila": {
+"url": "https://open.spotify.com/album/059REKZPivhkzO4mNPjj2a",
+"name": "Multila (2020 Remaster)",
+"artist": "Vladislav Delay",
+"date": "2020-03-20",
+"score": 1
+},
+"Pan Sonic|Aaltopiiri": {
+"url": "https://open.spotify.com/album/4wVPKrWG3cL3DvwO1ZXCK4",
+"name": "Aaltopiri",
+"artist": "Pan Sonic",
+"date": "2000-01-01",
+"score": 0.95
+},
+"Medeski, Martin & Wood|The Dropper": {
+"url": "https://open.spotify.com/album/3IcnfBuh4RTyFvnHXtq691",
+"name": "The Dropper",
+"artist": "Medeski, Martin & Wood",
+"date": "2000-01-01",
+"score": 1
+},
+"Pole|3": {
+"url": "https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL",
+"name": "3",
+"artist": "Pole",
+"date": "2008-07-25",
+"score": 1
+},
+"Troublemakers|Doubts & Convictions": null,
+"Sparklehorse|It's A Wonderful Life": {
+"url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz",
+"name": "It's A Wonderful Life",
+"artist": "Sparklehorse",
+"date": "2001-08-08",
+"score": 1
+},
+"Noir Désir|Des Visages Des Figures": {
+"url": "https://open.spotify.com/album/2GbW5WBU1BFSChvxtt6BBH",
+"name": "Des visages des figures",
+"artist": "Noir Désir",
+"date": "2001-01-01",
+"score": 1
+},
+"Gotan Project|La Revancha Del Tango": {
+"url": "https://open.spotify.com/album/2riLhxE3UzS3evEXAwjEJq",
+"name": "La revancha del tango",
+"artist": "Gotan Project",
+"date": "2001",
+"score": 1
+},
+"Radiohead|Amnesiac": {
+"url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
+"name": "Amnesiac",
+"artist": "Radiohead",
+"date": "2001-03-12",
+"score": 1
+},
+"The White Stripes|White Blood Cells": {
+"url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0",
+"name": "White Blood Cells",
+"artist": "The White Stripes, Jack White",
+"date": "2001-07-03",
+"score": 1
+},
+"Manitoba|Start Breaking My Heart": null,
+"Lovage|Music To Make Love To Your Old Lady By": {
+"url": "https://open.spotify.com/album/4cJSjRnQTXkzbXuwcZKsbA",
+"name": "Music to Make Love to Your Old Lady By (Instrumental)",
+"artist": "Lovage, Nathaniel Merriweather",
+"date": "2001-11-06",
+"score": 0.85
+},
+"Björk|Vespertine": {
+"url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak",
+"name": "Vespertine",
+"artist": "Björk",
+"date": "2001-08-27",
+"score": 1
+},
+"The Strokes|Is This It": {
+"url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+"name": "Is This It",
+"artist": "The Strokes",
+"date": "2001-07-30",
+"score": 1
+},
+"Smash TV|Electrified": {
+"url": "https://open.spotify.com/album/5ilfmKY6WB4VnoWyJOBcNU",
+"name": "Electrified",
+"artist": "Smash TV",
+"date": "2002",
+"score": 1
+},
+"The Avalanches|Since I Left You": {
+"url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO",
+"name": "Since I Left You (20th Anniversary Deluxe Edition)",
+"artist": "The Avalanches",
+"date": "2000-11-27",
+"score": 1
+},
+"Air|10 000 Hz Legend": {
+"url": "https://open.spotify.com/album/2WNI378JH55k63eXBHbjbI",
+"name": "10 000 Hz Legend",
+"artist": "Air",
+"date": "2001-05-29",
+"score": 1
+},
+"Prefuse 73|Vocal Studies": {
+"url": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg",
+"name": "Vocal Studies and Uprock Narratives",
+"artist": "Prefuse 73",
+"date": "2001-06-11",
+"score": 0.8
+},
+"Prefuse 73|Uprock Narratives": {
+"url": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg",
+"name": "Vocal Studies and Uprock Narratives",
+"artist": "Prefuse 73",
+"date": "2001-06-11",
+"score": 0.85
+},
+"Set Fire To Flames|Sings Reign Rebuilders": null,
+"Miss Kittin & The Hacker|First Album": {
+"url": "https://open.spotify.com/album/24ldIhHulcB9eaxnATmhLi",
+"name": "First Album",
+"artist": "Miss Kittin, The Hacker",
+"date": "2001-10-01",
+"score": 1
+},
+"Matmos|A Chance To Cut Is A Chance To Cure": {
+"url": "https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs",
+"name": "A Chance To Cut Is A Chance To Cure",
+"artist": "Matmos",
+"date": "2001-03-12",
+"score": 1
+},
+"Felix Da Housecat|Kittenz & Thee Glitz": {
+"url": "https://open.spotify.com/album/2JmUeGcRIV0xak7KdQM7mM",
+"name": "Kittenz and Thee Glitz",
+"artist": "Felix Da Housecat",
+"date": "2017-09-29",
+"score": 1
+},
+"Mercury Rev|All Is Dream": {
+"url": "https://open.spotify.com/album/4N13GH5Ofi55VvG5yc3vFl",
+"name": "All is Dream",
+"artist": "Mercury Rev",
+"date": "2001-08-27",
+"score": 1
+},
+"Techno Animal|The Brotherhood Of The Bomb": {
+"url": "https://open.spotify.com/album/5pVwL6obb4ESIDyk9Y2z9e",
+"name": "The Brotherhood Of The Bomb (2023 Remaster)",
+"artist": "Techno Animal",
+"date": "2001-09-11",
+"score": 1
+},
+"2 Many DJ's|As Heard On Radio Soulwax Pt 2": null,
+"The Cinematic Orchestra|Every Day": {
+"url": "https://open.spotify.com/album/1EUXHvyflL27HwOTQgaVuh",
+"name": "Every Day",
+"artist": "The Cinematic Orchestra",
+"date": "2002-05-13",
+"score": 1
+},
+"Jaga Jazzist|A Livingroom Hush": null,
+"DJ Rupture|Minesweeper Suite": null,
+"Faultline|Your Love Means Everything": null,
+"Boards Of Canada|Geogaddi": {
+"url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE",
+"name": "Geogaddi",
+"artist": "Boards of Canada",
+"date": "2002-02-19",
+"score": 1
+},
+"Xploding Plastix|Amateur Girlfriends Go Proskirt Agents": {
+"url": "https://open.spotify.com/album/0PpqzVavZtr4XGjv1mqksc",
+"name": "Amateur Girlfriends Go Proskirt Agents",
+"artist": "Xploding Plastix",
+"date": "2002-05-28",
+"score": 1
+},
+"Chris De Luca & Peabird|Deadly Wiz Da Disco": null,
+"Múm|Finally We Are No One": {
+"url": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k",
+"name": "Finally We Are No One",
+"artist": "múm",
+"date": "2002-05-20",
+"score": 1
+},
+"Baxter Dury|Len Parrot's Memorial Lift": {
+"url": "https://open.spotify.com/album/7o3jY11C7XJWxOoSnQIrgB",
+"name": "Len Parrot's Memorial Lift",
+"artist": "Baxter Dury",
+"date": "2002-07-29",
+"score": 1
+},
+"The Notwist|Neon Golden": {
+"url": "https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu",
+"name": "Neon Golden",
+"artist": "The Notwist",
+"date": "2002-01-14",
+"score": 1
+},
+"Liars|They Threw Us All In A Trench & Stuck A Monument On Top": {
+"url": "https://open.spotify.com/album/3P0FQIvRlfo1lzz6sl16Iw",
+"name": "They Threw Us All in a Trench and Stuck a Monument on Top",
+"artist": "Liars",
+"date": "2001-10-30",
+"score": 1
+},
+"Radio 4|Gotham": {
+"url": "https://open.spotify.com/album/0NFLXpfr91bCK0arNQ76Nu",
+"name": "Gotham",
+"artist": "Radio 4",
+"date": "2002-01-01",
+"score": 1
+},
+"Tony Allen|Homecooking": {
+"url": "https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ",
+"name": "HomeCooking",
+"artist": "Tony Allen",
+"date": "2002",
+"score": 1
+},
+"RJD2|Deadringer": {
+"url": "https://open.spotify.com/album/609guKDxlKQYKXWXdWQFZa",
+"name": "Deadringer (Deluxe)",
+"artist": "RJD2",
+"date": "2002",
+"score": 1
+},
+"Death In Vegas|Scorpio Rising": {
+"url": "https://open.spotify.com/album/26tC5w0oT1hLkRj2RIWJIS",
+"name": "Scorpio Rising",
+"artist": "Death In Vegas",
+"date": "2003",
+"score": 1
+},
+"Boom Bip|Seed To Sum": {
+"url": "https://open.spotify.com/album/04fusuZ3J3l9QSr91MZoqo",
+"name": "Seed to Sun",
+"artist": "Boom Bip",
+"date": "2002-09-16",
+"score": 0.89
+},
+"The Faint|Danse Macabre": {
+"url": "https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV",
+"name": "Danse Macabre",
+"artist": "The Faint",
+"date": "2001-08-21",
+"score": 1
+},
+"DJ Shadow|The Private Press": {
+"url": "https://open.spotify.com/album/11EeD1nM2Ctrt6wF9seWV8",
+"name": "The Private Press",
+"artist": "DJ Shadow",
+"date": "2002-04-06",
+"score": 1
+},
+"Beck|Sea Change": {
+"url": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy",
+"name": "Sea Change",
+"artist": "Beck",
+"date": "2002-01-01",
+"score": 1
+},
+"Matmos|The Civil War": {
+"url": "https://open.spotify.com/album/6WCOn8pHMKQXu8GfT3ww7Q",
+"name": "The Civil War",
+"artist": "Matmos",
+"date": "2003-09-22",
+"score": 1
+},
+"Forss|Soulhack": {
+"url": "https://open.spotify.com/album/55keqdncZBBlD1lNIiBp71",
+"name": "Soulhack",
+"artist": "Forss",
+"date": "2003-06-02",
+"score": 1
+},
+"Plastikman|Closer": {
+"url": "https://open.spotify.com/album/22kp2ITg084dSo1G8yEVBg",
+"name": "Closer",
+"artist": "Plastikman, Richie Hawtin",
+"date": "2003-10-20",
+"score": 1
+},
+"Donna Summer|This Needs To Be Your Style": null,
+"I-Wolf|Soul Strata": {
+"url": "https://open.spotify.com/album/3SNVU0REraUdS3SonUe7YI",
+"name": "Presents Soul Strata",
+"artist": "I-Wolf",
+"date": "2004-08-13",
+"score": 0.85
+},
+"Monolake|Momentum": {
+"url": "https://open.spotify.com/album/6J5AWcVTAbjmA45gRR5iWA",
+"name": "Momentum",
+"artist": "Monolake",
+"date": "2003-10-17",
+"score": 1
+},
+"Dopplereffekt|Linear Accelerator": null,
+"Manitoba|Up In Flames": null,
+"The Cinematic Orchestra|Man With A Movie Camera": {
+"url": "https://open.spotify.com/album/0IIQQ4DsuNJWZmtK3FaYdp",
+"name": "Man With A Movie Camera",
+"artist": "The Cinematic Orchestra",
+"date": "2003-05-27",
+"score": 1
+},
+"The White Stripes|Elephant": {
+"url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE",
+"name": "Elephant",
+"artist": "The White Stripes, Jack White",
+"date": "2003-04-01",
+"score": 1
+},
+"Venetian Snares|Venetian Snares": null,
+"DJ Scud|Ambush!": null,
+"The Rapture|Echoes": {
+"url": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf",
+"name": "Echoes",
+"artist": "The Rapture",
+"date": "2003-09-08",
+"score": 1
+},
+"The Kills|Keep On Your Mean Side": {
+"url": "https://open.spotify.com/album/6igSL7RFTwQYPdgiYXImOs",
+"name": "Keep On Your Mean Side",
+"artist": "The Kills",
+"date": "2003-02-01",
+"score": 1
+},
+"The Bug|Pressure": {
+"url": "https://open.spotify.com/album/4oTan2TJpE2e2VldWmUkhD",
+"name": "Pressure",
+"artist": "The Bug, Flowdan",
+"date": "2021-07-27",
+"score": 1
+},
+"Radiohead|Hail To The Thief": {
+"url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy",
+"name": "Hail To the Thief",
+"artist": "Radiohead",
+"date": "2003-06-09",
+"score": 1
+},
+"Fourtet|Rounds": {
+"url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ",
+"name": "Rounds",
+"artist": "Four Tet",
+"date": "2003-03-05",
+"score": 1
+},
+"Alias|Muted": {
+"url": "https://open.spotify.com/album/1CFrtokhOgLpUDHgYXSOJK",
+"name": "Muted",
+"artist": "Alias",
+"date": "2003-10-28",
+"score": 1
+},
+"Riow Arai|Mind Edit": {
+"url": "https://open.spotify.com/album/4BpyzaOvrdMCuWHKfJAJm4",
+"name": "Mind Edit",
+"artist": "Riow Arai",
+"date": "1999-08-05",
+"score": 1
+},
+"Zongamin|Zongamin": {
+"url": "https://open.spotify.com/album/3rOFmaPzA5v86VJIjdBp8p",
+"name": "Zongamin",
+"artist": "Zongamin",
+"date": "2003-03-17",
+"score": 1
+},
+"TV On The Radio|Desperate Youth, Blood Thirsty Babes": {
+"url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx",
+"name": "Desperate Youth, Blood Thirsty Babes",
+"artist": "TV On The Radio",
+"date": "2004-03-09",
+"score": 1
+},
+"Pan Sonic|Kesto": {
+"url": "https://open.spotify.com/album/5STO4axRDQOmUSM24ezJWX",
+"name": "Kesto (234.48:4)",
+"artist": "Pan Sonic",
+"date": "2004-05-17",
+"score": 0.85
+},
+"End|The Sounds Of Disaster": {
+"url": "https://open.spotify.com/album/7aQyFR1aF3IFDoQQdBfVyR",
+"name": "The Sounds of Disaster",
+"artist": "End",
+"date": "2004-04-06",
+"score": 1
+},
+"Gonzales|Solo Piano": null,
+"Danger Mouse|The Grey Album": null,
+"Shitmat|Killababylonkutz": null,
+"Modey Lemon|Thunder + Lightning": {
+"url": "https://open.spotify.com/album/0154q8VL5x05pfEgVUc1tx",
+"name": "Thunder & Lightning",
+"artist": "Modey Lemon",
+"date": "2003-12-03",
+"score": 0.91
+},
+"Servovalve|Le Sixième Doigt": {
+"url": "https://open.spotify.com/album/0XkCaV57SgPIKaeFLyunb8",
+"name": "Le Sixième Doigt",
+"artist": "Servovalve",
+"date": "2004",
+"score": 1
+},
+"Fennesz / Vainio / Zanési|GRM Experience": null,
+"Jason Forrest|The Unrelenting Songs Of The 1979 Post Disco Crash": {
+"url": "https://open.spotify.com/album/28oAb6tAbInSNl2cntJ3aF",
+"name": "The Unrelenting Songs Of The 1979 Post Disco Crash",
+"artist": "Jason Forrest",
+"date": "2004-01-01",
+"score": 1
+},
+"Otto Von Schirach|Global Speaker Fisting": {
+"url": "https://open.spotify.com/album/3lMuzo5k8nbKSwu7IcJChs",
+"name": "Global Speaker Fisting",
+"artist": "Otto Von Schirach",
+"date": "2004-01-04",
+"score": 1
+},
+"I-Wolf & Burdy|Meet The Babylonians": {
+"url": "https://open.spotify.com/album/6I6zt3AGkX8B09ub7KJ5kG",
+"name": "I-Wolf & Burdy Meet the Babylonians",
+"artist": "I-Wolf",
+"date": "2004-10-25",
+"score": 1
+},
+"Björk|Medúlla": {
+"url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN",
+"name": "Medúlla",
+"artist": "Björk",
+"date": "2004-08-31",
+"score": 1
+},
+"Electrelane|The Power Out": {
+"url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7",
+"name": "The Power Out",
+"artist": "Electrelane",
+"date": "2004-01-26",
+"score": 1
+},
+"Chick! Chick! Chick!|Louden Up Now": {
+"url": "https://open.spotify.com/album/6D46fenYr525Ozdrd5k9ua",
+"name": "Louden Up Now",
+"artist": "!!!",
+"date": "2004-06-08",
+"score": 1
+},
+"Eagles Of Death Metal|Peace Love Death Metal": {
+"url": "https://open.spotify.com/album/5OiPygwsXIVacytHqCdNhP",
+"name": "Peace Love Death Metal",
+"artist": "Eagles Of Death Metal",
+"date": "2004-03-23",
+"score": 1
+},
+"William Shatner|Has Been": {
+"url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT",
+"name": "William Shatner Has Been",
+"artist": "William Shatner",
+"date": "2004",
+"score": 1
+},
+"Brian Wilson|Smile": {
+"url": "https://open.spotify.com/album/4Uc6YCjpfyjj02rZfg2EUv",
+"name": "Smile",
+"artist": "Brian Wilson",
+"date": "2004-09-27",
+"score": 1
+},
+"Air|Talkie Walkie": {
+"url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363",
+"name": "Talkie Walkie",
+"artist": "Air",
+"date": "2004-01-26",
+"score": 1
+},
+"Nicolas Repac|Swing-Swing": {
+"url": "https://open.spotify.com/album/7taaeJqw65AyvBSgGZ3dpc",
+"name": "Swing-Swing",
+"artist": "Nicolas Repac",
+"date": "2004-04-20",
+"score": 1
+},
+"|Anthology Of Noise & Electronic Music (Vol.1) + (Vol.2) + (Vol.3)": null,
+"|OHM: The Early Gurus Of Electronic Music: 1948-1980": null,
+"Raymond Scott|Manhattan Research Inc.": {
+"url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D",
+"name": "Manhattan Research, Inc.",
+"artist": "Raymond Scott",
+"date": "2000",
+"score": 1
+},
+"|Story Of Jamaican Music: Tougher Than Tough": null,
+"Phil Spector|Back To Mono": null,
+"|The Red Bird Story": null,
+"|Dr. Demento's Dementia 2000": null,
+"The Beatles|Anthology (Vol.1) + (Vol.2) + (Vol.3)": null,
+"The Hollies|30th Anniversary Collection 63-93": null,
+"The Rolling Stones|Singles Collection - The London Years": {
+"url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB",
+"name": "The Rolling Stones Singles Collection: The London Years",
+"artist": "The Rolling Stones",
+"date": "1989-08-15",
+"score": 1
+},
+"James Brown|Foundations Of Funk: A Brand New Bag 64-69": {
+"url": "https://open.spotify.com/album/6d2atfAJlmgmUkmUDdrqwg",
+"name": "Foundations Of Funk: A Brand New Bag: 1964-1969",
+"artist": "James Brown",
+"date": "1996-03-09",
+"score": 0.94
+},
+"James Brown|Make It Funky: The Big Payback 71-75": {
+"url": "https://open.spotify.com/album/15w6m3ASkWnzMOHr057g2t",
+"name": "Make It Funky/The Big Payback: 1971-1975",
+"artist": "James Brown",
+"date": "1996-07-23",
+"score": 0.93
+},
+"The Four Tops|Motown's Greatest Hits": null,
+"The Temptations|Anthology": {
+"url": "https://open.spotify.com/album/7MZsDBhEOpq6YkooyOMgGF",
+"name": "The Temptations",
+"artist": "The Temptations",
+"date": "1981-01-01",
+"score": 0.85
+},
+"The Supremes|Anthology": {
+"url": "https://open.spotify.com/album/7rHdiUo7B3WctstoSCewWn",
+"name": "The '70s Anthology",
+"artist": "The Supremes",
+"date": "2002-01-01",
+"score": 0.86
+},
+"The Isley Brothers|Motown's Greatest Hits": null,
+"The Creation|Collection": null,
+"Scott Walker & The Walker Brothers|No Regrets": {
+"url": "https://open.spotify.com/album/3dScpsRc91JKTolqzXwtZf",
+"name": "No Regrets - The Best Of Scott Walker & The Walker Brothers 1965 - 1976",
+"artist": "The Walker Brothers, Scott Walker",
+"date": "1992-01-01",
+"score": 0.8
+},
+"The Remains|The Remains": {
+"url": "https://open.spotify.com/album/4NngXhLNs7VUJ5mAr2nus7",
+"name": "The Remains",
+"artist": "The Remains",
+"date": "1966",
+"score": 1
+},
+"The Turtles|Happy Together: The Very Best Of The Turtles": null,
+"The Beach Boys|Good Vibrations: Thirty Years Of The Beach Boys": null,
+"|Nuggets: Original Artyfacts From The First Psychedelic Era 1965-68": {
+"url": "https://open.spotify.com/album/0Jja7XXmSKODF2nOjICXvX",
+"name": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+"artist": "Various Artists",
+"date": "2026-03-06",
+"score": 0.98
+},
+"|Nuggets II: Original Artyfacts From The British Empire & Beyond 1964-69": null,
+"Nancy Sinatra|The Hit Years": null,
+"|Inflight Entertainment: 19 New Ways To Fly Around The World Of Easy Listening": null,
+"|The Sound Spectrum": null,
+"MC5|Kick Out The Jams": {
+"url": "https://open.spotify.com/album/4Cru5Cer4lljBfNmCz7Ikj",
+"name": "Kick Out the Jams",
+"artist": "MC5",
+"date": "2017-03-22",
+"score": 1
+},
+"Dashiell Hedayat|Obsolete": {
+"url": "https://open.spotify.com/album/5uGMYEzp2328zVRw8qYnTY",
+"name": "Obsolete",
+"artist": "Dashiell Hedayat",
+"date": "2005-07-05",
+"score": 1
+},
+"Slade|Wall Of Hits": null,
+"Abba|The Definitive Collection": null,
+"Lee \"Scratch\" Perry|Arkology": null,
+"|The Disco Box": null,
+"The Salsoul Orchestra|Anthology": {
+"url": "https://open.spotify.com/album/7tNM7MKzgRBvK7uXNCibU1",
+"name": "Anthology, Vol. 2",
+"artist": "The Salsoul Orchestra",
+"date": "2012-01-31",
+"score": 0.85
+},
+"Electric Light Orchestra|Out Of The Blue": {
+"url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU",
+"name": "Out of the Blue",
+"artist": "Electric Light Orchestra",
+"date": "1977",
+"score": 1
+},
+"Cabaret Voltaire|Methodology: '74/'78 Attic Tapes": {
+"url": "https://open.spotify.com/album/4UsPfQ7NuGnlIMImXk0Sli",
+"name": "Methodology '74-'78: Attic Tapes",
+"artist": "Cabaret Voltaire",
+"date": "2008-12-12",
+"score": 1
+},
+"Buzzcocks|Singles Going Steady": {
+"url": "https://open.spotify.com/album/2ndzjS0sQBYC7slFuZilw7",
+"name": "Singles Going Steady (2019 Remastered Version)",
+"artist": "Buzzcocks",
+"date": "1979-09-25",
+"score": 1
+},
+"The Dickies|The Incredible Shrinking Dickies": {
+"url": "https://open.spotify.com/album/4Ihag1SKHFDIxLFIJUT1Wb",
+"name": "The Incredible Shrinking Dickies (Expanded Version)",
+"artist": "The Dickies",
+"date": "1979",
+"score": 1
+},
+"The Dickies|Dawn Of The Dickies": {
+"url": "https://open.spotify.com/album/6C237cCLVvMNffmOlvnv8v",
+"name": "Dawn Of The Dickies",
+"artist": "The Dickies",
+"date": "1979-01-01",
+"score": 1
+},
+"The Jam|Sound Affects": {
+"url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb",
+"name": "Sound Affects",
+"artist": "The Jam",
+"date": "1980-11-28",
+"score": 1
+},
+"The Beat|I Just Can't Stop It": {
+"url": "https://open.spotify.com/album/5qGvj18dIF8C58UIgJHOTf",
+"name": "I Just Can't Stop It (2012 Remaster)",
+"artist": "The Beat",
+"date": "1980-05-23",
+"score": 1
+},
+"Ramones|End Of The Century": {
+"url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv",
+"name": "End of the Century (Expanded 2005 Remaster)",
+"artist": "Ramones",
+"date": "1980-02-04",
+"score": 1
+},
+"Ramones|Pleasant Dreams": {
+"url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z",
+"name": "Pleasant Dreams (Expanded 2005 Remaster)",
+"artist": "Ramones",
+"date": "1981-07-20",
+"score": 1
+},
+"The Monochrome Set|Volume, Contrast, Brilliance... Vol.1": null,
+"Einstürzende Neubauten|Strategies Against Architecture 1+2": {
+"url": "https://open.spotify.com/album/0Pr8glThSnH7fb711xU24V",
+"name": "Strategies Against Architecture IV",
+"artist": "Einstürzende Neubauten",
+"date": "2010-11-08",
+"score": 0.94
+},
+"Machine Soul|An Odyssey Into Electronic Dance Music": null,
+"Kurtis Blow|Presents The History Of Rap Vol.1 + Vol.2 + Vol.3": null,
+"|Classic Electro Mastercuts Vol.1": null,
+"|Disco Not Disco Compiled By Joey Negro & Sean P. (Vol.1+2)": null,
+"|Ultimate Lessons (Cut Chemist*Dj Shadow*Double Dee & Steiski*Shortkut)": null,
+"|Hip Hop Don't Stop (Vol.1) + (Vol.2) + (Vol.3)": null,
+"|House Nation «Classic House Anthems» Vol.1 + Vol.2": null,
+"|Artificial Intelligence Vol.1 + Vol 2": null,
+"|Headz (A Soundtrack Of Beathead Jams... Abstract Musical Science)": null,
+"Rhythm & Sound|W/The Artists": {
+"url": "https://open.spotify.com/album/0rrr4SP4dOoCynCyPFxA9j",
+"name": "With the Artists",
+"artist": "Rhythm & Sound",
+"date": "2003",
+"score": 0.88
 }
 }

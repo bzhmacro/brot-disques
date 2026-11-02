@@ -8,10 +8,14 @@ def norm(s):
     s = re.sub(r'^the\s+', '', s.strip()); return re.sub(r'[^a-z0-9]+', '', s)
 src = open('pipeline/build_data.py').read()
 ARTALIAS = eval(src[src.index('ARTALIAS=') + 9:].split('\n')[0])
-REJECT = {("Love", "Love"), ("Tomorrow", "Tomorrow"), ("Paul Collins' Beat", "The Beat"), ("Prince", "Parade"),
+REJECT = {("Love", "Love"), ("Tomorrow", "Tomorrow"), ("Paul Collins' Beat", "The Beat"), 
           ("Marvin Gaye", "What's Going On"), ("James Brown", "Sex Machine"), ("Massive Attack", "Blue Lines"),
           ("Small Faces", "The Small Faces"), ("The Velvet Underground", "Live 1969 vol 1 & 2"),
-          ("Funkadelic", "One Nation Under A Groove"), ("Johnny Thunders & The Heartbreakers", "L.A.M.F.")}
+          ("Funkadelic", "One Nation Under A Groove"), ("Johnny Thunders & The Heartbreakers", "L.A.M.F."),
+          ("Dave Clarke", "Archive 1"), ("Kruder & Dorfmeister", "K&D Sessions"), ("Guru", "Jazzmatazz"),
+          ("The Temptations", "Anthology"), ("The Supremes", "Anthology"), ("The Salsoul Orchestra", "Anthology"),
+          ("Einstürzende Neubauten", "Strategies Against Architecture 1+2"),
+          ("Lovage", "Music To Make Love To Your Old Lady By"), ("Air", "The Virgin Suicides")}
 ACCEPT = {("Public Image Limited", "Public Image"), ("A Certain General", "November's Heat")}
 def artist_ok(want, got):
     ws = {norm(want), norm(ARTALIAS.get(want, want))}

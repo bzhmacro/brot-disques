@@ -375,23 +375,25 @@
      "albums": [
       {
        "title": "Rubber Soul",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Rubber%20Soul",
+       "spotify": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Rubber%20Soul%20full%20album",
-       "deezer": "https://www.deezer.com/album/161447252",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/eac2f4d3e9980c3f9ecbf75235ee2c24/250x250-000000-80-0-0.jpg",
-       "dz_title": "Rubber Soul",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/1109129472",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/e6b1f1fe4b354609ba357015a52c9921/250x250-000000-80-0-0.jpg",
+       "dz_title": "Rubber Soul (Super Deluxe)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Help!",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Help%21",
+       "spotify": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Help%21%20full%20album",
-       "deezer": "https://www.deezer.com/album/162166242",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/c435e0e0103e6fab661a3e622ab51947/250x250-000000-80-0-0.jpg",
-       "dz_title": "Help!",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/12047944",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/44f87ff491af981fd129b6d159f47b96/250x250-000000-80-0-0.jpg",
+       "dz_title": "Help! (Remastered 2009)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -849,13 +851,14 @@
      "albums": [
       {
        "title": "Revolver",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Revolver",
+       "spotify": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Revolver%20full%20album",
-       "deezer": "https://www.deezer.com/album/161950962",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/a89dba1c88c60407e0cd387853b838cc/250x250-000000-80-0-0.jpg",
-       "dz_title": "Revolver",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/12047948",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/6e1e24a3e4311371abd2c888b1f0e13e/250x250-000000-80-0-0.jpg",
+       "dz_title": "Revolver (Remastered 2009)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -1107,10 +1110,10 @@
        "title": "Love",
        "spotify": "https://open.spotify.com/search/Love%20Love",
        "youtube": "https://www.youtube.com/results?search_query=Love%20Love%20full%20album",
-       "deezer": "https://www.deezer.com/album/1033712362",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/102dca0a8e5734eca4eb7b012655ce44/250x250-000000-80-0-0.jpg",
-       "dz_title": "LOVE IS THE LAW",
-       "dz_artist": "Love Spells",
+       "deezer": "https://www.deezer.com/album/105296",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/a2902b8d5398c6496abe2723b00b3358/250x250-000000-80-0-0.jpg",
+       "dz_title": "Love and Rockets",
+       "dz_artist": "Love and Rockets",
        "conf": 0.8
       }
      ]
@@ -1261,23 +1264,25 @@
      "albums": [
       {
        "title": "Sgt. Pepper's Lonely Hearts Club Band",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Sgt.%20Pepper%27s%20Lonely%20Hearts%20Club%20Band",
+       "spotify": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Sgt.%20Pepper%27s%20Lonely%20Hearts%20Club%20Band%20full%20album",
-       "deezer": "https://www.deezer.com/album/162030002",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/b4d604768b6afd2cd8743001f855e8b4/250x250-000000-80-0-0.jpg",
-       "dz_title": "Sgt. Pepper's Lonely Hearts Club Band",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/12047960",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/4fcb73352b17d47429a273c5112632b0/250x250-000000-80-0-0.jpg",
+       "dz_title": "Sgt. Pepper's Lonely Hearts Club Band (Remastered 2009)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Magical Mystery Tour",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Magical%20Mystery%20Tour",
+       "spotify": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Magical%20Mystery%20Tour%20full%20album",
-       "deezer": "https://www.deezer.com/album/162465112",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/98d8486e46c3b6ef99ccaad7d4320865/250x250-000000-80-0-0.jpg",
-       "dz_title": "Magical Mystery Tour",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/12047938",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/4eb13af46f92a16e907745448ff91c70/250x250-000000-80-0-0.jpg",
+       "dz_title": "Magical Mystery Tour (Remastered 2009)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -2055,13 +2060,14 @@
      "albums": [
       {
        "title": "Abbey Road",
-       "spotify": "https://open.spotify.com/search/The%20Beatles%20Abbey%20Road",
+       "spotify": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beatles%20Abbey%20Road%20full%20album",
-       "deezer": "https://www.deezer.com/album/164909482",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/ab08841286faed60be3836909d386917/250x250-000000-80-0-0.jpg",
-       "dz_title": "Abbey Road",
-       "dz_artist": "The Beatles Complete On Ukulele",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/112126942",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/cb1291c76d83e54e03ea17e53df99cf2/250x250-000000-80-0-0.jpg",
+       "dz_title": "Abbey Road (Super Deluxe Edition)",
+       "dz_artist": "The Beatles",
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -5094,10 +5100,10 @@
        "title": "Suicide",
        "spotify": "https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp",
        "youtube": "https://www.youtube.com/results?search_query=Suicide%20Suicide%20full%20album",
-       "deezer": "https://www.deezer.com/album/1104139872",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/927f4dfc68396ccad412bf38debc7894/250x250-000000-80-0-0.jpg",
-       "dz_title": "Suicide",
-       "dz_artist": "The Suicide Of Zero",
+       "deezer": "https://www.deezer.com/album/900626922",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/8d487b390e08fe4edc7c4baf5883f059/250x250-000000-80-0-0.jpg",
+       "dz_title": "Suicide (Remastered 2019)",
+       "dz_artist": "Suicide",
        "conf": 1,
        "spotify_exact": true
       }
@@ -5159,10 +5165,10 @@
        "title": "The Clash",
        "spotify": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo",
        "youtube": "https://www.youtube.com/results?search_query=The%20Clash%20The%20Clash%20full%20album",
-       "deezer": "https://www.deezer.com/album/710247061",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/ff99fce3e4461934b8c373e5f6d0eec4/250x250-000000-80-0-0.jpg",
-       "dz_title": "The Clash",
-       "dz_artist": "The Clash Contenders",
+       "deezer": "https://www.deezer.com/album/6863554",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/5e8cc3e6beeb4a89767602e92fe81ca4/250x250-000000-80-0-0.jpg",
+       "dz_title": "The Clash (Remastered)",
+       "dz_artist": "The Clash",
        "conf": 1,
        "spotify_exact": true
       }
@@ -5270,10 +5276,10 @@
        "title": "Heroes",
        "spotify": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk",
        "youtube": "https://www.youtube.com/results?search_query=David%20Bowie%20Heroes%20full%20album",
-       "deezer": "https://www.deezer.com/album/315101157",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/4551f7ee6d2f631936439370958bbd8a/250x250-000000-80-0-0.jpg",
-       "dz_title": "Heroes",
-       "dz_artist": "David Bowie Experience",
+       "deezer": "https://www.deezer.com/album/56889262",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/5fb91018679f65199308256be3c584ab/250x250-000000-80-0-0.jpg",
+       "dz_title": "\"Heroes\" (2017 Remaster)",
+       "dz_artist": "David Bowie",
        "conf": 1,
        "spotify_exact": true
       }
@@ -6043,12 +6049,8 @@
        "title": "Metal Box",
        "spotify": "https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh",
        "youtube": "https://www.youtube.com/results?search_query=P.I.L.%20Metal%20Box%20full%20album",
-       "deezer": "https://www.deezer.com/album/301440",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/f1dd43153b9935f91bc4ab7dce9275a3/250x250-000000-80-0-0.jpg",
-       "dz_title": "Metal Box",
-       "dz_artist": "Public Image Limited",
-       "conf": 1,
-       "spotify_exact": true
+       "spotify_exact": true,
+       "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02c7b4593ada796a713010466b"
       }
      ]
     },
@@ -6912,10 +6914,10 @@
        "title": "Eastside Story",
        "spotify": "https://open.spotify.com/search/Squeeze%20Eastside%20Story",
        "youtube": "https://www.youtube.com/results?search_query=Squeeze%20Eastside%20Story%20full%20album",
-       "deezer": "https://www.deezer.com/album/703498531",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/78e18debd34f562721f7a3a7a5988db1/250x250-000000-80-0-0.jpg",
-       "dz_title": "Eastside Story",
-       "dz_artist": "Capt. Squeeze 1st",
+       "deezer": "https://www.deezer.com/album/6107997",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/164f45013d461f901a87e140dbe24cae/250x250-000000-80-0-0.jpg",
+       "dz_title": "East Side Story",
+       "dz_artist": "Squeeze",
        "conf": 1
       }
      ]
@@ -8787,8 +8789,9 @@
      "albums": [
       {
        "title": "Parade",
-       "spotify": "https://open.spotify.com/search/Prince%20Parade",
+       "spotify": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB",
        "youtube": "https://www.youtube.com/results?search_query=Prince%20Parade%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/e53acde2-984a-3d2d-b50d-855384ec75e8/front-250"
       }
      ]
@@ -10314,13 +10317,14 @@
      "albums": [
       {
        "title": "Adventures Beyond The Ultraworld",
-       "spotify": "https://open.spotify.com/search/The%20Orb%20Adventures%20Beyond%20The%20Ultraworld",
+       "spotify": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk",
        "youtube": "https://www.youtube.com/results?search_query=The%20Orb%20Adventures%20Beyond%20The%20Ultraworld%20full%20album",
        "deezer": "https://www.deezer.com/album/153092242",
        "cover": "https://cdn-images.dzcdn.net/images/cover/111a49adce26aca2fb045e2a0a37742c/250x250-000000-80-0-0.jpg",
        "dz_title": "Adventures Beyond The Ultraworld",
        "dz_artist": "The Orb",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10331,13 +10335,14 @@
      "albums": [
       {
        "title": "Yerself Is Steam",
-       "spotify": "https://open.spotify.com/search/Mercury%20Rev%20Yerself%20Is%20Steam",
+       "spotify": "https://open.spotify.com/album/4HhwJ4in1kJ496d9h1n15q",
        "youtube": "https://www.youtube.com/results?search_query=Mercury%20Rev%20Yerself%20Is%20Steam%20full%20album",
        "deezer": "https://www.deezer.com/album/991837",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e959ccb55b698d3d7138da333119d899/250x250-000000-80-0-0.jpg",
        "dz_title": "Yerself Is Steam",
        "dz_artist": "Mercury Rev",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10348,13 +10353,14 @@
      "albums": [
       {
        "title": "The White Room",
-       "spotify": "https://open.spotify.com/search/The%20KLF%20The%20White%20Room",
+       "spotify": "https://open.spotify.com/album/7n7NzplHz7xjmTRQ9TxQqu",
        "youtube": "https://www.youtube.com/results?search_query=The%20KLF%20The%20White%20Room%20full%20album",
        "deezer": "https://www.deezer.com/album/224663552",
        "cover": "https://cdn-images.dzcdn.net/images/cover/538909650bb894e70582e73ed85f5d88/250x250-000000-80-0-0.jpg",
        "dz_title": "The White Room (Director's Cut)",
        "dz_artist": "The KLF",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -10365,13 +10371,14 @@
      "albums": [
       {
        "title": "Orbital",
-       "spotify": "https://open.spotify.com/search/Orbital%20Orbital",
+       "spotify": "https://open.spotify.com/album/7a129X2pYyMqHFfpKidRtr",
        "youtube": "https://www.youtube.com/results?search_query=Orbital%20Orbital%20full%20album",
        "deezer": "https://www.deezer.com/album/51652902",
        "cover": "https://cdn-images.dzcdn.net/images/cover/f914edbac32e79853d0b6863dc536519/250x250-000000-80-0-0.jpg",
        "dz_title": "Orbital",
        "dz_artist": "Orbital",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10382,13 +10389,14 @@
      "albums": [
       {
        "title": "A Word On Science",
-       "spotify": "https://open.spotify.com/search/Nightmares%20On%20Wax%20A%20Word%20On%20Science",
+       "spotify": "https://open.spotify.com/album/7D2Hg8N6JEpdyaUFe26yni",
        "youtube": "https://www.youtube.com/results?search_query=Nightmares%20On%20Wax%20A%20Word%20On%20Science%20full%20album",
        "deezer": "https://www.deezer.com/album/2794821",
        "cover": "https://cdn-images.dzcdn.net/images/cover/be93f10fc738cf0bb18d416652d90d94/250x250-000000-80-0-0.jpg",
        "dz_title": "A Word Of Science",
        "dz_artist": "Nightmares On Wax",
-       "conf": 0.93
+       "conf": 0.93,
+       "spotify_exact": true
       }
      ]
     },
@@ -10399,13 +10407,14 @@
      "albums": [
       {
        "title": "Goat",
-       "spotify": "https://open.spotify.com/search/Jesus%20Lizard%20Goat",
+       "spotify": "https://open.spotify.com/album/7uweroXf5R6hWxC1kDXJg3",
        "youtube": "https://www.youtube.com/results?search_query=Jesus%20Lizard%20Goat%20full%20album",
        "deezer": "https://www.deezer.com/album/13259231",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7645b7f8f6b1467e35501877df848b33/250x250-000000-80-0-0.jpg",
        "dz_title": "Goat (Remaster / Reissue)",
        "dz_artist": "The Jesus Lizard",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10416,13 +10425,14 @@
      "albums": [
       {
        "title": "Badmotorfinger",
-       "spotify": "https://open.spotify.com/search/Soundgarden%20Badmotorfinger",
+       "spotify": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3",
        "youtube": "https://www.youtube.com/results?search_query=Soundgarden%20Badmotorfinger%20full%20album",
        "deezer": "https://www.deezer.com/album/14581962",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ed4bb82a29a4bea1282b79c41f5407a0/250x250-000000-80-0-0.jpg",
        "dz_title": "Badmotorfinger (25th Anniversary Remaster)",
        "dz_artist": "Soundgarden",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10433,13 +10443,14 @@
      "albums": [
       {
        "title": "Trompe Le Monde",
-       "spotify": "https://open.spotify.com/search/Pixies%20Trompe%20Le%20Monde",
+       "spotify": "https://open.spotify.com/album/1xtaONLuwdb5STNnLGNVGi",
        "youtube": "https://www.youtube.com/results?search_query=Pixies%20Trompe%20Le%20Monde%20full%20album",
        "deezer": "https://www.deezer.com/album/91463232",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0df3085fd778c17c06a429f8935bea69/250x250-000000-80-0-0.jpg",
        "dz_title": "Trompe le Monde",
        "dz_artist": "Pixies",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10450,13 +10461,14 @@
      "albums": [
       {
        "title": "Friendly Fascism",
-       "spotify": "https://open.spotify.com/search/Consolidated%20Friendly%20Fascism",
+       "spotify": "https://open.spotify.com/album/0YvT40tXBDeVjPlK8gTnXZ",
        "youtube": "https://www.youtube.com/results?search_query=Consolidated%20Friendly%20Fascism%20full%20album",
        "deezer": "https://www.deezer.com/album/290605782",
        "cover": "https://cdn-images.dzcdn.net/images/cover/9e320a6f12e96f596cb0975412d3f9c5/250x250-000000-80-0-0.jpg",
        "dz_title": "Friendly Fa$cism",
        "dz_artist": "Consolidated",
-       "conf": 0.97
+       "conf": 0.97,
+       "spotify_exact": true
       }
      ]
     },
@@ -10467,13 +10479,14 @@
      "albums": [
       {
        "title": "Ex:El",
-       "spotify": "https://open.spotify.com/search/808%20State%20Ex%3AEl",
+       "spotify": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z",
        "youtube": "https://www.youtube.com/results?search_query=808%20State%20Ex%3AEl%20full%20album",
        "deezer": "https://www.deezer.com/album/179898692",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6607be89fec14f31c866ccb667d9831e/250x250-000000-80-0-0.jpg",
        "dz_title": "ex:el",
        "dz_artist": "808 State",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10484,13 +10497,14 @@
      "albums": [
       {
        "title": "Out Of Time",
-       "spotify": "https://open.spotify.com/search/R.E.M.%20Out%20Of%20Time",
+       "spotify": "https://open.spotify.com/album/2vPM8y0gBZTnEO48rGnCzs",
        "youtube": "https://www.youtube.com/results?search_query=R.E.M.%20Out%20Of%20Time%20full%20album",
        "deezer": "https://www.deezer.com/album/14581358",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a968ed3814acb2ef8f3929b1bebcb42d/250x250-000000-80-0-0.jpg",
        "dz_title": "Out Of Time",
        "dz_artist": "R.E.M.",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10527,13 +10541,14 @@
      "albums": [
       {
        "title": "Laughing Stock",
-       "spotify": "https://open.spotify.com/search/Talk%20Talk%20Laughing%20Stock",
+       "spotify": "https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue",
        "youtube": "https://www.youtube.com/results?search_query=Talk%20Talk%20Laughing%20Stock%20full%20album",
        "deezer": "https://www.deezer.com/album/161721",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a4f7f9012a4dcaa36908cef1055bab29/250x250-000000-80-0-0.jpg",
        "dz_title": "Laughing Stock",
        "dz_artist": "Talk Talk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10544,13 +10559,14 @@
      "albums": [
       {
        "title": "Spiderland",
-       "spotify": "https://open.spotify.com/search/Slint%20Spiderland",
+       "spotify": "https://open.spotify.com/album/3crSdepGPHDSUXAU9y98lG",
        "youtube": "https://www.youtube.com/results?search_query=Slint%20Spiderland%20full%20album",
        "deezer": "https://www.deezer.com/album/13254973",
        "cover": "https://cdn-images.dzcdn.net/images/cover/eda1db8a1e9ddd35691c9fa22f7c6a2e/250x250-000000-80-0-0.jpg",
        "dz_title": "Spiderland",
        "dz_artist": "Slint",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -10568,13 +10584,14 @@
      "albums": [
       {
        "title": "Henry's Dream",
-       "spotify": "https://open.spotify.com/search/Nick%20Cave%20%26%20The%20Bad%20Seeds%20Henry%27s%20Dream",
+       "spotify": "https://open.spotify.com/album/6GNmNVoA898u0cN1dYj2Dr",
        "youtube": "https://www.youtube.com/results?search_query=Nick%20Cave%20%26%20The%20Bad%20Seeds%20Henry%27s%20Dream%20full%20album",
        "deezer": "https://www.deezer.com/album/901493642",
        "cover": "https://cdn-images.dzcdn.net/images/cover/63db195320168367c587ce07c20068b0/250x250-000000-80-0-0.jpg",
        "dz_title": "Henry's Dream (Remastered 2010)",
        "dz_artist": "Nick Cave & The Bad Seeds",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10585,13 +10602,14 @@
      "albums": [
       {
        "title": "Slanted & Enchanted",
-       "spotify": "https://open.spotify.com/search/Pavement%20Slanted%20%26%20Enchanted",
+       "spotify": "https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD",
        "youtube": "https://www.youtube.com/results?search_query=Pavement%20Slanted%20%26%20Enchanted%20full%20album",
        "deezer": "https://www.deezer.com/album/106827",
        "cover": "https://cdn-images.dzcdn.net/images/cover/783e2d9d40da3b29369fc88c7967933a/250x250-000000-80-0-0.jpg",
        "dz_title": "Slanted & Enchanted",
        "dz_artist": "Pavement",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10602,13 +10620,14 @@
      "albums": [
       {
        "title": "Copper Blue",
-       "spotify": "https://open.spotify.com/search/Sugar%20Copper%20Blue",
+       "spotify": "https://open.spotify.com/album/7ndxJRCMbUDbuUTEuiG23u",
        "youtube": "https://www.youtube.com/results?search_query=Sugar%20Copper%20Blue%20full%20album",
        "deezer": "https://www.deezer.com/album/901451712",
        "cover": "https://cdn-images.dzcdn.net/images/cover/2f2ac1e638ec87289f19dff122fccde7/250x250-000000-80-0-0.jpg",
        "dz_title": "Copper Blue (Remastered 2012)",
        "dz_artist": "Sugar",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10619,13 +10638,14 @@
      "albums": [
       {
        "title": "Experience",
-       "spotify": "https://open.spotify.com/search/Prodigy%20Experience",
+       "spotify": "https://open.spotify.com/album/2hEyYIrm4e6gVgfaYLY00x",
        "youtube": "https://www.youtube.com/results?search_query=Prodigy%20Experience%20full%20album",
        "deezer": "https://www.deezer.com/album/572670391",
        "cover": "https://cdn-images.dzcdn.net/images/cover/75be15fac2c54d3c39b56e4338ef72cc/250x250-000000-80-0-0.jpg",
        "dz_title": "Experience",
        "dz_artist": "The Prodigy",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10636,13 +10656,14 @@
      "albums": [
       {
        "title": "Dry",
-       "spotify": "https://open.spotify.com/search/PJ%20Harvey%20Dry",
+       "spotify": "https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg",
        "youtube": "https://www.youtube.com/results?search_query=PJ%20Harvey%20Dry%20full%20album",
        "deezer": "https://www.deezer.com/album/84945062",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8ac559d4b4509eeb72fe88feeb1fbbb7/250x250-000000-80-0-0.jpg",
        "dz_title": "Dry",
        "dz_artist": "PJ Harvey",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10653,13 +10674,14 @@
      "albums": [
       {
        "title": "Psalm 69",
-       "spotify": "https://open.spotify.com/search/Ministry%20Psalm%2069",
+       "spotify": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5",
        "youtube": "https://www.youtube.com/results?search_query=Ministry%20Psalm%2069%20full%20album",
        "deezer": "https://www.deezer.com/album/86474",
        "cover": "https://cdn-images.dzcdn.net/images/cover/70c5ff9a1cd73315cab8ef5b687133dc/250x250-000000-80-0-0.jpg",
        "dz_title": "KE*A*H** (Psalm 69)",
        "dz_artist": "Ministry",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -10670,8 +10692,9 @@
      "albums": [
       {
        "title": "Death Is Not The End",
-       "spotify": "https://open.spotify.com/search/Shut%20up%20%26%20Dance%20Death%20Is%20Not%20The%20End",
+       "spotify": "https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK",
        "youtube": "https://www.youtube.com/results?search_query=Shut%20up%20%26%20Dance%20Death%20Is%20Not%20The%20End%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/a315a7c8-f75f-3da0-ad41-5f308d2f9c4c/front-250"
       }
      ]
@@ -10683,13 +10706,14 @@
      "albums": [
       {
        "title": "Lido",
-       "spotify": "https://open.spotify.com/search/Th%27%20Faith%20Healers%20Lido",
+       "spotify": "https://open.spotify.com/album/2TDVtKiP7vzkm7ePRvRa5q",
        "youtube": "https://www.youtube.com/results?search_query=Th%27%20Faith%20Healers%20Lido%20full%20album",
        "deezer": "https://www.deezer.com/album/105808",
        "cover": "https://cdn-images.dzcdn.net/images/cover/dc50d989aab8c53644d93d01258d5500/250x250-000000-80-0-0.jpg",
        "dz_title": "Lido",
        "dz_artist": "Th' Faith Healers",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10700,13 +10724,14 @@
      "albums": [
       {
        "title": "Hypocrisy Is The Greatest Luxury",
-       "spotify": "https://open.spotify.com/search/The%20Disposable%20Heroes%20Of%20Hiphoprisy%20Hypocrisy%20Is%20The%20Greatest%20Luxury",
+       "spotify": "https://open.spotify.com/album/1FJ9XKn6aTTigSG5GTQaXZ",
        "youtube": "https://www.youtube.com/results?search_query=The%20Disposable%20Heroes%20Of%20Hiphoprisy%20Hypocrisy%20Is%20The%20Greatest%20Luxury%20full%20album",
        "deezer": "https://www.deezer.com/album/230725",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c22acbfdb4e064eab0948af9d4673571/250x250-000000-80-0-0.jpg",
        "dz_title": "Hypocrisy Is The Greatest Luxury",
        "dz_artist": "The Disposable Heroes Of Hiphoprisy",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10730,13 +10755,14 @@
      "albums": [
       {
        "title": "It's A Shame About Ray",
-       "spotify": "https://open.spotify.com/search/Lemonheads%20It%27s%20A%20Shame%20About%20Ray",
+       "spotify": "https://open.spotify.com/album/1W9smK7cjQlH5YZaqbDzQ8",
        "youtube": "https://www.youtube.com/results?search_query=Lemonheads%20It%27s%20A%20Shame%20About%20Ray%20full%20album",
        "deezer": "https://www.deezer.com/album/513530062",
        "cover": "https://cdn-images.dzcdn.net/images/cover/bbc4970f60f8db7840425605368b6863/250x250-000000-80-0-0.jpg",
        "dz_title": "It's a Shame About Ray",
        "dz_artist": "The Lemonheads",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10747,13 +10773,14 @@
      "albums": [
       {
        "title": "Liar",
-       "spotify": "https://open.spotify.com/search/The%20Jesus%20Lizard%20Liar",
+       "spotify": "https://open.spotify.com/album/3NB6ddIwEHykimIztj8kuK",
        "youtube": "https://www.youtube.com/results?search_query=The%20Jesus%20Lizard%20Liar%20full%20album",
        "deezer": "https://www.deezer.com/album/13258107",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a9690f474875b2eec79c3fbca960cca5/250x250-000000-80-0-0.jpg",
        "dz_title": "Liar",
        "dz_artist": "The Jesus Lizard",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10764,13 +10791,14 @@
      "albums": [
       {
        "title": "Automatic For The People",
-       "spotify": "https://open.spotify.com/search/R.E.M.%20Automatic%20For%20The%20People",
+       "spotify": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q",
        "youtube": "https://www.youtube.com/results?search_query=R.E.M.%20Automatic%20For%20The%20People%20full%20album",
        "deezer": "https://www.deezer.com/album/12752508",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8f9e1252bb3ee900f342a2c83a378922/250x250-000000-80-0-0.jpg",
        "dz_title": "Automatic For The People",
        "dz_artist": "R.E.M.",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10781,13 +10809,14 @@
      "albums": [
       {
        "title": "UFOrb",
-       "spotify": "https://open.spotify.com/search/The%20Orb%20UFOrb",
+       "spotify": "https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb",
        "youtube": "https://www.youtube.com/results?search_query=The%20Orb%20UFOrb%20full%20album",
        "deezer": "https://www.deezer.com/album/119544",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a68449b55e9531feee626425917f68f7/250x250-000000-80-0-0.jpg",
        "dz_title": "U.F.Orb",
        "dz_artist": "The Orb",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10837,13 +10866,14 @@
      "albums": [
       {
        "title": "Check Your Head",
-       "spotify": "https://open.spotify.com/search/Beastie%20Boys%20Check%20Your%20Head",
+       "spotify": "https://open.spotify.com/album/7CSP7J60QKIBCqOV64qILq",
        "youtube": "https://www.youtube.com/results?search_query=Beastie%20Boys%20Check%20Your%20Head%20full%20album",
        "deezer": "https://www.deezer.com/album/302933",
        "cover": "https://cdn-images.dzcdn.net/images/cover/5555aaaef7035362932b84150c6bdddb/250x250-000000-80-0-0.jpg",
        "dz_title": "Check Your Head (Deluxe Edition/Remastered/2009)",
        "dz_artist": "Beastie Boys",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10868,13 +10898,14 @@
      "albums": [
       {
        "title": "TV Sky",
-       "spotify": "https://open.spotify.com/search/The%20Young%20Gods%20TV%20Sky",
+       "spotify": "https://open.spotify.com/album/4oUhLg5wRdyxGWj2nRQb95",
        "youtube": "https://www.youtube.com/results?search_query=The%20Young%20Gods%20TV%20Sky%20full%20album",
        "deezer": "https://www.deezer.com/album/303219917",
        "cover": "https://cdn-images.dzcdn.net/images/cover/25ab37c83b2d4719d2bb3a32363fdc8a/250x250-000000-80-0-0.jpg",
        "dz_title": "TV Sky (30 years Anniversary)",
        "dz_artist": "The Young Gods",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -10892,13 +10923,14 @@
      "albums": [
       {
        "title": "Debut",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Debut",
+       "spotify": "https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Debut%20full%20album",
        "deezer": "https://www.deezer.com/album/537882502",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8c922fd15bf105320d24d0a2b23bef7f/250x250-000000-80-0-0.jpg",
        "dz_title": "Debut",
        "dz_artist": "Björk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10909,13 +10941,14 @@
      "albums": [
       {
        "title": "Tindersticks",
-       "spotify": "https://open.spotify.com/search/Tindersticks%20Tindersticks",
+       "spotify": "https://open.spotify.com/album/4WWzemJiMfNnxbYAmz63fC",
        "youtube": "https://www.youtube.com/results?search_query=Tindersticks%20Tindersticks%20full%20album",
        "deezer": "https://www.deezer.com/album/61421342",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ec1dd6a05d0577181adbca94b9d4af58/250x250-000000-80-0-0.jpg",
        "dz_title": "Tindersticks",
        "dz_artist": "Tindersticks",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10938,13 +10971,14 @@
      "albums": [
       {
        "title": "Hand On The Torch",
-       "spotify": "https://open.spotify.com/search/US3%20Hand%20On%20The%20Torch",
+       "spotify": "https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1",
        "youtube": "https://www.youtube.com/results?search_query=US3%20Hand%20On%20The%20Torch%20full%20album",
        "deezer": "https://www.deezer.com/album/319847",
        "cover": "https://cdn-images.dzcdn.net/images/cover/413709dbd9752945249122b73372dea2/250x250-000000-80-0-0.jpg",
        "dz_title": "Hand On The Torch",
        "dz_artist": "Us3",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10955,13 +10989,14 @@
      "albums": [
       {
        "title": "Orbital 2",
-       "spotify": "https://open.spotify.com/search/Orbital%20Orbital%202",
+       "spotify": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W",
        "youtube": "https://www.youtube.com/results?search_query=Orbital%20Orbital%202%20full%20album",
        "deezer": "https://www.deezer.com/album/51662902",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b1bde831591e99f1c3afdbbeb28545e7/250x250-000000-80-0-0.jpg",
        "dz_title": "Orbital 2",
        "dz_artist": "Orbital",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -10972,13 +11007,14 @@
      "albums": [
       {
        "title": "Dream Of 100 Nations",
-       "spotify": "https://open.spotify.com/search/Trans-Global%20Underground%20Dream%20Of%20100%20Nations",
+       "spotify": "https://open.spotify.com/album/3B9pC7Lum99oskyZBU4dqr",
        "youtube": "https://www.youtube.com/results?search_query=Trans-Global%20Underground%20Dream%20Of%20100%20Nations%20full%20album",
        "deezer": "https://www.deezer.com/album/258114",
        "cover": "https://cdn-images.dzcdn.net/images/cover/25fca386b318864dadcb05a457caefa6/250x250-000000-80-0-0.jpg",
        "dz_title": "Dream of 100 Nations",
        "dz_artist": "Transglobal Underground",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11002,13 +11038,14 @@
      "albums": [
       {
        "title": "Bytes",
-       "spotify": "https://open.spotify.com/search/Black%20Dog%20Productions%20Bytes",
+       "spotify": "https://open.spotify.com/album/3bVlfmSsqAhusT3IIyfHCW",
        "youtube": "https://www.youtube.com/results?search_query=Black%20Dog%20Productions%20Bytes%20full%20album",
        "deezer": "https://www.deezer.com/album/2794861",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c4476642cdb69e3668ea780cac86295a/250x250-000000-80-0-0.jpg",
        "dz_title": "Bytes",
        "dz_artist": "Black Dog Productions",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11019,13 +11056,14 @@
      "albums": [
       {
        "title": "Tango'n'vectif",
-       "spotify": "https://open.spotify.com/search/Mu-ziq%20Tango%27n%27vectif",
+       "spotify": "https://open.spotify.com/album/5ntb4e9tsASy8K2LM68MMK",
        "youtube": "https://www.youtube.com/results?search_query=Mu-ziq%20Tango%27n%27vectif%20full%20album",
        "deezer": "https://www.deezer.com/album/1035380752",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7c57a3d086b3ca1f4c6f146daadcf4b4/250x250-000000-80-0-0.jpg",
        "dz_title": "Tango N’Vectif",
        "dz_artist": "µ-Ziq",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11038,11 +11076,11 @@
        "title": "Jazzmatazz",
        "spotify": "https://open.spotify.com/search/Guru%20Jazzmatazz",
        "youtube": "https://www.youtube.com/results?search_query=Guru%20Jazzmatazz%20full%20album",
-       "deezer": "https://www.deezer.com/album/594604212",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/236b3b70090de3f29bd1ba2b455e677c/250x250-000000-80-0-0.jpg",
-       "dz_title": "Jazzmatazz",
-       "dz_artist": "Il Guru",
-       "conf": 1
+       "deezer": "https://www.deezer.com/album/301248",
+       "cover": "https://cdn-images.dzcdn.net/images/cover/7e6c28349d871aaf7da118f7fc41a5a6/250x250-000000-80-0-0.jpg",
+       "dz_title": "Jazzmatazz Volume 1",
+       "dz_artist": "Guru",
+       "conf": 0.85
       }
      ]
     },
@@ -11053,13 +11091,14 @@
      "albums": [
       {
        "title": "Transient Random-Noise Bursts With Announcements",
-       "spotify": "https://open.spotify.com/search/Stereolab%20Transient%20Random-Noise%20Bursts%20With%20Announcements",
+       "spotify": "https://open.spotify.com/album/0XwFmkEzDFl5KrVG5z0lE6",
        "youtube": "https://www.youtube.com/results?search_query=Stereolab%20Transient%20Random-Noise%20Bursts%20With%20Announcements%20full%20album",
        "deezer": "https://www.deezer.com/album/95531742",
        "cover": "https://cdn-images.dzcdn.net/images/cover/841d6dc6e1a578be30a08d63d5e93040/250x250-000000-80-0-0.jpg",
        "dz_title": "Transient Random-Noise Bursts With Announcements (Expanded Edition)",
        "dz_artist": "Stereolab",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11070,13 +11109,14 @@
      "albums": [
       {
        "title": "Frank Black",
-       "spotify": "https://open.spotify.com/search/Frank%20Black%20Frank%20Black",
+       "spotify": "https://open.spotify.com/album/1q3ECdv7SORlFJj0OjjBuT",
        "youtube": "https://www.youtube.com/results?search_query=Frank%20Black%20Frank%20Black%20full%20album",
        "deezer": "https://www.deezer.com/album/84946272",
        "cover": "https://cdn-images.dzcdn.net/images/cover/09b8f22afb2c4f4411ddfbcb1a443086/250x250-000000-80-0-0.jpg",
        "dz_title": "Frank Black",
        "dz_artist": "Frank Black",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11087,13 +11127,14 @@
      "albums": [
       {
        "title": "So Tonight That I Might See",
-       "spotify": "https://open.spotify.com/search/Mazzy%20Star%20So%20Tonight%20That%20I%20Might%20See",
+       "spotify": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA",
        "youtube": "https://www.youtube.com/results?search_query=Mazzy%20Star%20So%20Tonight%20That%20I%20Might%20See%20full%20album",
        "deezer": "https://www.deezer.com/album/319814",
        "cover": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/250x250-000000-80-0-0.jpg",
        "dz_title": "So Tonight That I Might See",
        "dz_artist": "Mazzy Star",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11104,13 +11145,14 @@
      "albums": [
       {
        "title": "Selected Ambient Works 85-92",
-       "spotify": "https://open.spotify.com/search/Aphex%20Twin%20Selected%20Ambient%20Works%2085-92",
+       "spotify": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k",
        "youtube": "https://www.youtube.com/results?search_query=Aphex%20Twin%20Selected%20Ambient%20Works%2085-92%20full%20album",
        "deezer": "https://www.deezer.com/album/12977824",
        "cover": "https://cdn-images.dzcdn.net/images/cover/61597432632bf90678b7132db0451f45/250x250-000000-80-0-0.jpg",
        "dz_title": "Selected Ambient Works 85-92",
        "dz_artist": "Aphex Twin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11121,13 +11163,14 @@
      "albums": [
       {
        "title": "Electro-Soma",
-       "spotify": "https://open.spotify.com/search/B12%20Electro-Soma",
+       "spotify": "https://open.spotify.com/album/4pVIqLzbBpyVIQLZo7oZhy",
        "youtube": "https://www.youtube.com/results?search_query=B12%20Electro-Soma%20full%20album",
        "deezer": "https://www.deezer.com/album/2794871",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d8fc79f0f0e73147483792fc43e2a725/250x250-000000-80-0-0.jpg",
        "dz_title": "Electro Soma",
        "dz_artist": "B12",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11138,13 +11181,14 @@
      "albums": [
       {
        "title": "Doggystyle",
-       "spotify": "https://open.spotify.com/search/Snoop%20Doggy%20Dogg%20Doggystyle",
+       "spotify": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
        "youtube": "https://www.youtube.com/results?search_query=Snoop%20Doggy%20Dogg%20Doggystyle%20full%20album",
        "deezer": "https://www.deezer.com/album/415485177",
        "cover": "https://cdn-images.dzcdn.net/images/cover/513525f8796e03f191e5496cdf39b192/250x250-000000-80-0-0.jpg",
        "dz_title": "Doggystyle",
        "dz_artist": "Snoop Dogg",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11155,13 +11199,14 @@
      "albums": [
       {
        "title": "Giant Steps",
-       "spotify": "https://open.spotify.com/search/The%20Boo%20Radleys%20Giant%20Steps",
+       "spotify": "https://open.spotify.com/album/6347aGYak5Dsi0hwPMMpmj",
        "youtube": "https://www.youtube.com/results?search_query=The%20Boo%20Radleys%20Giant%20Steps%20full%20album",
        "deezer": "https://www.deezer.com/album/98381",
        "cover": "https://cdn-images.dzcdn.net/images/cover/35444cdc4ce05fcd85a20f4265d7e615/250x250-000000-80-0-0.jpg",
        "dz_title": "Giant Steps",
        "dz_artist": "The Boo Radleys",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11172,13 +11217,14 @@
      "albums": [
       {
        "title": "Incunabula",
-       "spotify": "https://open.spotify.com/search/Autechre%20Incunabula",
+       "spotify": "https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf",
        "youtube": "https://www.youtube.com/results?search_query=Autechre%20Incunabula%20full%20album",
        "deezer": "https://www.deezer.com/album/2794911",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c307898dffe34fbccb7dbd7eaaa74669/250x250-000000-80-0-0.jpg",
        "dz_title": "Incunabula",
        "dz_artist": "Autechre",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11189,13 +11235,14 @@
      "albums": [
       {
        "title": "Black Sunday",
-       "spotify": "https://open.spotify.com/search/Cypress%20Hill%20Black%20Sunday",
+       "spotify": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX",
        "youtube": "https://www.youtube.com/results?search_query=Cypress%20Hill%20Black%20Sunday%20full%20album",
        "deezer": "https://www.deezer.com/album/111895",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ff3a4fbb250a131f8cf3f413814eb29a/250x250-000000-80-0-0.jpg",
        "dz_title": "Black Sunday",
        "dz_artist": "Cypress Hill",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11206,13 +11253,14 @@
      "albums": [
       {
        "title": "New Wave",
-       "spotify": "https://open.spotify.com/search/The%20Auteurs%20New%20Wave",
+       "spotify": "https://open.spotify.com/album/7dJLDJkGND4ovSCRL4r4bk",
        "youtube": "https://www.youtube.com/results?search_query=The%20Auteurs%20New%20Wave%20full%20album",
        "deezer": "https://www.deezer.com/album/301427",
        "cover": "https://cdn-images.dzcdn.net/images/cover/bfabf555b21375bf9d7ae106f5a005d1/250x250-000000-80-0-0.jpg",
        "dz_title": "New Wave",
        "dz_artist": "The Auteurs",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -11230,13 +11278,14 @@
      "albums": [
       {
        "title": "Dummy",
-       "spotify": "https://open.spotify.com/search/Portishead%20Dummy",
+       "spotify": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno",
        "youtube": "https://www.youtube.com/results?search_query=Portishead%20Dummy%20full%20album",
        "deezer": "https://www.deezer.com/album/109301",
        "cover": "https://cdn-images.dzcdn.net/images/cover/5942b88996f33c82790023d5d99395d3/250x250-000000-80-0-0.jpg",
        "dz_title": "Dummy",
        "dz_artist": "Portishead",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11247,13 +11296,14 @@
      "albums": [
       {
        "title": "Music For A Jilted Generation",
-       "spotify": "https://open.spotify.com/search/The%20Prodigy%20Music%20For%20A%20Jilted%20Generation",
+       "spotify": "https://open.spotify.com/album/4qhJwKBr2ksxAUFjfJd3rb",
        "youtube": "https://www.youtube.com/results?search_query=The%20Prodigy%20Music%20For%20A%20Jilted%20Generation%20full%20album",
        "deezer": "https://www.deezer.com/album/84945332",
        "cover": "https://cdn-images.dzcdn.net/images/cover/2ddb4f4b778380d913e4a2b9335b5be7/250x250-000000-80-0-0.jpg",
        "dz_title": "Music for the Jilted Generation",
        "dz_artist": "The Prodigy",
-       "conf": 0.92
+       "conf": 0.92,
+       "spotify_exact": true
       }
      ]
     },
@@ -11264,13 +11314,14 @@
      "albums": [
       {
        "title": "Dubnobasswithmyheadman",
-       "spotify": "https://open.spotify.com/search/Underworld%20Dubnobasswithmyheadman",
+       "spotify": "https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY",
        "youtube": "https://www.youtube.com/results?search_query=Underworld%20Dubnobasswithmyheadman%20full%20album",
        "deezer": "https://www.deezer.com/album/8678517",
        "cover": "https://cdn-images.dzcdn.net/images/cover/f2f656900eefed713179b5cf066dbadb/250x250-000000-80-0-0.jpg",
        "dz_title": "Dubnobasswithmyheadman (Super Deluxe / 20th Anniversary Remaster)",
        "dz_artist": "Underworld",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11311,13 +11362,14 @@
      "albums": [
       {
        "title": "Superunknown",
-       "spotify": "https://open.spotify.com/search/Soundgarden%20Superunknown",
+       "spotify": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA",
        "youtube": "https://www.youtube.com/results?search_query=Soundgarden%20Superunknown%20full%20album",
        "deezer": "https://www.deezer.com/album/7816775",
        "cover": "https://cdn-images.dzcdn.net/images/cover/101e0b71e12c887ee137ac4a14e0475d/250x250-000000-80-0-0.jpg",
        "dz_title": "Superunknown (20th Anniversary)",
        "dz_artist": "Soundgarden",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11341,13 +11393,14 @@
      "albums": [
       {
        "title": "Amber",
-       "spotify": "https://open.spotify.com/search/Autechre%20Amber",
+       "spotify": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32",
        "youtube": "https://www.youtube.com/results?search_query=Autechre%20Amber%20full%20album",
        "deezer": "https://www.deezer.com/album/2795041",
        "cover": "https://cdn-images.dzcdn.net/images/cover/36c997080801f4ec5aab79e33a9797ec/250x250-000000-80-0-0.jpg",
        "dz_title": "Amber",
        "dz_artist": "Autechre",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11371,13 +11424,14 @@
      "albums": [
       {
        "title": "Musik",
-       "spotify": "https://open.spotify.com/search/Plastikman%20Musik",
+       "spotify": "https://open.spotify.com/album/3dRmm4T0bCUIw4L1lphVYj",
        "youtube": "https://www.youtube.com/results?search_query=Plastikman%20Musik%20full%20album",
        "deezer": "https://www.deezer.com/album/142323442",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b1435f768c4a6f1a9708053d36a31b96/250x250-000000-80-0-0.jpg",
        "dz_title": "Musik",
        "dz_artist": "Plastikman",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11388,13 +11442,14 @@
      "albums": [
       {
        "title": "Spanners",
-       "spotify": "https://open.spotify.com/search/Black%20Dog%20Spanners",
+       "spotify": "https://open.spotify.com/album/6BrkYc6kK7iw7Q4NkvyGbO",
        "youtube": "https://www.youtube.com/results?search_query=Black%20Dog%20Spanners%20full%20album",
        "deezer": "https://www.deezer.com/album/2796291",
        "cover": "https://cdn-images.dzcdn.net/images/cover/45b97834a76eb2d3395e6ac9f56bf726/250x250-000000-80-0-0.jpg",
        "dz_title": "Spanners",
        "dz_artist": "The Black Dog",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11405,13 +11460,14 @@
      "albums": [
       {
        "title": "Mellow Gold",
-       "spotify": "https://open.spotify.com/search/Beck%20Mellow%20Gold",
+       "spotify": "https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj",
        "youtube": "https://www.youtube.com/results?search_query=Beck%20Mellow%20Gold%20full%20album",
        "deezer": "https://www.deezer.com/album/50578512",
        "cover": "https://cdn-images.dzcdn.net/images/cover/81c290ba09ab6b76305a118d42a0902a/250x250-000000-80-0-0.jpg",
        "dz_title": "Mellow Gold",
        "dz_artist": "Beck",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11422,13 +11478,14 @@
      "albums": [
       {
        "title": "Selected Ambient Works Vol. 2",
-       "spotify": "https://open.spotify.com/search/Aphex%20Twin%20Selected%20Ambient%20Works%20Vol.%202",
+       "spotify": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH",
        "youtube": "https://www.youtube.com/results?search_query=Aphex%20Twin%20Selected%20Ambient%20Works%20Vol.%202%20full%20album",
        "deezer": "https://www.deezer.com/album/2795001",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a1401d1f35ba389db4e588fc42e2ebd1/250x250-000000-80-0-0.jpg",
        "dz_title": "Selected Ambient Works Volume II",
        "dz_artist": "Aphex Twin",
-       "conf": 0.88
+       "conf": 0.88,
+       "spotify_exact": true
       }
      ]
     },
@@ -11439,13 +11496,14 @@
      "albums": [
       {
        "title": "Orange",
-       "spotify": "https://open.spotify.com/search/The%20Jon%20Spencer%20Blues%20Explosion%20Orange",
+       "spotify": "https://open.spotify.com/album/0oarrlKcBgNN2YwMZ6ddej",
        "youtube": "https://www.youtube.com/results?search_query=The%20Jon%20Spencer%20Blues%20Explosion%20Orange%20full%20album",
        "deezer": "https://www.deezer.com/album/14381596",
        "cover": "https://cdn-images.dzcdn.net/images/cover/170c4b98d7d5629365427c21a9c49fbf/250x250-000000-80-0-0.jpg",
        "dz_title": "Orange",
        "dz_artist": "The Jon Spencer Blues Explosion",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11456,13 +11514,14 @@
      "albums": [
       {
        "title": "Evanescence",
-       "spotify": "https://open.spotify.com/search/Scorn%20Evanescence",
+       "spotify": "https://open.spotify.com/album/0Vwzlrwn6ENELkr6Qei0Jf",
        "youtube": "https://www.youtube.com/results?search_query=Scorn%20Evanescence%20full%20album",
        "deezer": "https://www.deezer.com/album/6968739",
        "cover": "https://cdn-images.dzcdn.net/images/cover/457c7082b4196ebbea9511832866b71a/250x250-000000-80-0-0.jpg",
        "dz_title": "Evanescence",
        "dz_artist": "Scorn",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11473,13 +11532,14 @@
      "albums": [
       {
        "title": "Bluff Limbo",
-       "spotify": "https://open.spotify.com/search/Mu-ziq%20Bluff%20Limbo",
+       "spotify": "https://open.spotify.com/album/2K5sVsEuYDUOZnANj1Kn5p",
        "youtube": "https://www.youtube.com/results?search_query=Mu-ziq%20Bluff%20Limbo%20full%20album",
        "deezer": "https://www.deezer.com/album/11342630",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fdf6890b4ea018a36a38a3ff4069c78c/250x250-000000-80-0-0.jpg",
        "dz_title": "Bluff Limbo",
        "dz_artist": "µ-Ziq",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11503,13 +11563,14 @@
      "albums": [
       {
        "title": "Parklife",
-       "spotify": "https://open.spotify.com/search/Blur%20Parklife",
+       "spotify": "https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4",
        "youtube": "https://www.youtube.com/results?search_query=Blur%20Parklife%20full%20album",
        "deezer": "https://www.deezer.com/album/4351521",
        "cover": "https://cdn-images.dzcdn.net/images/cover/98f245ad2e96e9a3d80f5a4ed085d3cf/250x250-000000-80-0-0.jpg",
        "dz_title": "Parklife",
        "dz_artist": "Blur",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11522,11 +11583,7 @@
        "title": "Gling Glo",
        "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Gling%20Glo",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Gling%20Glo%20full%20album",
-       "deezer": "https://www.deezer.com/album/315110127",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/3384937ece0c1fa08249583a19e8fc41/250x250-000000-80-0-0.jpg",
-       "dz_title": "Gling-Gló",
-       "dz_artist": "Björk Guðmundsdóttir",
-       "conf": 1
+       "cover": "https://coverartarchive.org/release-group/7b0e60ce-ad06-3578-ad5e-5d5ca4353379/front-250"
       }
      ]
     },
@@ -11537,13 +11594,14 @@
      "albums": [
       {
        "title": "At Action Park",
-       "spotify": "https://open.spotify.com/search/Shellac%20At%20Action%20Park",
+       "spotify": "https://open.spotify.com/album/0jyTzetEXLkLDqcTdbagVx",
        "youtube": "https://www.youtube.com/results?search_query=Shellac%20At%20Action%20Park%20full%20album",
        "deezer": "https://www.deezer.com/album/13287839",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b19304c604ee81715d6d8953b36d9798/250x250-000000-80-0-0.jpg",
        "dz_title": "At Action Park",
        "dz_artist": "Shellac",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -11561,13 +11619,14 @@
      "albums": [
       {
        "title": "Maxinquaye",
-       "spotify": "https://open.spotify.com/search/Tricky%20Maxinquaye",
+       "spotify": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8",
        "youtube": "https://www.youtube.com/results?search_query=Tricky%20Maxinquaye%20full%20album",
        "deezer": "https://www.deezer.com/album/240577",
        "cover": "https://cdn-images.dzcdn.net/images/cover/09e41882c0400fe091ceae9a7b40374b/250x250-000000-80-0-0.jpg",
        "dz_title": "Maxinquaye",
        "dz_artist": "Tricky",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11578,13 +11637,14 @@
      "albums": [
       {
        "title": "Leftism",
-       "spotify": "https://open.spotify.com/search/Leftfield%20Leftism",
+       "spotify": "https://open.spotify.com/album/073h2b1HBGj3K1y63vqyfd",
        "youtube": "https://www.youtube.com/results?search_query=Leftfield%20Leftism%20full%20album",
        "deezer": "https://www.deezer.com/album/99180",
        "cover": "https://cdn-images.dzcdn.net/images/cover/87421e462fe79531ec279df90f119a24/250x250-000000-80-0-0.jpg",
        "dz_title": "Leftism",
        "dz_artist": "Leftfield",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11595,13 +11655,14 @@
      "albums": [
       {
        "title": "Timeless",
-       "spotify": "https://open.spotify.com/search/Goldie%20Timeless",
+       "spotify": "https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk",
        "youtube": "https://www.youtube.com/results?search_query=Goldie%20Timeless%20full%20album",
        "deezer": "https://www.deezer.com/album/219538562",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a5f04592c946848edecec6a259af357b/250x250-000000-80-0-0.jpg",
        "dz_title": "Timeless (25 Year Anniversary)",
        "dz_artist": "Goldie",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11612,13 +11673,14 @@
      "albums": [
       {
        "title": "Boulevard",
-       "spotify": "https://open.spotify.com/search/St%20Germain%20Boulevard",
+       "spotify": "https://open.spotify.com/album/3z6aGZfwBF0obHrf3c5swg",
        "youtube": "https://www.youtube.com/results?search_query=St%20Germain%20Boulevard%20full%20album",
        "deezer": "https://www.deezer.com/album/4185101",
        "cover": "https://cdn-images.dzcdn.net/images/cover/435ff10611201c2786cb7202383848b0/250x250-000000-80-0-0.jpg",
        "dz_title": "Boulevard (The Complete Series)",
        "dz_artist": "St Germain",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -11634,13 +11696,14 @@
       },
       {
        "title": "Meiso",
-       "spotify": "https://open.spotify.com/search/DJ%20Krush%20Meiso",
+       "spotify": "https://open.spotify.com/album/4CP9eTY7tIcp3w2idhLwvQ",
        "youtube": "https://www.youtube.com/results?search_query=DJ%20Krush%20Meiso%20full%20album",
        "deezer": "https://www.deezer.com/album/685666",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e3dd34b0f32b4b04618b7cbf1aac3bdd/250x250-000000-80-0-0.jpg",
        "dz_title": "Meiso",
        "dz_artist": "DJ Krush",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11651,13 +11714,14 @@
      "albums": [
       {
        "title": "Tindersticks 2",
-       "spotify": "https://open.spotify.com/search/Tindersticks%20Tindersticks%202",
+       "spotify": "https://open.spotify.com/album/4WWzemJiMfNnxbYAmz63fC",
        "youtube": "https://www.youtube.com/results?search_query=Tindersticks%20Tindersticks%202%20full%20album",
        "deezer": "https://www.deezer.com/album/61421342",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ec1dd6a05d0577181adbca94b9d4af58/250x250-000000-80-0-0.jpg",
        "dz_title": "Tindersticks",
        "dz_artist": "Tindersticks",
-       "conf": 0.96
+       "conf": 0.96,
+       "spotify_exact": true
       }
      ]
     },
@@ -11668,13 +11732,14 @@
      "albums": [
       {
        "title": "Vakio",
-       "spotify": "https://open.spotify.com/search/Pan%20Sonic%20Vakio",
+       "spotify": "https://open.spotify.com/album/5vAlc9i4nPlUwSnNqU6mJm",
        "youtube": "https://www.youtube.com/results?search_query=Pan%20Sonic%20Vakio%20full%20album",
        "deezer": "https://www.deezer.com/album/7193209",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ad1bcf34025dc7cbc5efe938cd7850be/250x250-000000-80-0-0.jpg",
        "dz_title": "Vakio",
        "dz_artist": "Pan Sonic",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11685,13 +11750,14 @@
      "albums": [
       {
        "title": "Tri Repetae",
-       "spotify": "https://open.spotify.com/search/Autechre%20Tri%20Repetae",
+       "spotify": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI",
        "youtube": "https://www.youtube.com/results?search_query=Autechre%20Tri%20Repetae%20full%20album",
        "deezer": "https://www.deezer.com/album/2795161",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6e763178fe9f59afc3b549c1ff1b3400/250x250-000000-80-0-0.jpg",
        "dz_title": "Tri Repetae",
        "dz_artist": "Autechre",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11719,13 +11785,14 @@
      "albums": [
       {
        "title": "Exit Planet Dust",
-       "spotify": "https://open.spotify.com/search/The%20Chemical%20Brothers%20Exit%20Planet%20Dust",
+       "spotify": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg",
        "youtube": "https://www.youtube.com/results?search_query=The%20Chemical%20Brothers%20Exit%20Planet%20Dust%20full%20album",
        "deezer": "https://www.deezer.com/album/301676",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a620d69e6c360206bad24d251db130d9/250x250-000000-80-0-0.jpg",
        "dz_title": "Exit Planet Dust",
        "dz_artist": "The Chemical Brothers",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11736,13 +11803,14 @@
      "albums": [
       {
        "title": "To Bring You My Love",
-       "spotify": "https://open.spotify.com/search/PJ%20Harvey%20To%20Bring%20You%20My%20Love",
+       "spotify": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8",
        "youtube": "https://www.youtube.com/results?search_query=PJ%20Harvey%20To%20Bring%20You%20My%20Love%20full%20album",
        "deezer": "https://www.deezer.com/album/125231",
        "cover": "https://cdn-images.dzcdn.net/images/cover/41d7561d2483cc732e444485791576da/250x250-000000-80-0-0.jpg",
        "dz_title": "To Bring You My Love",
        "dz_artist": "PJ Harvey",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11753,13 +11821,14 @@
      "albums": [
       {
        "title": "Post",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Post",
+       "spotify": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Post%20full%20album",
        "deezer": "https://www.deezer.com/album/537882732",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ecc49678971301c36387b34ed9473c65/250x250-000000-80-0-0.jpg",
        "dz_title": "Post",
        "dz_artist": "Björk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11770,13 +11839,14 @@
      "albums": [
       {
        "title": "94 Diskont",
-       "spotify": "https://open.spotify.com/search/Oval%2094%20Diskont",
+       "spotify": "https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol",
        "youtube": "https://www.youtube.com/results?search_query=Oval%2094%20Diskont%20full%20album",
        "deezer": "https://www.deezer.com/album/62216552",
        "cover": "https://cdn-images.dzcdn.net/images/cover/179e59003c0cc8664641269fcd91fdba/250x250-000000-80-0-0.jpg",
        "dz_title": "94diskont.",
        "dz_artist": "Oval",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11787,13 +11857,14 @@
      "albums": [
       {
        "title": "Foo Fighters",
-       "spotify": "https://open.spotify.com/search/Foo%20Fighters%20Foo%20Fighters",
+       "spotify": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY",
        "youtube": "https://www.youtube.com/results?search_query=Foo%20Fighters%20Foo%20Fighters%20full%20album",
        "deezer": "https://www.deezer.com/album/78721",
        "cover": "https://cdn-images.dzcdn.net/images/cover/da95768f4665d49f198ddab137d128a7/250x250-000000-80-0-0.jpg",
        "dz_title": "Foo Fighters",
        "dz_artist": "Foo Fighters",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11804,13 +11875,14 @@
      "albums": [
       {
        "title": "La Vague Sensorielle",
-       "spotify": "https://open.spotify.com/search/The%20Mighty%20Bop%20La%20Vague%20Sensorielle",
+       "spotify": "https://open.spotify.com/album/5LDRICMjyBv1b3WJkbN8el",
        "youtube": "https://www.youtube.com/results?search_query=The%20Mighty%20Bop%20La%20Vague%20Sensorielle%20full%20album",
        "deezer": "https://www.deezer.com/album/703804421",
        "cover": "https://cdn-images.dzcdn.net/images/cover/178e75057b5b34836a35fd2fe387122e/250x250-000000-80-0-0.jpg",
        "dz_title": "La vague sensorielle",
        "dz_artist": "The Mighty Bop",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Meets DJ Cam & La Funk Mob",
@@ -11839,23 +11911,25 @@
      "albums": [
       {
        "title": "I Care Because You Do",
-       "spotify": "https://open.spotify.com/search/Aphex%20Twin%20I%20Care%20Because%20You%20Do",
+       "spotify": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE",
        "youtube": "https://www.youtube.com/results?search_query=Aphex%20Twin%20I%20Care%20Because%20You%20Do%20full%20album",
        "deezer": "https://www.deezer.com/album/2795081",
        "cover": "https://cdn-images.dzcdn.net/images/cover/5cd2fa04adfb4248c3d7e1f612b5c7fd/250x250-000000-80-0-0.jpg",
        "dz_title": "...I Care Because You Do",
        "dz_artist": "Aphex Twin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Classics",
-       "spotify": "https://open.spotify.com/search/Aphex%20Twin%20Classics",
+       "spotify": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG",
        "youtube": "https://www.youtube.com/results?search_query=Aphex%20Twin%20Classics%20full%20album",
        "deezer": "https://www.deezer.com/album/12978552",
        "cover": "https://cdn-images.dzcdn.net/images/cover/919e06c4f1812f6d12259afc2ba752df/250x250-000000-80-0-0.jpg",
        "dz_title": "Classics",
        "dz_artist": "Aphex Twin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11892,13 +11966,14 @@
      "albums": [
       {
        "title": "Underground Vibes",
-       "spotify": "https://open.spotify.com/search/DJ%20Cam%20Underground%20Vibes",
+       "spotify": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA",
        "youtube": "https://www.youtube.com/results?search_query=DJ%20Cam%20Underground%20Vibes%20full%20album",
        "deezer": "https://www.deezer.com/album/259177",
        "cover": "https://cdn-images.dzcdn.net/images/cover/f73e89b3ffae9db971f9b2da3cd041ff/250x250-000000-80-0-0.jpg",
        "dz_title": "Underground Vibes",
        "dz_artist": "Dj Cam",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -11916,13 +11991,14 @@
      "albums": [
       {
        "title": "Endtroducing",
-       "spotify": "https://open.spotify.com/search/DJ%20Shadow%20Endtroducing",
+       "spotify": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN",
        "youtube": "https://www.youtube.com/results?search_query=DJ%20Shadow%20Endtroducing%20full%20album",
        "deezer": "https://www.deezer.com/album/388025577",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fb1d7bedd053f8269b6f0bc8c4e9a4b2/250x250-000000-80-0-0.jpg",
        "dz_title": "Endtroducing.....",
        "dz_artist": "DJ Shadow",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11933,13 +12009,14 @@
      "albums": [
       {
        "title": "Homework",
-       "spotify": "https://open.spotify.com/search/Daft%20Punk%20Homework",
+       "spotify": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
        "youtube": "https://www.youtube.com/results?search_query=Daft%20Punk%20Homework%20full%20album",
        "deezer": "https://www.deezer.com/album/301775",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b870579c8650cd59b1cce656dde2ef17/250x250-000000-80-0-0.jpg",
        "dz_title": "Homework",
        "dz_artist": "Daft Punk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11950,13 +12027,14 @@
      "albums": [
       {
        "title": "Pansoul",
-       "spotify": "https://open.spotify.com/search/Motorbass%20Pansoul",
+       "spotify": "https://open.spotify.com/album/39o84oQo2P35eebonxnIVF",
        "youtube": "https://www.youtube.com/results?search_query=Motorbass%20Pansoul%20full%20album",
        "deezer": "https://www.deezer.com/album/266382902",
        "cover": "https://cdn-images.dzcdn.net/images/cover/031006f3ffb5bada49ad7485f6806842/250x250-000000-80-0-0.jpg",
        "dz_title": "Pansoul",
        "dz_artist": "Motorbass",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11967,13 +12045,14 @@
      "albums": [
       {
        "title": "Feed Me Weird Things",
-       "spotify": "https://open.spotify.com/search/Squarepusher%20Feed%20Me%20Weird%20Things",
+       "spotify": "https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR",
        "youtube": "https://www.youtube.com/results?search_query=Squarepusher%20Feed%20Me%20Weird%20Things%20full%20album",
        "deezer": "https://www.deezer.com/album/234168182",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1ccf6718eb7899244ae424be1a403bcf/250x250-000000-80-0-0.jpg",
        "dz_title": "Feed Me Weird Things (Remastered)",
        "dz_artist": "Squarepusher",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -11984,13 +12063,14 @@
      "albums": [
       {
        "title": "100 Lbs",
-       "spotify": "https://open.spotify.com/search/Herbert%20100%20Lbs",
+       "spotify": "https://open.spotify.com/album/1PDx2DibCjJkQeaa1qIblw",
        "youtube": "https://www.youtube.com/results?search_query=Herbert%20100%20Lbs%20full%20album",
        "deezer": "https://www.deezer.com/album/136274622",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a80ed1b8bf55664c6e07fba65287b6d2/250x250-000000-80-0-0.jpg",
        "dz_title": "100lbs (2013 Special Edition)",
        "dz_artist": "Herbert",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12001,13 +12081,14 @@
      "albums": [
       {
        "title": "Feel The Music",
-       "spotify": "https://open.spotify.com/search/Paul%20Johnson%20Feel%20The%20Music",
+       "spotify": "https://open.spotify.com/album/3R38w0nQOzuI5mcGPNivxm",
        "youtube": "https://www.youtube.com/results?search_query=Paul%20Johnson%20Feel%20The%20Music%20full%20album",
        "deezer": "https://www.deezer.com/album/466196405",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d6e460641073b2c42a09e670badc357f/250x250-000000-80-0-0.jpg",
        "dz_title": "Feel The Music",
        "dz_artist": "Paul Johnson",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12018,13 +12099,14 @@
      "albums": [
       {
        "title": "Odelay",
-       "spotify": "https://open.spotify.com/search/Beck%20Odelay",
+       "spotify": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp",
        "youtube": "https://www.youtube.com/results?search_query=Beck%20Odelay%20full%20album",
        "deezer": "https://www.deezer.com/album/124120",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b8722aa90baae4f9f5bd757ae9d2e289/250x250-000000-80-0-0.jpg",
        "dz_title": "Odelay",
        "dz_artist": "Beck",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12035,13 +12117,14 @@
      "albums": [
       {
        "title": "Biokinetics",
-       "spotify": "https://open.spotify.com/search/Porter%20Ricks%20Biokinetics",
+       "spotify": "https://open.spotify.com/album/3x3d5OeRMzfzheYpigO7XB",
        "youtube": "https://www.youtube.com/results?search_query=Porter%20Ricks%20Biokinetics%20full%20album",
        "deezer": "https://www.deezer.com/album/1610055",
        "cover": "https://cdn-images.dzcdn.net/images/cover/3d4e8c7752e5c74241b6d6f034cca53b/250x250-000000-80-0-0.jpg",
        "dz_title": "Biokinetics",
        "dz_artist": "Porter Ricks",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12065,13 +12148,14 @@
      "albums": [
       {
        "title": "Lamb",
-       "spotify": "https://open.spotify.com/search/Lamb%20Lamb",
+       "spotify": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO",
        "youtube": "https://www.youtube.com/results?search_query=Lamb%20Lamb%20full%20album",
        "deezer": "https://www.deezer.com/album/238862",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7000d45bf4f1fd5d5c47fb960cfbe47e/250x250-000000-80-0-0.jpg",
        "dz_title": "Lamb",
        "dz_artist": "Lamb",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12082,13 +12166,14 @@
      "albums": [
       {
        "title": "Better Living Through Chemistry",
-       "spotify": "https://open.spotify.com/search/Fat%20Boy%20Slim%20Better%20Living%20Through%20Chemistry",
+       "spotify": "https://open.spotify.com/album/6ryKeoHFK13xMnM9pxFAF8",
        "youtube": "https://www.youtube.com/results?search_query=Fat%20Boy%20Slim%20Better%20Living%20Through%20Chemistry%20full%20album",
        "deezer": "https://www.deezer.com/album/1046847852",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8f43f9676a2dcbe24756e9556b616f8b/250x250-000000-80-0-0.jpg",
        "dz_title": "Better Living Through Chemistry (30th Anniversary)",
        "dz_artist": "Fatboy Slim",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12160,13 +12245,14 @@
      "albums": [
       {
        "title": "If You're Feeling Sinister",
-       "spotify": "https://open.spotify.com/search/Belle%20%26%20Sebastian%20If%20You%27re%20Feeling%20Sinister",
+       "spotify": "https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI",
        "youtube": "https://www.youtube.com/results?search_query=Belle%20%26%20Sebastian%20If%20You%27re%20Feeling%20Sinister%20full%20album",
        "deezer": "https://www.deezer.com/album/256643",
        "cover": "https://cdn-images.dzcdn.net/images/cover/93f2d604963d722e45c74628c653844d/250x250-000000-80-0-0.jpg",
        "dz_title": "If You're Feeling Sinister",
        "dz_artist": "Belle & Sebastian",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12177,23 +12263,25 @@
      "albums": [
       {
        "title": "The Destroyer",
-       "spotify": "https://open.spotify.com/search/Alec%20Empire%20The%20Destroyer",
+       "spotify": "https://open.spotify.com/album/5b4Ai4nnP5NtUDhmEnIuPk",
        "youtube": "https://www.youtube.com/results?search_query=Alec%20Empire%20The%20Destroyer%20full%20album",
        "deezer": "https://www.deezer.com/album/903433",
        "cover": "https://cdn-images.dzcdn.net/images/cover/35b86a4ff52a33628f5737f4da97d98d/250x250-000000-80-0-0.jpg",
        "dz_title": "The Destroyer",
        "dz_artist": "Alec Empire",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Hypermodern Jazz 2000",
-       "spotify": "https://open.spotify.com/search/Alec%20Empire%20Hypermodern%20Jazz%202000",
+       "spotify": "https://open.spotify.com/album/6ZVK6H28JiEPLrAKc6Qrxy",
        "youtube": "https://www.youtube.com/results?search_query=Alec%20Empire%20Hypermodern%20Jazz%202000%20full%20album",
        "deezer": "https://www.deezer.com/album/903217",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4a715e04f10b4505e9bb70d5f179c700/250x250-000000-80-0-0.jpg",
        "dz_title": "Hypermodern Jazz 2000.5",
        "dz_artist": "Alec Empire",
-       "conf": 0.97
+       "conf": 0.97,
+       "spotify_exact": true
       }
      ]
     },
@@ -12230,13 +12318,14 @@
      "albums": [
       {
        "title": "Executive Suite",
-       "spotify": "https://open.spotify.com/search/The%20Wiseguys%20Executive%20Suite",
+       "spotify": "https://open.spotify.com/album/7LvXpGYUlCS1gKi5WHJqXc",
        "youtube": "https://www.youtube.com/results?search_query=The%20Wiseguys%20Executive%20Suite%20full%20album",
        "deezer": "https://www.deezer.com/album/358204",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a2fbd5b03e3f04a005f7817f80015e4b/250x250-000000-80-0-0.jpg",
        "dz_title": "Executive Suite",
        "dz_artist": "The Wiseguys",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -12285,13 +12374,14 @@
      "albums": [
       {
        "title": "OK Computer",
-       "spotify": "https://open.spotify.com/search/Radiohead%20OK%20Computer",
+       "spotify": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
        "youtube": "https://www.youtube.com/results?search_query=Radiohead%20OK%20Computer%20full%20album",
        "deezer": "https://www.deezer.com/album/14879699",
        "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg",
        "dz_title": "OK Computer",
        "dz_artist": "Radiohead",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12302,13 +12392,14 @@
      "albums": [
       {
        "title": "Dig Your Own Hole",
-       "spotify": "https://open.spotify.com/search/The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole",
+       "spotify": "https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK",
        "youtube": "https://www.youtube.com/results?search_query=The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole%20full%20album",
        "deezer": "https://www.deezer.com/album/310178",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7c8bd1e14f031edc71eb4fdd6737c428/250x250-000000-80-0-0.jpg",
        "dz_title": "Dig Your Own Hole",
        "dz_artist": "The Chemical Brothers",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12319,13 +12410,14 @@
      "albums": [
       {
        "title": "Plans & Designs",
-       "spotify": "https://open.spotify.com/search/Faze%20Action%20Plans%20%26%20Designs",
+       "spotify": "https://open.spotify.com/album/3QxEJt6HjxJiFCRtq7FMsz",
        "youtube": "https://www.youtube.com/results?search_query=Faze%20Action%20Plans%20%26%20Designs%20full%20album",
        "deezer": "https://www.deezer.com/album/74941012",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0ca3acb1be860208f2cd8e4861f16997/250x250-000000-80-0-0.jpg",
        "dz_title": "Plans & Designs",
        "dz_artist": "Faze Action",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12336,13 +12428,14 @@
      "albums": [
       {
        "title": "Lets Get Killed",
-       "spotify": "https://open.spotify.com/search/David%20Holmes%20Lets%20Get%20Killed",
+       "spotify": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1",
        "youtube": "https://www.youtube.com/results?search_query=David%20Holmes%20Lets%20Get%20Killed%20full%20album",
        "deezer": "https://www.deezer.com/album/239947",
        "cover": "https://cdn-images.dzcdn.net/images/cover/230716522c220d8b338f2fca619a9c13/250x250-000000-80-0-0.jpg",
        "dz_title": "Let's Get Killed",
        "dz_artist": "David Holmes",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12353,13 +12446,14 @@
      "albums": [
       {
        "title": "DJ Kicks",
-       "spotify": "https://open.spotify.com/search/Kruder%20%26%20Dorfmeister%20DJ%20Kicks",
+       "spotify": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53",
        "youtube": "https://www.youtube.com/results?search_query=Kruder%20%26%20Dorfmeister%20DJ%20Kicks%20full%20album",
        "deezer": "https://www.deezer.com/album/1127108",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6a0676cc7144dff9b3a7a3e21b3d947f/250x250-000000-80-0-0.jpg",
        "dz_title": "DJ-Kicks",
        "dz_artist": "Kruder & Dorfmeister",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12370,13 +12464,14 @@
      "albums": [
       {
        "title": "Dead Elvis",
-       "spotify": "https://open.spotify.com/search/Death%20In%20Vegas%20Dead%20Elvis",
+       "spotify": "https://open.spotify.com/album/1juwFzIjQqYhPJ3aaj1cDd",
        "youtube": "https://www.youtube.com/results?search_query=Death%20In%20Vegas%20Dead%20Elvis%20full%20album",
        "deezer": "https://www.deezer.com/album/114554",
        "cover": "https://cdn-images.dzcdn.net/images/cover/521b8ed1be30385c65a81e26b2be3c8b/250x250-000000-80-0-0.jpg",
        "dz_title": "Dead Elvis",
        "dz_artist": "Death In Vegas",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12387,13 +12482,14 @@
      "albums": [
       {
        "title": "Homogenic",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Homogenic",
+       "spotify": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Homogenic%20full%20album",
        "deezer": "https://www.deezer.com/album/537882642",
        "cover": "https://cdn-images.dzcdn.net/images/cover/767ed9448afc5f293cd951da92ae5b3d/250x250-000000-80-0-0.jpg",
        "dz_title": "Homogenic",
        "dz_artist": "Björk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12404,13 +12500,14 @@
      "albums": [
       {
        "title": "Bricolage",
-       "spotify": "https://open.spotify.com/search/Amon%20Tobin%20Bricolage",
+       "spotify": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH",
        "youtube": "https://www.youtube.com/results?search_query=Amon%20Tobin%20Bricolage%20full%20album",
        "deezer": "https://www.deezer.com/album/48047292",
        "cover": "https://cdn-images.dzcdn.net/images/cover/247b7660c08b9c49d49a40872726fabe/250x250-000000-80-0-0.jpg",
        "dz_title": "Bricolage",
        "dz_artist": "Amon Tobin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12438,13 +12535,14 @@
      "albums": [
       {
        "title": "Hotel Paral.lel",
-       "spotify": "https://open.spotify.com/search/Fennesz%20Hotel%20Paral.lel",
+       "spotify": "https://open.spotify.com/album/5pixtD9q1MQZZ6Nie2hpo1",
        "youtube": "https://www.youtube.com/results?search_query=Fennesz%20Hotel%20Paral.lel%20full%20album",
        "deezer": "https://www.deezer.com/album/720465861",
        "cover": "https://cdn-images.dzcdn.net/images/cover/cdc3f456c8ecbc72cdc0f113d9caa86d/250x250-000000-80-0-0.jpg",
        "dz_title": "Hotel Paral.lel",
        "dz_artist": "Fennesz",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12455,13 +12553,14 @@
      "albums": [
       {
        "title": "Opera",
-       "spotify": "https://open.spotify.com/search/Tosca%20Opera",
+       "spotify": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC",
        "youtube": "https://www.youtube.com/results?search_query=Tosca%20Opera%20full%20album",
        "deezer": "https://www.deezer.com/album/55738202",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7297a03d039215ca4aca8e6e496906b1/250x250-000000-80-0-0.jpg",
        "dz_title": "Opera",
        "dz_artist": "Tosca",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12485,13 +12584,14 @@
      "albums": [
       {
        "title": "Hard Normal Daddy",
-       "spotify": "https://open.spotify.com/search/Squarepusher%20Hard%20Normal%20Daddy",
+       "spotify": "https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE",
        "youtube": "https://www.youtube.com/results?search_query=Squarepusher%20Hard%20Normal%20Daddy%20full%20album",
        "deezer": "https://www.deezer.com/album/2795241",
        "cover": "https://cdn-images.dzcdn.net/images/cover/98b449b8921f2aa55d05a0a0a89b5a35/250x250-000000-80-0-0.jpg",
        "dz_title": "Hard Normal Daddy",
        "dz_artist": "Squarepusher",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12502,13 +12602,14 @@
      "albums": [
       {
        "title": "Not For Threes",
-       "spotify": "https://open.spotify.com/search/Plaid%20Not%20For%20Threes",
+       "spotify": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL",
        "youtube": "https://www.youtube.com/results?search_query=Plaid%20Not%20For%20Threes%20full%20album",
        "deezer": "https://www.deezer.com/album/2795261",
        "cover": "https://cdn-images.dzcdn.net/images/cover/25fd3e152f3c415d23d09ce9bee4483d/250x250-000000-80-0-0.jpg",
        "dz_title": "Not For Threes",
        "dz_artist": "Plaid",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12545,13 +12646,14 @@
      "albums": [
       {
        "title": "Freek Funk",
-       "spotify": "https://open.spotify.com/search/Luke%20Slater%20Freek%20Funk",
+       "spotify": "https://open.spotify.com/album/28Krq111RJfvXWUHejlceu",
        "youtube": "https://www.youtube.com/results?search_query=Luke%20Slater%20Freek%20Funk%20full%20album",
        "deezer": "https://www.deezer.com/album/7193188",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1890930832bca0b97b20f710c77bb212/250x250-000000-80-0-0.jpg",
        "dz_title": "Freek Funk",
        "dz_artist": "Luke Slater",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12562,13 +12664,14 @@
      "albums": [
       {
        "title": "More Songs About Food & Revolutionary Art",
-       "spotify": "https://open.spotify.com/search/Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art",
+       "spotify": "https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU",
        "youtube": "https://www.youtube.com/results?search_query=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20full%20album",
        "deezer": "https://www.deezer.com/album/15682958",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b875059cb27b74ab741400f49f2c5feb/250x250-000000-80-0-0.jpg",
        "dz_title": "More Songs About Food and Revolutionary Art",
        "dz_artist": "Carl Craig",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -12599,13 +12702,14 @@
      "albums": [
       {
        "title": "Deserter's Songs",
-       "spotify": "https://open.spotify.com/search/Mercury%20Rev%20Deserter%27s%20Songs",
+       "spotify": "https://open.spotify.com/album/6MvMOhNSo3bYEu42Wj9c4e",
        "youtube": "https://www.youtube.com/results?search_query=Mercury%20Rev%20Deserter%27s%20Songs%20full%20album",
        "deezer": "https://www.deezer.com/album/160717002",
        "cover": "https://cdn-images.dzcdn.net/images/cover/29b66a14cba7875bea388650dba7c3c3/250x250-000000-80-0-0.jpg",
        "dz_title": "Deserter's Songs (Remastered)",
        "dz_artist": "Mercury Rev",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12616,13 +12720,14 @@
      "albums": [
       {
        "title": "Permutation",
-       "spotify": "https://open.spotify.com/search/Amon%20Tobin%20Permutation",
+       "spotify": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp",
        "youtube": "https://www.youtube.com/results?search_query=Amon%20Tobin%20Permutation%20full%20album",
        "deezer": "https://www.deezer.com/album/936147",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ce5f9e1321d53e6f5c4cc12b4b8ca633/250x250-000000-80-0-0.jpg",
        "dz_title": "Permutation",
        "dz_artist": "Amon Tobin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12633,13 +12738,14 @@
      "albums": [
       {
        "title": "Kulma",
-       "spotify": "https://open.spotify.com/search/Pan%20Sonic%20Kulma",
+       "spotify": "https://open.spotify.com/album/0hXPccn7ckDhGMViSRwQGc",
        "youtube": "https://www.youtube.com/results?search_query=Pan%20Sonic%20Kulma%20full%20album",
        "deezer": "https://www.deezer.com/album/7485358",
        "cover": "https://cdn-images.dzcdn.net/images/cover/3f7310f9f4952eb1733cc8f21e3e4bb7/250x250-000000-80-0-0.jpg",
        "dz_title": "Kulma",
        "dz_artist": "Pan Sonic",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "V.V.V.",
@@ -12655,13 +12761,14 @@
      "albums": [
       {
        "title": "Mezzanine",
-       "spotify": "https://open.spotify.com/search/Massive%20Attack%20Mezzanine",
+       "spotify": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR",
        "youtube": "https://www.youtube.com/results?search_query=Massive%20Attack%20Mezzanine%20full%20album",
        "deezer": "https://www.deezer.com/album/301773",
        "cover": "https://cdn-images.dzcdn.net/images/cover/85abbdc3ed4a7b94ace97f868fe70f63/250x250-000000-80-0-0.jpg",
        "dz_title": "Mezzanine",
        "dz_artist": "Massive Attack",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12672,13 +12779,14 @@
      "albums": [
       {
        "title": "Psyence Fiction",
-       "spotify": "https://open.spotify.com/search/Unkle%20Psyence%20Fiction",
+       "spotify": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS",
        "youtube": "https://www.youtube.com/results?search_query=Unkle%20Psyence%20Fiction%20full%20album",
        "deezer": "https://www.deezer.com/album/400082747",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4a3197ec85bafd24c3ae5ddf3e8c5f5f/250x250-000000-80-0-0.jpg",
        "dz_title": "Psyence Fiction",
        "dz_artist": "UNKLE",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12689,13 +12797,14 @@
      "albums": [
       {
        "title": "Music Has The Right To Children",
-       "spotify": "https://open.spotify.com/search/Boards%20Of%20Canada%20Music%20Has%20The%20Right%20To%20Children",
+       "spotify": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU",
        "youtube": "https://www.youtube.com/results?search_query=Boards%20Of%20Canada%20Music%20Has%20The%20Right%20To%20Children%20full%20album",
        "deezer": "https://www.deezer.com/album/2795271",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c3c2e2a739ed501d01791b16a3fd9ad3/250x250-000000-80-0-0.jpg",
        "dz_title": "Music Has The Right To Children",
        "dz_artist": "Boards Of Canada",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12706,13 +12815,14 @@
      "albums": [
       {
        "title": "Consumed",
-       "spotify": "https://open.spotify.com/search/Plastikman%20Consumed",
+       "spotify": "https://open.spotify.com/album/1U7aY4kI9xeMuI3nD4LKBy",
        "youtube": "https://www.youtube.com/results?search_query=Plastikman%20Consumed%20full%20album",
        "deezer": "https://www.deezer.com/album/142131122",
        "cover": "https://cdn-images.dzcdn.net/images/cover/2aeca987f2afd0b14e6cece1aeb2a0f2/250x250-000000-80-0-0.jpg",
        "dz_title": "Consumed",
        "dz_artist": "Plastikman",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12723,13 +12833,14 @@
      "albums": [
       {
        "title": "We Rock Hard",
-       "spotify": "https://open.spotify.com/search/Freestylers%20We%20Rock%20Hard",
+       "spotify": "https://open.spotify.com/album/47k3kcJEHioOxtcZm0xCId",
        "youtube": "https://www.youtube.com/results?search_query=Freestylers%20We%20Rock%20Hard%20full%20album",
        "deezer": "https://www.deezer.com/album/13834908",
        "cover": "https://cdn-images.dzcdn.net/images/cover/dde1802e8a6e312b2722e7505e23f7b9/250x250-000000-80-0-0.jpg",
        "dz_title": "We Rock Hard",
        "dz_artist": "Freestylers",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12740,13 +12851,14 @@
      "albums": [
       {
        "title": "Sounds From The Thievery Hifi",
-       "spotify": "https://open.spotify.com/search/Thievery%20Corporation%20Sounds%20From%20The%20Thievery%20Hifi",
+       "spotify": "https://open.spotify.com/album/3n4Zqt489pJfqDkjRuqN05",
        "youtube": "https://www.youtube.com/results?search_query=Thievery%20Corporation%20Sounds%20From%20The%20Thievery%20Hifi%20full%20album",
        "deezer": "https://www.deezer.com/album/912789521",
        "cover": "https://cdn-images.dzcdn.net/images/cover/65d096d8f92e1ec59cad7d164ba6345a/250x250-000000-80-0-0.jpg",
        "dz_title": "Sounds From The Thievery Hi Fi",
        "dz_artist": "Thievery Corporation",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12757,13 +12869,14 @@
      "albums": [
       {
        "title": "I Sing The Body Electro",
-       "spotify": "https://open.spotify.com/search/Kurtis%20Mantronik%20I%20Sing%20The%20Body%20Electro",
+       "spotify": "https://open.spotify.com/album/6utFGx7e8pluTJmyO4SAk4",
        "youtube": "https://www.youtube.com/results?search_query=Kurtis%20Mantronik%20I%20Sing%20The%20Body%20Electro%20full%20album",
        "deezer": "https://www.deezer.com/album/561477172",
        "cover": "https://cdn-images.dzcdn.net/images/cover/afcd901381af2152eb819a3f05b001f9/250x250-000000-80-0-0.jpg",
        "dz_title": "I Sing the Body Electro",
        "dz_artist": "Kurtis Mantronik",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12774,13 +12887,14 @@
      "albums": [
       {
        "title": "You've Come A Long Way, Baby",
-       "spotify": "https://open.spotify.com/search/Fat%20Boy%20Slim%20You%27ve%20Come%20A%20Long%20Way%2C%20Baby",
+       "spotify": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN",
        "youtube": "https://www.youtube.com/results?search_query=Fat%20Boy%20Slim%20You%27ve%20Come%20A%20Long%20Way%2C%20Baby%20full%20album",
        "deezer": "https://www.deezer.com/album/906144512",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fc123cf50025150ee13399fa53ea99dd/250x250-000000-80-0-0.jpg",
        "dz_title": "You've Come a Long Way Baby (10th Anniversary Edition)",
        "dz_artist": "Fatboy Slim",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12809,13 +12923,14 @@
      "albums": [
       {
        "title": "Decksandrumsandrockandroll",
-       "spotify": "https://open.spotify.com/search/Propellerheads%20Decksandrumsandrockandroll",
+       "spotify": "https://open.spotify.com/album/4uDxWaL8QzXErlU7LGGwdH",
        "youtube": "https://www.youtube.com/results?search_query=Propellerheads%20Decksandrumsandrockandroll%20full%20album",
        "deezer": "https://www.deezer.com/album/3889421",
        "cover": "https://cdn-images.dzcdn.net/images/cover/19729d69a79079315d0c638f865582a5/250x250-000000-80-0-0.jpg",
        "dz_title": "Decksandrumsandrockandroll",
        "dz_artist": "Propellerheads",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12826,13 +12941,14 @@
      "albums": [
       {
        "title": "One Trip One Noise",
-       "spotify": "https://open.spotify.com/search/Noir%20D%C3%A9sir%20One%20Trip%20One%20Noise",
+       "spotify": "https://open.spotify.com/album/7GqPxkJFQbM6o7lLX9T6rj",
        "youtube": "https://www.youtube.com/results?search_query=Noir%20D%C3%A9sir%20One%20Trip%20One%20Noise%20full%20album",
        "deezer": "https://www.deezer.com/album/212403",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b50bc2c4b084528028651dafb6716e89/250x250-000000-80-0-0.jpg",
        "dz_title": "One Trip One Noise",
        "dz_artist": "Noir Désir",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12843,13 +12959,14 @@
      "albums": [
       {
        "title": "Xo",
-       "spotify": "https://open.spotify.com/search/Elliott%20Smith%20Xo",
+       "spotify": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh",
        "youtube": "https://www.youtube.com/results?search_query=Elliott%20Smith%20Xo%20full%20album",
        "deezer": "https://www.deezer.com/album/248213",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ecddfc67625d30623a0b72ed6a8b9422/250x250-000000-80-0-0.jpg",
        "dz_title": "XO",
        "dz_artist": "Elliott Smith",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12877,13 +12994,14 @@
      "albums": [
       {
        "title": "Mutations",
-       "spotify": "https://open.spotify.com/search/Beck%20Mutations",
+       "spotify": "https://open.spotify.com/album/3IY3Oh7Gge0GCx7kWieEHc",
        "youtube": "https://www.youtube.com/results?search_query=Beck%20Mutations%20full%20album",
        "deezer": "https://www.deezer.com/album/103282",
        "cover": "https://cdn-images.dzcdn.net/images/cover/976f52471b065e097c3e221082009af2/250x250-000000-80-0-0.jpg",
        "dz_title": "Mutations",
        "dz_artist": "Beck",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12907,13 +13025,14 @@
      "albums": [
       {
        "title": "Moon Safari",
-       "spotify": "https://open.spotify.com/search/Air%20Moon%20Safari",
+       "spotify": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA",
        "youtube": "https://www.youtube.com/results?search_query=Air%20Moon%20Safari%20full%20album",
        "deezer": "https://www.deezer.com/album/302924",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1ccd5dc034bd7ad4f59ab540378ae1f5/250x250-000000-80-0-0.jpg",
        "dz_title": "Moon Safari",
        "dz_artist": "Air",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -12943,13 +13062,14 @@
      "albums": [
       {
        "title": "The Beta Band",
-       "spotify": "https://open.spotify.com/search/The%20Beta%20Band%20The%20Beta%20Band",
+       "spotify": "https://open.spotify.com/album/0XQJJyZnGyJo6S6T10CVhv",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beta%20Band%20The%20Beta%20Band%20full%20album",
        "deezer": "https://www.deezer.com/album/55616702",
        "cover": "https://cdn-images.dzcdn.net/images/cover/967149020f998939c4d62b7196cd5714/250x250-000000-80-0-0.jpg",
        "dz_title": "The Beta Band",
        "dz_artist": "The Beta Band",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12960,13 +13080,14 @@
      "albums": [
       {
        "title": "Peace Orchestra",
-       "spotify": "https://open.spotify.com/search/Peace%20Orchestra%20Peace%20Orchestra",
+       "spotify": "https://open.spotify.com/album/0K3eGBMX9RMo9QuQtMEEoT",
        "youtube": "https://www.youtube.com/results?search_query=Peace%20Orchestra%20Peace%20Orchestra%20full%20album",
        "deezer": "https://www.deezer.com/album/81194152",
        "cover": "https://cdn-images.dzcdn.net/images/cover/647944df922232a5f90c6dfdd94763c4/250x250-000000-80-0-0.jpg",
        "dz_title": "Peace Orchestra",
        "dz_artist": "Peace Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12977,13 +13098,14 @@
      "albums": [
       {
        "title": "The Contino Sessions",
-       "spotify": "https://open.spotify.com/search/Death%20In%20Vegas%20The%20Contino%20Sessions",
+       "spotify": "https://open.spotify.com/album/4emdFI4WR6qBPNBbJzhivv",
        "youtube": "https://www.youtube.com/results?search_query=Death%20In%20Vegas%20The%20Contino%20Sessions%20full%20album",
        "deezer": "https://www.deezer.com/album/110179",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c533295f3f01179ae5bee92cad94cba8/250x250-000000-80-0-0.jpg",
        "dz_title": "The Contino Sessions",
        "dz_artist": "Death In Vegas",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13007,13 +13129,14 @@
      "albums": [
       {
        "title": "Cargo",
-       "spotify": "https://open.spotify.com/search/Sofa%20Surfers%20Cargo",
+       "spotify": "https://open.spotify.com/album/3qbcIU9eaKpe2sfHKsrjVl",
        "youtube": "https://www.youtube.com/results?search_query=Sofa%20Surfers%20Cargo%20full%20album",
        "deezer": "https://www.deezer.com/album/62349942",
        "cover": "https://cdn-images.dzcdn.net/images/cover/884ee7f201c6c50db43985ec64aac2e8/250x250-000000-80-0-0.jpg",
        "dz_title": "Cargo",
        "dz_artist": "Sofa Surfers",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13024,13 +13147,14 @@
      "albums": [
       {
        "title": "A",
-       "spotify": "https://open.spotify.com/search/Pan%20Sonic%20A",
+       "spotify": "https://open.spotify.com/album/6dE4WLQIwx4Z9lhy0uxfiW",
        "youtube": "https://www.youtube.com/results?search_query=Pan%20Sonic%20A%20full%20album",
        "deezer": "https://www.deezer.com/album/7193221",
        "cover": "https://cdn-images.dzcdn.net/images/cover/aa8b25f85162901d183a638a9cf4833f/250x250-000000-80-0-0.jpg",
        "dz_title": "A",
        "dz_artist": "Pan Sonic",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13054,13 +13178,14 @@
      "albums": [
       {
        "title": "Remedy",
-       "spotify": "https://open.spotify.com/search/Basement%20Jaxx%20Remedy",
+       "spotify": "https://open.spotify.com/album/5l7GOQvdeovtIAFmaHXshb",
        "youtube": "https://www.youtube.com/results?search_query=Basement%20Jaxx%20Remedy%20full%20album",
        "deezer": "https://www.deezer.com/album/176565772",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8cbf16486a8b7e099956aa44f7bb4d18/250x250-000000-80-0-0.jpg",
        "dz_title": "Remedy",
        "dz_artist": "Basement Jaxx",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13071,13 +13196,14 @@
      "albums": [
       {
        "title": "Programmed",
-       "spotify": "https://open.spotify.com/search/Innerzone%20Orchestra%20Programmed",
+       "spotify": "https://open.spotify.com/album/2R1PYQ5Ix60XywHx0k4W7B",
        "youtube": "https://www.youtube.com/results?search_query=Innerzone%20Orchestra%20Programmed%20full%20album",
        "deezer": "https://www.deezer.com/album/15685316",
        "cover": "https://cdn-images.dzcdn.net/images/cover/10b159b37709bc24109c0bb0350bfff1/250x250-000000-80-0-0.jpg",
        "dz_title": "Programmed",
        "dz_artist": "Innerzone Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13101,13 +13227,14 @@
      "albums": [
       {
        "title": "Closer Colder",
-       "spotify": "https://open.spotify.com/search/Faultline%20Closer%20Colder",
+       "spotify": "https://open.spotify.com/album/2HnrTUVNApWzcoG2FUV2wG",
        "youtube": "https://www.youtube.com/results?search_query=Faultline%20Closer%20Colder%20full%20album",
        "deezer": "https://www.deezer.com/album/636596861",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a48bb6edc43a254a42233c5328b4f3cf/250x250-000000-80-0-0.jpg",
        "dz_title": "Closer Colder",
        "dz_artist": "Faultline",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13118,13 +13245,14 @@
      "albums": [
       {
        "title": "Quasi-Objects",
-       "spotify": "https://open.spotify.com/search/Matmos%20Quasi-Objects",
+       "spotify": "https://open.spotify.com/album/39MSmCRaxMfDd0UK7RL1Db",
        "youtube": "https://www.youtube.com/results?search_query=Matmos%20Quasi-Objects%20full%20album",
        "deezer": "https://www.deezer.com/album/106183",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ca7767332f6982b54a20e1a8efd23e90/250x250-000000-80-0-0.jpg",
        "dz_title": "Quasi-Objects",
        "dz_artist": "Matmos",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13135,13 +13263,14 @@
      "albums": [
       {
        "title": "Interstate",
-       "spotify": "https://open.spotify.com/search/Monolake%20Interstate",
+       "spotify": "https://open.spotify.com/album/362kIjoTYU09dRbP3TB2Oc",
        "youtube": "https://www.youtube.com/results?search_query=Monolake%20Interstate%20full%20album",
        "deezer": "https://www.deezer.com/album/6332180",
        "cover": "https://cdn-images.dzcdn.net/images/cover/15dfbc515e8f07ab1c3ec76e83d4e2b0/250x250-000000-80-0-0.jpg",
        "dz_title": "Interstate",
        "dz_artist": "Monolake",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13152,13 +13281,14 @@
      "albums": [
       {
        "title": "Play",
-       "spotify": "https://open.spotify.com/search/Moby%20Play",
+       "spotify": "https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb",
        "youtube": "https://www.youtube.com/results?search_query=Moby%20Play%20full%20album",
        "deezer": "https://www.deezer.com/album/901444052",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b72d7a70617245409b2a1927a7a02488/250x250-000000-80-0-0.jpg",
        "dz_title": "Play",
        "dz_artist": "Moby",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13169,13 +13299,14 @@
      "albums": [
       {
        "title": "Keep It Unreal",
-       "spotify": "https://open.spotify.com/search/Mr%20Scruff%20Keep%20It%20Unreal",
+       "spotify": "https://open.spotify.com/album/66MNxsrJBP9s4xvUssQvXD",
        "youtube": "https://www.youtube.com/results?search_query=Mr%20Scruff%20Keep%20It%20Unreal%20full%20album",
        "deezer": "https://www.deezer.com/album/936154",
        "cover": "https://cdn-images.dzcdn.net/images/cover/866f4ae02d6ca7b70781dd260a182dcf/250x250-000000-80-0-0.jpg",
        "dz_title": "Keep It Unreal",
        "dz_artist": "Mr. Scruff",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13186,13 +13317,14 @@
      "albums": [
       {
        "title": "Super Sound",
-       "spotify": "https://open.spotify.com/search/Pepe%20Delux%C3%A9%20Super%20Sound",
+       "spotify": "https://open.spotify.com/album/6v7AxEu3RdqH010hSiKULE",
        "youtube": "https://www.youtube.com/results?search_query=Pepe%20Delux%C3%A9%20Super%20Sound%20full%20album",
        "deezer": "https://www.deezer.com/album/14377028",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e9ca89bf844592e872e2b310e5fa8f9a/250x250-000000-80-0-0.jpg",
        "dz_title": "Super Sound",
        "dz_artist": "Pepe Deluxé",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13203,13 +13335,14 @@
      "albums": [
       {
        "title": "Motion",
-       "spotify": "https://open.spotify.com/search/The%20Cinematic%20Orchestra%20Motion",
+       "spotify": "https://open.spotify.com/album/7juArEEjY6Eu9uPI6SvCER",
        "youtube": "https://www.youtube.com/results?search_query=The%20Cinematic%20Orchestra%20Motion%20full%20album",
        "deezer": "https://www.deezer.com/album/69222942",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8fc7a5dc8ef2838bf753e6dbcb67ff50/250x250-000000-80-0-0.jpg",
        "dz_title": "Motion",
        "dz_artist": "The Cinematic Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13220,13 +13353,14 @@
      "albums": [
       {
        "title": "Niun Niggung",
-       "spotify": "https://open.spotify.com/search/Mouse%20On%20Mars%20Niun%20Niggung",
+       "spotify": "https://open.spotify.com/album/0zxE2GPVT7EJiHk0qr9I0s",
        "youtube": "https://www.youtube.com/results?search_query=Mouse%20On%20Mars%20Niun%20Niggung%20full%20album",
        "deezer": "https://www.deezer.com/album/274188",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6de93a51a38f432cb75fc80199d770ff/250x250-000000-80-0-0.jpg",
        "dz_title": "Niun Niggung",
        "dz_artist": "Mouse On Mars",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13273,13 +13407,14 @@
      "albums": [
       {
        "title": "Felt Mountain",
-       "spotify": "https://open.spotify.com/search/Goldfrapp%20Felt%20Mountain",
+       "spotify": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed",
        "youtube": "https://www.youtube.com/results?search_query=Goldfrapp%20Felt%20Mountain%20full%20album",
        "deezer": "https://www.deezer.com/album/901446972",
        "cover": "https://cdn-images.dzcdn.net/images/cover/122007edd5200fc017413ea214a6fc44/250x250-000000-80-0-0.jpg",
        "dz_title": "Felt Mountain",
        "dz_artist": "Goldfrapp",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13303,13 +13438,14 @@
      "albums": [
       {
        "title": "Jet Sounds",
-       "spotify": "https://open.spotify.com/search/Nicola%20Conte%20Jet%20Sounds",
+       "spotify": "https://open.spotify.com/album/6F3UXNn8wgohPOjP2QNb4a",
        "youtube": "https://www.youtube.com/results?search_query=Nicola%20Conte%20Jet%20Sounds%20full%20album",
        "deezer": "https://www.deezer.com/album/40756",
        "cover": "https://cdn-images.dzcdn.net/images/cover/19b58dec9763b8ad2a554206d1f06bc8/250x250-000000-80-0-0.jpg",
        "dz_title": "Jet Sounds",
        "dz_artist": "Nicola Conte",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13320,13 +13456,14 @@
      "albums": [
       {
        "title": "Appetite For Destruction",
-       "spotify": "https://open.spotify.com/search/Funkst%C3%B6rung%20Appetite%20For%20Destruction",
+       "spotify": "https://open.spotify.com/album/60ifBS580QDvzDeZ1jBpKD",
        "youtube": "https://www.youtube.com/results?search_query=Funkst%C3%B6rung%20Appetite%20For%20Destruction%20full%20album",
        "deezer": "https://www.deezer.com/album/1127112",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c64b5afa757f3dd4df8a9743c45875ad/250x250-000000-80-0-0.jpg",
        "dz_title": "Appetite for Destruction",
        "dz_artist": "Funkstorung",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13337,13 +13474,14 @@
      "albums": [
       {
        "title": "Thirteen Tales From Urban Bohemia",
-       "spotify": "https://open.spotify.com/search/The%20Dandy%20Warhols%20Thirteen%20Tales%20From%20Urban%20Bohemia",
+       "spotify": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak",
        "youtube": "https://www.youtube.com/results?search_query=The%20Dandy%20Warhols%20Thirteen%20Tales%20From%20Urban%20Bohemia%20full%20album",
        "deezer": "https://www.deezer.com/album/401014107",
        "cover": "https://cdn-images.dzcdn.net/images/cover/f2f1f2caf987151c528b96bd5e7359d4/250x250-000000-80-0-0.jpg",
        "dz_title": "Thirteen Tales From Urban Bohemia",
        "dz_artist": "The Dandy Warhols",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13354,13 +13492,14 @@
      "albums": [
       {
        "title": "Agoetis Byrjun",
-       "spotify": "https://open.spotify.com/search/Sigur%20R%C3%B3s%20Agoetis%20Byrjun",
+       "spotify": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
        "youtube": "https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20Agoetis%20Byrjun%20full%20album",
        "deezer": "https://www.deezer.com/album/82417442",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ae60fc6b15e0a01a4d1dfb1e42104cb9/250x250-000000-80-0-0.jpg",
        "dz_title": "Ágætis byrjun",
        "dz_artist": "Sigur Rós",
-       "conf": 0.92
+       "conf": 0.92,
+       "spotify_exact": true
       }
      ]
     },
@@ -13388,13 +13527,14 @@
      "albums": [
       {
        "title": "Hot Rail",
-       "spotify": "https://open.spotify.com/search/Calexico%20Hot%20Rail",
+       "spotify": "https://open.spotify.com/album/6wBjleMHrYfNEchXRrrNws",
        "youtube": "https://www.youtube.com/results?search_query=Calexico%20Hot%20Rail%20full%20album",
        "deezer": "https://www.deezer.com/album/523111602",
        "cover": "https://cdn-images.dzcdn.net/images/cover/89032e8c69d47dc8c898ec76a3d1e7b0/250x250-000000-80-0-0.jpg",
        "dz_title": "Hot Rail",
        "dz_artist": "Calexico",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13405,13 +13545,14 @@
      "albums": [
       {
        "title": "Suzuki",
-       "spotify": "https://open.spotify.com/search/Tosca%20Suzuki",
+       "spotify": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP",
        "youtube": "https://www.youtube.com/results?search_query=Tosca%20Suzuki%20full%20album",
        "deezer": "https://www.deezer.com/album/14657312",
        "cover": "https://cdn-images.dzcdn.net/images/cover/adede08f0972b364c7e498fd35487b85/250x250-000000-80-0-0.jpg",
        "dz_title": "Suzuki",
        "dz_artist": "Tosca",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13422,13 +13563,14 @@
      "albums": [
       {
        "title": "Tourist",
-       "spotify": "https://open.spotify.com/search/St%20Germain%20Tourist",
+       "spotify": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj",
        "youtube": "https://www.youtube.com/results?search_query=St%20Germain%20Tourist%20full%20album",
        "deezer": "https://www.deezer.com/album/202841702",
        "cover": "https://cdn-images.dzcdn.net/images/cover/42cead263cb1fa6030ea0c8237a15acf/250x250-000000-80-0-0.jpg",
        "dz_title": "Tourist (Tourist 20th Anniversary Travel Versions)",
        "dz_artist": "St Germain",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13439,13 +13581,14 @@
      "albums": [
       {
        "title": "Lemon Jelly",
-       "spotify": "https://open.spotify.com/search/Lemon%20Jelly%20Lemon%20Jelly",
+       "spotify": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk",
        "youtube": "https://www.youtube.com/results?search_query=Lemon%20Jelly%20Lemon%20Jelly%20full%20album",
        "deezer": "https://www.deezer.com/album/10966584",
        "cover": "https://cdn-images.dzcdn.net/images/cover/bdfa0748f20ef3bc8fc1e7f1f627e8eb/250x250-000000-80-0-0.jpg",
        "dz_title": "LemonJelly.ky",
        "dz_artist": "Lemon Jelly",
-       "conf": 0.91
+       "conf": 0.91,
+       "spotify_exact": true
       }
      ]
     },
@@ -13456,13 +13599,14 @@
      "albums": [
       {
        "title": "Kid A",
-       "spotify": "https://open.spotify.com/search/Radiohead%20Kid%20A",
+       "spotify": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
        "youtube": "https://www.youtube.com/results?search_query=Radiohead%20Kid%20A%20full%20album",
        "deezer": "https://www.deezer.com/album/14880741",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e5925065cdb1cefbc3bd75af4a1f1801/250x250-000000-80-0-0.jpg",
        "dz_title": "Kid A",
        "dz_artist": "Radiohead",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13473,13 +13617,14 @@
      "albums": [
       {
        "title": "El Baile Aleman",
-       "spotify": "https://open.spotify.com/search/Se%C3%B1or%20Coconut%20Y%20Su%20Conjunto%20El%20Baile%20Aleman",
+       "spotify": "https://open.spotify.com/album/3Ccq6HKwk0Wpc5O9Edi70H",
        "youtube": "https://www.youtube.com/results?search_query=Se%C3%B1or%20Coconut%20Y%20Su%20Conjunto%20El%20Baile%20Aleman%20full%20album",
        "deezer": "https://www.deezer.com/album/89416202",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7f2815fd22bafd2142bc98874aa7f32c/250x250-000000-80-0-0.jpg",
        "dz_title": "El Baile Alemán",
        "dz_artist": "Señor Coconut",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13490,8 +13635,9 @@
      "albums": [
       {
        "title": "Lo Fi Nu Jazz n°2",
-       "spotify": "https://open.spotify.com/search/Rubin%20Steiner%20Lo%20Fi%20Nu%20Jazz%20n%C2%B02",
+       "spotify": "https://open.spotify.com/album/75aiX8eI5wUz5FZFNuzmjc",
        "youtube": "https://www.youtube.com/results?search_query=Rubin%20Steiner%20Lo%20Fi%20Nu%20Jazz%20n%C2%B02%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/861f0875-64fb-383a-a89b-ba7bede42706/front-250"
       }
      ]
@@ -13520,13 +13666,14 @@
      "albums": [
       {
        "title": "Multila",
-       "spotify": "https://open.spotify.com/search/Vladislav%20Delay%20Multila",
+       "spotify": "https://open.spotify.com/album/059REKZPivhkzO4mNPjj2a",
        "youtube": "https://www.youtube.com/results?search_query=Vladislav%20Delay%20Multila%20full%20album",
        "deezer": "https://www.deezer.com/album/135265",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7e88231facd9c1e866d0970ad5092ecc/250x250-000000-80-0-0.jpg",
        "dz_title": "Multila",
        "dz_artist": "Vladislav Delay",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13537,13 +13684,14 @@
      "albums": [
       {
        "title": "Aaltopiiri",
-       "spotify": "https://open.spotify.com/search/Pan%20Sonic%20Aaltopiiri",
+       "spotify": "https://open.spotify.com/album/4wVPKrWG3cL3DvwO1ZXCK4",
        "youtube": "https://www.youtube.com/results?search_query=Pan%20Sonic%20Aaltopiiri%20full%20album",
        "deezer": "https://www.deezer.com/album/7193230",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e964071a2b2d89edef4b22ec32d36b99/250x250-000000-80-0-0.jpg",
        "dz_title": "Aaltopiri",
        "dz_artist": "Pan Sonic",
-       "conf": 0.95
+       "conf": 0.95,
+       "spotify_exact": true
       }
      ]
     },
@@ -13554,13 +13702,14 @@
      "albums": [
       {
        "title": "The Dropper",
-       "spotify": "https://open.spotify.com/search/Medeski%2C%20Martin%20%26%20Wood%20The%20Dropper",
+       "spotify": "https://open.spotify.com/album/3IcnfBuh4RTyFvnHXtq691",
        "youtube": "https://www.youtube.com/results?search_query=Medeski%2C%20Martin%20%26%20Wood%20The%20Dropper%20full%20album",
        "deezer": "https://www.deezer.com/album/300160",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7ec1942dcf23bd1112227acce25c4cac/250x250-000000-80-0-0.jpg",
        "dz_title": "The Dropper",
        "dz_artist": "Medeski Martin & Wood",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13571,13 +13720,14 @@
      "albums": [
       {
        "title": "3",
-       "spotify": "https://open.spotify.com/search/Pole%203",
+       "spotify": "https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL",
        "youtube": "https://www.youtube.com/results?search_query=Pole%203%20full%20album",
        "deezer": "https://www.deezer.com/album/1495278",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0796ea94f13df9c9408d35482ee38379/250x250-000000-80-0-0.jpg",
        "dz_title": "3",
        "dz_artist": "Pole",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -13608,13 +13758,14 @@
      "albums": [
       {
        "title": "It's A Wonderful Life",
-       "spotify": "https://open.spotify.com/search/Sparklehorse%20It%27s%20A%20Wonderful%20Life",
+       "spotify": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz",
        "youtube": "https://www.youtube.com/results?search_query=Sparklehorse%20It%27s%20A%20Wonderful%20Life%20full%20album",
        "deezer": "https://www.deezer.com/album/95832432",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0b56a82c3f7dc0afa3cf5581a3883527/250x250-000000-80-0-0.jpg",
        "dz_title": "It's A Wonderful Life",
        "dz_artist": "Sparklehorse",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13625,13 +13776,14 @@
      "albums": [
       {
        "title": "Des Visages Des Figures",
-       "spotify": "https://open.spotify.com/search/Noir%20D%C3%A9sir%20Des%20Visages%20Des%20Figures",
+       "spotify": "https://open.spotify.com/album/2GbW5WBU1BFSChvxtt6BBH",
        "youtube": "https://www.youtube.com/results?search_query=Noir%20D%C3%A9sir%20Des%20Visages%20Des%20Figures%20full%20album",
        "deezer": "https://www.deezer.com/album/217984",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4dec2ced9ee7ba97704ef6e68e6f3a79/250x250-000000-80-0-0.jpg",
        "dz_title": "Des visages des figures",
        "dz_artist": "Noir Désir",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13642,13 +13794,14 @@
      "albums": [
       {
        "title": "La Revancha Del Tango",
-       "spotify": "https://open.spotify.com/search/Gotan%20Project%20La%20Revancha%20Del%20Tango",
+       "spotify": "https://open.spotify.com/album/2riLhxE3UzS3evEXAwjEJq",
        "youtube": "https://www.youtube.com/results?search_query=Gotan%20Project%20La%20Revancha%20Del%20Tango%20full%20album",
        "deezer": "https://www.deezer.com/album/351773",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ba27b43fcb3ed230fb4ea687e3d5db41/250x250-000000-80-0-0.jpg",
        "dz_title": "La Revancha Del Tango",
        "dz_artist": "Gotan Project",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13659,13 +13812,14 @@
      "albums": [
       {
        "title": "Amnesiac",
-       "spotify": "https://open.spotify.com/search/Radiohead%20Amnesiac",
+       "spotify": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
        "youtube": "https://www.youtube.com/results?search_query=Radiohead%20Amnesiac%20full%20album",
        "deezer": "https://www.deezer.com/album/14879749",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d611b9ef9d7ce87a74c697d74be5ae15/250x250-000000-80-0-0.jpg",
        "dz_title": "Amnesiac",
        "dz_artist": "Radiohead",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13676,13 +13830,14 @@
      "albums": [
       {
        "title": "White Blood Cells",
-       "spotify": "https://open.spotify.com/search/The%20White%20Stripes%20White%20Blood%20Cells",
+       "spotify": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0",
        "youtube": "https://www.youtube.com/results?search_query=The%20White%20Stripes%20White%20Blood%20Cells%20full%20album",
        "deezer": "https://www.deezer.com/album/175927142",
        "cover": "https://cdn-images.dzcdn.net/images/cover/aaab9b09e238e498268b07890cd2d91c/250x250-000000-80-0-0.jpg",
        "dz_title": "White Blood Cells",
        "dz_artist": "The White Stripes",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13723,13 +13878,14 @@
      "albums": [
       {
        "title": "Vespertine",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Vespertine",
+       "spotify": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Vespertine%20full%20album",
        "deezer": "https://www.deezer.com/album/537883642",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4bd6b0232c2092faf145101453cb1051/250x250-000000-80-0-0.jpg",
        "dz_title": "Vespertine",
        "dz_artist": "Björk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13740,13 +13896,14 @@
      "albums": [
       {
        "title": "Is This It",
-       "spotify": "https://open.spotify.com/search/The%20Strokes%20Is%20This%20It",
+       "spotify": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
        "youtube": "https://www.youtube.com/results?search_query=The%20Strokes%20Is%20This%20It%20full%20album",
        "deezer": "https://www.deezer.com/album/101618",
        "cover": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg",
        "dz_title": "Is This It",
        "dz_artist": "The Strokes",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13757,13 +13914,14 @@
      "albums": [
       {
        "title": "Electrified",
-       "spotify": "https://open.spotify.com/search/Smash%20TV%20Electrified",
+       "spotify": "https://open.spotify.com/album/5ilfmKY6WB4VnoWyJOBcNU",
        "youtube": "https://www.youtube.com/results?search_query=Smash%20TV%20Electrified%20full%20album",
        "deezer": "https://www.deezer.com/album/61288782",
        "cover": "https://cdn-images.dzcdn.net/images/cover/99fbf507824a0d8833c9f03dc6215120/250x250-000000-80-0-0.jpg",
        "dz_title": "Electrified",
        "dz_artist": "Smash TV",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13774,13 +13932,14 @@
      "albums": [
       {
        "title": "Since I Left You",
-       "spotify": "https://open.spotify.com/search/The%20Avalanches%20Since%20I%20Left%20You",
+       "spotify": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO",
        "youtube": "https://www.youtube.com/results?search_query=The%20Avalanches%20Since%20I%20Left%20You%20full%20album",
        "deezer": "https://www.deezer.com/album/215948112",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1f5dd760cb176bc8edd318ad5aa21545/250x250-000000-80-0-0.jpg",
        "dz_title": "Since I Left You (20th Anniversary Deluxe Edition)",
        "dz_artist": "The Avalanches",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13791,13 +13950,14 @@
      "albums": [
       {
        "title": "10 000 Hz Legend",
-       "spotify": "https://open.spotify.com/search/Air%2010%20000%20Hz%20Legend",
+       "spotify": "https://open.spotify.com/album/2WNI378JH55k63eXBHbjbI",
        "youtube": "https://www.youtube.com/results?search_query=Air%2010%20000%20Hz%20Legend%20full%20album",
        "deezer": "https://www.deezer.com/album/299153",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b76dc7258e2b109d577782220d7ce11c/250x250-000000-80-0-0.jpg",
        "dz_title": "10 000 Hz Legend",
        "dz_artist": "Air",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13808,23 +13968,25 @@
      "albums": [
       {
        "title": "Vocal Studies",
-       "spotify": "https://open.spotify.com/search/Prefuse%2073%20Vocal%20Studies",
+       "spotify": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg",
        "youtube": "https://www.youtube.com/results?search_query=Prefuse%2073%20Vocal%20Studies%20full%20album",
        "deezer": "https://www.deezer.com/album/2795471",
        "cover": "https://cdn-images.dzcdn.net/images/cover/9b24149db408067bedefe7a96a4663b8/250x250-000000-80-0-0.jpg",
        "dz_title": "Vocal Studies and Uprock Narratives",
        "dz_artist": "Prefuse 73",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       },
       {
        "title": "Uprock Narratives",
-       "spotify": "https://open.spotify.com/search/Prefuse%2073%20Uprock%20Narratives",
+       "spotify": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg",
        "youtube": "https://www.youtube.com/results?search_query=Prefuse%2073%20Uprock%20Narratives%20full%20album",
        "deezer": "https://www.deezer.com/album/2795471",
        "cover": "https://cdn-images.dzcdn.net/images/cover/9b24149db408067bedefe7a96a4663b8/250x250-000000-80-0-0.jpg",
        "dz_title": "Vocal Studies and Uprock Narratives",
        "dz_artist": "Prefuse 73",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -13848,13 +14010,14 @@
      "albums": [
       {
        "title": "First Album",
-       "spotify": "https://open.spotify.com/search/Miss%20Kittin%20%26%20The%20Hacker%20First%20Album",
+       "spotify": "https://open.spotify.com/album/24ldIhHulcB9eaxnATmhLi",
        "youtube": "https://www.youtube.com/results?search_query=Miss%20Kittin%20%26%20The%20Hacker%20First%20Album%20full%20album",
        "deezer": "https://www.deezer.com/album/222898",
        "cover": "https://cdn-images.dzcdn.net/images/cover/731f6fdfac804fa77aa4ee48676bdc75/250x250-000000-80-0-0.jpg",
        "dz_title": "First Album",
        "dz_artist": "Miss Kittin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13865,13 +14028,14 @@
      "albums": [
       {
        "title": "A Chance To Cut Is A Chance To Cure",
-       "spotify": "https://open.spotify.com/search/Matmos%20A%20Chance%20To%20Cut%20Is%20A%20Chance%20To%20Cure",
+       "spotify": "https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs",
        "youtube": "https://www.youtube.com/results?search_query=Matmos%20A%20Chance%20To%20Cut%20Is%20A%20Chance%20To%20Cure%20full%20album",
        "deezer": "https://www.deezer.com/album/106618",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ad637b28f693b772ed16fdfbdd6b179a/250x250-000000-80-0-0.jpg",
        "dz_title": "A Chance To Cut Is A Chance To Cure",
        "dz_artist": "Matmos",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13882,13 +14046,14 @@
      "albums": [
       {
        "title": "Kittenz & Thee Glitz",
-       "spotify": "https://open.spotify.com/search/Felix%20Da%20Housecat%20Kittenz%20%26%20Thee%20Glitz",
+       "spotify": "https://open.spotify.com/album/2JmUeGcRIV0xak7KdQM7mM",
        "youtube": "https://www.youtube.com/results?search_query=Felix%20Da%20Housecat%20Kittenz%20%26%20Thee%20Glitz%20full%20album",
        "deezer": "https://www.deezer.com/album/419709657",
        "cover": "https://cdn-images.dzcdn.net/images/cover/253da14b847ace428a3f2b817de20895/250x250-000000-80-0-0.jpg",
        "dz_title": "Kittenz and Thee Glitz",
        "dz_artist": "Felix Da Housecat",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13899,13 +14064,14 @@
      "albums": [
       {
        "title": "All Is Dream",
-       "spotify": "https://open.spotify.com/search/Mercury%20Rev%20All%20Is%20Dream",
+       "spotify": "https://open.spotify.com/album/4N13GH5Ofi55VvG5yc3vFl",
        "youtube": "https://www.youtube.com/results?search_query=Mercury%20Rev%20All%20Is%20Dream%20full%20album",
        "deezer": "https://www.deezer.com/album/281468581",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c2e1ffc814c9563dba8acf11b480c7af/250x250-000000-80-0-0.jpg",
        "dz_title": "All is Dream",
        "dz_artist": "Mercury Rev",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13916,13 +14082,14 @@
      "albums": [
       {
        "title": "The Brotherhood Of The Bomb",
-       "spotify": "https://open.spotify.com/search/Techno%20Animal%20The%20Brotherhood%20Of%20The%20Bomb",
+       "spotify": "https://open.spotify.com/album/5pVwL6obb4ESIDyk9Y2z9e",
        "youtube": "https://www.youtube.com/results?search_query=Techno%20Animal%20The%20Brotherhood%20Of%20The%20Bomb%20full%20album",
        "deezer": "https://www.deezer.com/album/508745161",
        "cover": "https://cdn-images.dzcdn.net/images/cover/81f7e8f6a080f70e991728042be3c537/250x250-000000-80-0-0.jpg",
        "dz_title": "The Brotherhood Of The Bomb (2023 Remaster)",
        "dz_artist": "Techno Animal",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -13952,13 +14119,14 @@
      "albums": [
       {
        "title": "Every Day",
-       "spotify": "https://open.spotify.com/search/The%20Cinematic%20Orchestra%20Every%20Day",
+       "spotify": "https://open.spotify.com/album/1EUXHvyflL27HwOTQgaVuh",
        "youtube": "https://www.youtube.com/results?search_query=The%20Cinematic%20Orchestra%20Every%20Day%20full%20album",
        "deezer": "https://www.deezer.com/album/936166",
        "cover": "https://cdn-images.dzcdn.net/images/cover/54321e817dec0b9a2fec82251feda9de/250x250-000000-80-0-0.jpg",
        "dz_title": "Every Day",
        "dz_artist": "The Cinematic Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14012,13 +14180,14 @@
      "albums": [
       {
        "title": "Geogaddi",
-       "spotify": "https://open.spotify.com/search/Boards%20Of%20Canada%20Geogaddi",
+       "spotify": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE",
        "youtube": "https://www.youtube.com/results?search_query=Boards%20Of%20Canada%20Geogaddi%20full%20album",
        "deezer": "https://www.deezer.com/album/2795621",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4ca5f60e46ddb9b147a585cbe823977c/250x250-000000-80-0-0.jpg",
        "dz_title": "Geogaddi",
        "dz_artist": "Boards Of Canada",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14029,13 +14198,14 @@
      "albums": [
       {
        "title": "Amateur Girlfriends Go Proskirt Agents",
-       "spotify": "https://open.spotify.com/search/Xploding%20Plastix%20Amateur%20Girlfriends%20Go%20Proskirt%20Agents",
+       "spotify": "https://open.spotify.com/album/0PpqzVavZtr4XGjv1mqksc",
        "youtube": "https://www.youtube.com/results?search_query=Xploding%20Plastix%20Amateur%20Girlfriends%20Go%20Proskirt%20Agents%20full%20album",
        "deezer": "https://www.deezer.com/album/77714092",
        "cover": "https://cdn-images.dzcdn.net/images/cover/5bd5be4975072c73037054a751774857/250x250-000000-80-0-0.jpg",
        "dz_title": "Amateur Girlfriends Go Proskirt Agents",
        "dz_artist": "Xploding Plastix",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14058,13 +14228,14 @@
      "albums": [
       {
        "title": "Finally We Are No One",
-       "spotify": "https://open.spotify.com/search/M%C3%BAm%20Finally%20We%20Are%20No%20One",
+       "spotify": "https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k",
        "youtube": "https://www.youtube.com/results?search_query=M%C3%BAm%20Finally%20We%20Are%20No%20One%20full%20album",
        "deezer": "https://www.deezer.com/album/352278",
        "cover": "https://cdn-images.dzcdn.net/images/cover/9a7a3c5955e39ef0e2b3079aabe2e157/250x250-000000-80-0-0.jpg",
        "dz_title": "Finally We Are No One",
        "dz_artist": "Múm",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14075,13 +14246,14 @@
      "albums": [
       {
        "title": "Len Parrot's Memorial Lift",
-       "spotify": "https://open.spotify.com/search/Baxter%20Dury%20Len%20Parrot%27s%20Memorial%20Lift",
+       "spotify": "https://open.spotify.com/album/7o3jY11C7XJWxOoSnQIrgB",
        "youtube": "https://www.youtube.com/results?search_query=Baxter%20Dury%20Len%20Parrot%27s%20Memorial%20Lift%20full%20album",
        "deezer": "https://www.deezer.com/album/105820",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a1efc623f7919baf55e6ab622ab13074/250x250-000000-80-0-0.jpg",
        "dz_title": "Len Parrot's Memorial Lift",
        "dz_artist": "Baxter Dury",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14092,13 +14264,14 @@
      "albums": [
       {
        "title": "Neon Golden",
-       "spotify": "https://open.spotify.com/search/The%20Notwist%20Neon%20Golden",
+       "spotify": "https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu",
        "youtube": "https://www.youtube.com/results?search_query=The%20Notwist%20Neon%20Golden%20full%20album",
        "deezer": "https://www.deezer.com/album/657872161",
        "cover": "https://cdn-images.dzcdn.net/images/cover/77b146ab5c005be281f388057eaeb661/250x250-000000-80-0-0.jpg",
        "dz_title": "Neon Golden",
        "dz_artist": "The Notwist",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14109,13 +14282,14 @@
      "albums": [
       {
        "title": "They Threw Us All In A Trench & Stuck A Monument On Top",
-       "spotify": "https://open.spotify.com/search/Liars%20They%20Threw%20Us%20All%20In%20A%20Trench%20%26%20Stuck%20A%20Monument%20On%20Top",
+       "spotify": "https://open.spotify.com/album/3P0FQIvRlfo1lzz6sl16Iw",
        "youtube": "https://www.youtube.com/results?search_query=Liars%20They%20Threw%20Us%20All%20In%20A%20Trench%20%26%20Stuck%20A%20Monument%20On%20Top%20full%20album",
        "deezer": "https://www.deezer.com/album/7160692",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ab9c18b2cd6dfe5470b95ea585798e99/250x250-000000-80-0-0.jpg",
        "dz_title": "They Threw Us All in a Trench and Stuck a Monument on Top",
        "dz_artist": "Liars",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14126,13 +14300,14 @@
      "albums": [
       {
        "title": "Gotham",
-       "spotify": "https://open.spotify.com/search/Radio%204%20Gotham",
+       "spotify": "https://open.spotify.com/album/0NFLXpfr91bCK0arNQ76Nu",
        "youtube": "https://www.youtube.com/results?search_query=Radio%204%20Gotham%20full%20album",
        "deezer": "https://www.deezer.com/album/1343392",
        "cover": "https://cdn-images.dzcdn.net/images/cover/98e801eac7f6ef48758b0e10fb80b5a7/250x250-000000-80-0-0.jpg",
        "dz_title": "Gotham",
        "dz_artist": "Radio 4",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14143,13 +14318,14 @@
      "albums": [
       {
        "title": "Homecooking",
-       "spotify": "https://open.spotify.com/search/Tony%20Allen%20Homecooking",
+       "spotify": "https://open.spotify.com/album/5yzzvJinNh6q3305O3RuTQ",
        "youtube": "https://www.youtube.com/results?search_query=Tony%20Allen%20Homecooking%20full%20album",
        "deezer": "https://www.deezer.com/album/298239",
        "cover": "https://cdn-images.dzcdn.net/images/cover/55cd01997a06e26edd4498aab2202cef/250x250-000000-80-0-0.jpg",
        "dz_title": "HomeCooking",
        "dz_artist": "Tony Allen",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14160,13 +14336,14 @@
      "albums": [
       {
        "title": "Deadringer",
-       "spotify": "https://open.spotify.com/search/RJD2%20Deadringer",
+       "spotify": "https://open.spotify.com/album/609guKDxlKQYKXWXdWQFZa",
        "youtube": "https://www.youtube.com/results?search_query=RJD2%20Deadringer%20full%20album",
        "deezer": "https://www.deezer.com/album/1123479722",
        "cover": "https://cdn-images.dzcdn.net/images/cover/f56d3d05adf6968a6a3270453f3c9478/250x250-000000-80-0-0.jpg",
        "dz_title": "Deadringer (Deluxe)",
        "dz_artist": "RJD2",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14177,13 +14354,14 @@
      "albums": [
       {
        "title": "Scorpio Rising",
-       "spotify": "https://open.spotify.com/search/Death%20In%20Vegas%20Scorpio%20Rising",
+       "spotify": "https://open.spotify.com/album/26tC5w0oT1hLkRj2RIWJIS",
        "youtube": "https://www.youtube.com/results?search_query=Death%20In%20Vegas%20Scorpio%20Rising%20full%20album",
        "deezer": "https://www.deezer.com/album/110304",
        "cover": "https://cdn-images.dzcdn.net/images/cover/95cea29810910becc37925d62d2ad326/250x250-000000-80-0-0.jpg",
        "dz_title": "Scorpio Rising",
        "dz_artist": "Death In Vegas",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14194,13 +14372,14 @@
      "albums": [
       {
        "title": "Seed To Sum",
-       "spotify": "https://open.spotify.com/search/Boom%20Bip%20Seed%20To%20Sum",
+       "spotify": "https://open.spotify.com/album/04fusuZ3J3l9QSr91MZoqo",
        "youtube": "https://www.youtube.com/results?search_query=Boom%20Bip%20Seed%20To%20Sum%20full%20album",
        "deezer": "https://www.deezer.com/album/796048571",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d4b92614bbadd092c43536af53ee686b/250x250-000000-80-0-0.jpg",
        "dz_title": "Seed to Sun",
        "dz_artist": "Boom Bip",
-       "conf": 0.89
+       "conf": 0.89,
+       "spotify_exact": true
       }
      ]
     },
@@ -14211,13 +14390,14 @@
      "albums": [
       {
        "title": "Danse Macabre",
-       "spotify": "https://open.spotify.com/search/The%20Faint%20Danse%20Macabre",
+       "spotify": "https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV",
        "youtube": "https://www.youtube.com/results?search_query=The%20Faint%20Danse%20Macabre%20full%20album",
        "deezer": "https://www.deezer.com/album/7509672",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6de1478fab247a083ead18480520e65f/250x250-000000-80-0-0.jpg",
        "dz_title": "Danse Macabre",
        "dz_artist": "The Faint",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14228,13 +14408,14 @@
      "albums": [
       {
        "title": "The Private Press",
-       "spotify": "https://open.spotify.com/search/DJ%20Shadow%20The%20Private%20Press",
+       "spotify": "https://open.spotify.com/album/11EeD1nM2Ctrt6wF9seWV8",
        "youtube": "https://www.youtube.com/results?search_query=DJ%20Shadow%20The%20Private%20Press%20full%20album",
        "deezer": "https://www.deezer.com/album/392609237",
        "cover": "https://cdn-images.dzcdn.net/images/cover/2bda9b2cb1d02c10a5070cacdc141733/250x250-000000-80-0-0.jpg",
        "dz_title": "The Private Press",
        "dz_artist": "DJ Shadow",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14245,13 +14426,14 @@
      "albums": [
       {
        "title": "Sea Change",
-       "spotify": "https://open.spotify.com/search/Beck%20Sea%20Change",
+       "spotify": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy",
        "youtube": "https://www.youtube.com/results?search_query=Beck%20Sea%20Change%20full%20album",
        "deezer": "https://www.deezer.com/album/103257",
        "cover": "https://cdn-images.dzcdn.net/images/cover/476d1b879235fe0b630ec5b90400d98c/250x250-000000-80-0-0.jpg",
        "dz_title": "Sea Change",
        "dz_artist": "Beck",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -14269,13 +14451,14 @@
      "albums": [
       {
        "title": "The Civil War",
-       "spotify": "https://open.spotify.com/search/Matmos%20The%20Civil%20War",
+       "spotify": "https://open.spotify.com/album/6WCOn8pHMKQXu8GfT3ww7Q",
        "youtube": "https://www.youtube.com/results?search_query=Matmos%20The%20Civil%20War%20full%20album",
        "deezer": "https://www.deezer.com/album/106677",
        "cover": "https://cdn-images.dzcdn.net/images/cover/263d48a332e296210d027c0b2ff96498/250x250-000000-80-0-0.jpg",
        "dz_title": "The Civil War",
        "dz_artist": "Matmos",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14286,13 +14469,14 @@
      "albums": [
       {
        "title": "Soulhack",
-       "spotify": "https://open.spotify.com/search/Forss%20Soulhack",
+       "spotify": "https://open.spotify.com/album/55keqdncZBBlD1lNIiBp71",
        "youtube": "https://www.youtube.com/results?search_query=Forss%20Soulhack%20full%20album",
        "deezer": "https://www.deezer.com/album/2591751",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6b518b7e54db76ba49c859ced9005bf7/250x250-000000-80-0-0.jpg",
        "dz_title": "Soulhack",
        "dz_artist": "Forss",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14303,13 +14487,14 @@
      "albums": [
       {
        "title": "Closer",
-       "spotify": "https://open.spotify.com/search/Plastikman%20Closer",
+       "spotify": "https://open.spotify.com/album/22kp2ITg084dSo1G8yEVBg",
        "youtube": "https://www.youtube.com/results?search_query=Plastikman%20Closer%20full%20album",
        "deezer": "https://www.deezer.com/album/134701822",
        "cover": "https://cdn-images.dzcdn.net/images/cover/97908b8f0166ce6bcdfd2cdf2d56bf10/250x250-000000-80-0-0.jpg",
        "dz_title": "Closer",
        "dz_artist": "Plastikman",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14337,13 +14522,14 @@
      "albums": [
       {
        "title": "Soul Strata",
-       "spotify": "https://open.spotify.com/search/I-Wolf%20Soul%20Strata",
+       "spotify": "https://open.spotify.com/album/3SNVU0REraUdS3SonUe7YI",
        "youtube": "https://www.youtube.com/results?search_query=I-Wolf%20Soul%20Strata%20full%20album",
        "deezer": "https://www.deezer.com/album/62350352",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0f48d13d2d452c845bf41e50a61ad32b/250x250-000000-80-0-0.jpg",
        "dz_title": "Presents Soul Strata",
        "dz_artist": "I-Wolf",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -14354,13 +14540,14 @@
      "albums": [
       {
        "title": "Momentum",
-       "spotify": "https://open.spotify.com/search/Monolake%20Momentum",
+       "spotify": "https://open.spotify.com/album/6J5AWcVTAbjmA45gRR5iWA",
        "youtube": "https://www.youtube.com/results?search_query=Monolake%20Momentum%20full%20album",
        "deezer": "https://www.deezer.com/album/59718722",
        "cover": "https://cdn-images.dzcdn.net/images/cover/0d1baeb344707d58032aa8df142eaaf3/250x250-000000-80-0-0.jpg",
        "dz_title": "Momentum",
        "dz_artist": "Monolake",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14397,13 +14584,14 @@
      "albums": [
       {
        "title": "Man With A Movie Camera",
-       "spotify": "https://open.spotify.com/search/The%20Cinematic%20Orchestra%20Man%20With%20A%20Movie%20Camera",
+       "spotify": "https://open.spotify.com/album/0IIQQ4DsuNJWZmtK3FaYdp",
        "youtube": "https://www.youtube.com/results?search_query=The%20Cinematic%20Orchestra%20Man%20With%20A%20Movie%20Camera%20full%20album",
        "deezer": "https://www.deezer.com/album/453274815",
        "cover": "https://cdn-images.dzcdn.net/images/cover/581ee03adeefe86015d9b6df3c307192/250x250-000000-80-0-0.jpg",
        "dz_title": "Man With A Movie Camera",
        "dz_artist": "The Cinematic Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14414,13 +14602,14 @@
      "albums": [
       {
        "title": "Elephant",
-       "spotify": "https://open.spotify.com/search/The%20White%20Stripes%20Elephant",
+       "spotify": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE",
        "youtube": "https://www.youtube.com/results?search_query=The%20White%20Stripes%20Elephant%20full%20album",
        "deezer": "https://www.deezer.com/album/175927162",
        "cover": "https://cdn-images.dzcdn.net/images/cover/370483b6b448fafeeff053a1556467da/250x250-000000-80-0-0.jpg",
        "dz_title": "Elephant",
        "dz_artist": "The White Stripes",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14457,13 +14646,14 @@
      "albums": [
       {
        "title": "Echoes",
-       "spotify": "https://open.spotify.com/search/The%20Rapture%20Echoes",
+       "spotify": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf",
        "youtube": "https://www.youtube.com/results?search_query=The%20Rapture%20Echoes%20full%20album",
        "deezer": "https://www.deezer.com/album/535612042",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6000a694c6ecc6ca62e8b781f617b1bf/250x250-000000-80-0-0.jpg",
        "dz_title": "Echoes",
        "dz_artist": "The Rapture",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14474,13 +14664,14 @@
      "albums": [
       {
        "title": "Keep On Your Mean Side",
-       "spotify": "https://open.spotify.com/search/The%20Kills%20Keep%20On%20Your%20Mean%20Side",
+       "spotify": "https://open.spotify.com/album/6igSL7RFTwQYPdgiYXImOs",
        "youtube": "https://www.youtube.com/results?search_query=The%20Kills%20Keep%20On%20Your%20Mean%20Side%20full%20album",
        "deezer": "https://www.deezer.com/album/401336",
        "cover": "https://cdn-images.dzcdn.net/images/cover/926394918acb3fb7d54d6c5786c7346f/250x250-000000-80-0-0.jpg",
        "dz_title": "Keep On Your Mean Side",
        "dz_artist": "The Kills",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14491,13 +14682,14 @@
      "albums": [
       {
        "title": "Pressure",
-       "spotify": "https://open.spotify.com/search/The%20Bug%20Pressure",
+       "spotify": "https://open.spotify.com/album/4oTan2TJpE2e2VldWmUkhD",
        "youtube": "https://www.youtube.com/results?search_query=The%20Bug%20Pressure%20full%20album",
        "deezer": "https://www.deezer.com/album/242353962",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4489ce025af1af6ff1cf31f83d227855/250x250-000000-80-0-0.jpg",
        "dz_title": "Pressure (feat. Flowdan)",
        "dz_artist": "The Bug",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -14508,13 +14700,14 @@
      "albums": [
       {
        "title": "Hail To The Thief",
-       "spotify": "https://open.spotify.com/search/Radiohead%20Hail%20To%20The%20Thief",
+       "spotify": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy",
        "youtube": "https://www.youtube.com/results?search_query=Radiohead%20Hail%20To%20The%20Thief%20full%20album",
        "deezer": "https://www.deezer.com/album/14879739",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d3d9e1f53d60c5d2c764b20870aab69e/250x250-000000-80-0-0.jpg",
        "dz_title": "Hail To the Thief",
        "dz_artist": "Radiohead",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14525,13 +14718,14 @@
      "albums": [
       {
        "title": "Rounds",
-       "spotify": "https://open.spotify.com/search/Fourtet%20Rounds",
+       "spotify": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ",
        "youtube": "https://www.youtube.com/results?search_query=Fourtet%20Rounds%20full%20album",
        "deezer": "https://www.deezer.com/album/426722",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7b955054e94d2a68733a9d11438c5d5c/250x250-000000-80-0-0.jpg",
        "dz_title": "Rounds",
        "dz_artist": "Four Tet",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14542,13 +14736,14 @@
      "albums": [
       {
        "title": "Muted",
-       "spotify": "https://open.spotify.com/search/Alias%20Muted",
+       "spotify": "https://open.spotify.com/album/1CFrtokhOgLpUDHgYXSOJK",
        "youtube": "https://www.youtube.com/results?search_query=Alias%20Muted%20full%20album",
        "deezer": "https://www.deezer.com/album/128390222",
        "cover": "https://cdn-images.dzcdn.net/images/cover/30e3f1480265d6cb45b5193cc1cfd1e3/250x250-000000-80-0-0.jpg",
        "dz_title": "Muted",
        "dz_artist": "Alias",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14559,8 +14754,9 @@
      "albums": [
       {
        "title": "Mind Edit",
-       "spotify": "https://open.spotify.com/search/Riow%20Arai%20Mind%20Edit",
+       "spotify": "https://open.spotify.com/album/4BpyzaOvrdMCuWHKfJAJm4",
        "youtube": "https://www.youtube.com/results?search_query=Riow%20Arai%20Mind%20Edit%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/4dde2586-f578-389d-9ef0-02d58f83c976/front-250"
       }
      ]
@@ -14572,13 +14768,14 @@
      "albums": [
       {
        "title": "Zongamin",
-       "spotify": "https://open.spotify.com/search/Zongamin%20Zongamin",
+       "spotify": "https://open.spotify.com/album/3rOFmaPzA5v86VJIjdBp8p",
        "youtube": "https://www.youtube.com/results?search_query=Zongamin%20Zongamin%20full%20album",
        "deezer": "https://www.deezer.com/album/105398",
        "cover": "https://cdn-images.dzcdn.net/images/cover/475874f2b11fdf1bb3483529a00d9bcf/250x250-000000-80-0-0.jpg",
        "dz_title": "Zongamin",
        "dz_artist": "Zongamin",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -14596,13 +14793,14 @@
      "albums": [
       {
        "title": "Desperate Youth, Blood Thirsty Babes",
-       "spotify": "https://open.spotify.com/search/TV%20On%20The%20Radio%20Desperate%20Youth%2C%20Blood%20Thirsty%20Babes",
+       "spotify": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx",
        "youtube": "https://www.youtube.com/results?search_query=TV%20On%20The%20Radio%20Desperate%20Youth%2C%20Blood%20Thirsty%20Babes%20full%20album",
        "deezer": "https://www.deezer.com/album/13254985",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8efa8842ddfe4c47612ac515865f4213/250x250-000000-80-0-0.jpg",
        "dz_title": "Desperate Youth, Blood Thirsty Babes",
        "dz_artist": "TV On The Radio",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14613,13 +14811,14 @@
      "albums": [
       {
        "title": "Kesto",
-       "spotify": "https://open.spotify.com/search/Pan%20Sonic%20Kesto",
+       "spotify": "https://open.spotify.com/album/5STO4axRDQOmUSM24ezJWX",
        "youtube": "https://www.youtube.com/results?search_query=Pan%20Sonic%20Kesto%20full%20album",
        "deezer": "https://www.deezer.com/album/7193187",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d70d89f29379468c8f94a421b9fbf2d3/250x250-000000-80-0-0.jpg",
        "dz_title": "Kesto (234.48:4)",
        "dz_artist": "Pan Sonic",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -14630,13 +14829,14 @@
      "albums": [
       {
        "title": "The Sounds Of Disaster",
-       "spotify": "https://open.spotify.com/search/End%20The%20Sounds%20Of%20Disaster",
+       "spotify": "https://open.spotify.com/album/7aQyFR1aF3IFDoQQdBfVyR",
        "youtube": "https://www.youtube.com/results?search_query=End%20The%20Sounds%20Of%20Disaster%20full%20album",
        "deezer": "https://www.deezer.com/album/956560021",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b974b800b3f9496502cf8624c1ea58e1/250x250-000000-80-0-0.jpg",
        "dz_title": "The Sounds of Disaster",
        "dz_artist": "The End",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14649,11 +14849,7 @@
        "title": "Solo Piano",
        "spotify": "https://open.spotify.com/search/Gonzales%20Solo%20Piano",
        "youtube": "https://www.youtube.com/results?search_query=Gonzales%20Solo%20Piano%20full%20album",
-       "deezer": "https://www.deezer.com/album/13565639",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/9e6ad6093076bef9b883e88397e09fa2/250x250-000000-80-0-0.jpg",
-       "dz_title": "Solo Piano",
-       "dz_artist": "Chilly Gonzales",
-       "conf": 1
+       "cover": "https://coverartarchive.org/release-group/52993260-67f5-3776-90ff-5792db9cf360/front-250"
       }
      ]
     },
@@ -14690,13 +14886,14 @@
      "albums": [
       {
        "title": "Thunder + Lightning",
-       "spotify": "https://open.spotify.com/search/Modey%20Lemon%20Thunder%20%2B%20Lightning",
+       "spotify": "https://open.spotify.com/album/0154q8VL5x05pfEgVUc1tx",
        "youtube": "https://www.youtube.com/results?search_query=Modey%20Lemon%20Thunder%20%2B%20Lightning%20full%20album",
        "deezer": "https://www.deezer.com/album/1119315",
        "cover": "https://cdn-images.dzcdn.net/images/cover/bb244957248fb747726ac60ed3c90d7c/250x250-000000-80-0-0.jpg",
        "dz_title": "Thunder & Lightning",
        "dz_artist": "Modey Lemon",
-       "conf": 0.91
+       "conf": 0.91,
+       "spotify_exact": true
       }
      ]
     },
@@ -14707,13 +14904,14 @@
      "albums": [
       {
        "title": "Le Sixième Doigt",
-       "spotify": "https://open.spotify.com/search/Servovalve%20Le%20Sixi%C3%A8me%20Doigt",
+       "spotify": "https://open.spotify.com/album/0XkCaV57SgPIKaeFLyunb8",
        "youtube": "https://www.youtube.com/results?search_query=Servovalve%20Le%20Sixi%C3%A8me%20Doigt%20full%20album",
        "deezer": "https://www.deezer.com/album/990858",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d73e953ef9313ad2dffc326d908fa3eb/250x250-000000-80-0-0.jpg",
        "dz_title": "Le Sixième Doigt",
        "dz_artist": "Servovalve",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14741,13 +14939,14 @@
      "albums": [
       {
        "title": "The Unrelenting Songs Of The 1979 Post Disco Crash",
-       "spotify": "https://open.spotify.com/search/Jason%20Forrest%20The%20Unrelenting%20Songs%20Of%20The%201979%20Post%20Disco%20Crash",
+       "spotify": "https://open.spotify.com/album/28oAb6tAbInSNl2cntJ3aF",
        "youtube": "https://www.youtube.com/results?search_query=Jason%20Forrest%20The%20Unrelenting%20Songs%20Of%20The%201979%20Post%20Disco%20Crash%20full%20album",
        "deezer": "https://www.deezer.com/album/912141421",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7d9834368246f4b6504d0c3f411e5dc2/250x250-000000-80-0-0.jpg",
        "dz_title": "The Unrelenting Songs Of The 1979 Post Disco Crash",
        "dz_artist": "Jason Forrest",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14758,13 +14957,14 @@
      "albums": [
       {
        "title": "Global Speaker Fisting",
-       "spotify": "https://open.spotify.com/search/Otto%20Von%20Schirach%20Global%20Speaker%20Fisting",
+       "spotify": "https://open.spotify.com/album/3lMuzo5k8nbKSwu7IcJChs",
        "youtube": "https://www.youtube.com/results?search_query=Otto%20Von%20Schirach%20Global%20Speaker%20Fisting%20full%20album",
        "deezer": "https://www.deezer.com/album/6372915",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fc7875fcc28d6516e247e9f3d7b09b4c/250x250-000000-80-0-0.jpg",
        "dz_title": "Global Speaker Fisting",
        "dz_artist": "Otto Von Schirach",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14775,8 +14975,9 @@
      "albums": [
       {
        "title": "Meet The Babylonians",
-       "spotify": "https://open.spotify.com/search/I-Wolf%20%26%20Burdy%20Meet%20The%20Babylonians",
+       "spotify": "https://open.spotify.com/album/6I6zt3AGkX8B09ub7KJ5kG",
        "youtube": "https://www.youtube.com/results?search_query=I-Wolf%20%26%20Burdy%20Meet%20The%20Babylonians%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/9f931980-5230-4b2a-b8f5-21c33db67855/front-250"
       }
      ]
@@ -14788,13 +14989,14 @@
      "albums": [
       {
        "title": "Medúlla",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Med%C3%BAlla",
+       "spotify": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Med%C3%BAlla%20full%20album",
        "deezer": "https://www.deezer.com/album/537882702",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ffb56645bb29383bc4cd0444b8f65d4f/250x250-000000-80-0-0.jpg",
        "dz_title": "Medúlla",
        "dz_artist": "Björk",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14805,13 +15007,14 @@
      "albums": [
       {
        "title": "The Power Out",
-       "spotify": "https://open.spotify.com/search/Electrelane%20The%20Power%20Out",
+       "spotify": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7",
        "youtube": "https://www.youtube.com/results?search_query=Electrelane%20The%20Power%20Out%20full%20album",
        "deezer": "https://www.deezer.com/album/105488",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7c8df31b81e8267e7bc1bcc332e84abf/250x250-000000-80-0-0.jpg",
        "dz_title": "The Power Out",
        "dz_artist": "Electrelane",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14836,13 +15039,14 @@
      "albums": [
       {
        "title": "Peace Love Death Metal",
-       "spotify": "https://open.spotify.com/search/Eagles%20Of%20Death%20Metal%20Peace%20Love%20Death%20Metal",
+       "spotify": "https://open.spotify.com/album/5OiPygwsXIVacytHqCdNhP",
        "youtube": "https://www.youtube.com/results?search_query=Eagles%20Of%20Death%20Metal%20Peace%20Love%20Death%20Metal%20full%20album",
        "deezer": "https://www.deezer.com/album/956482561",
        "cover": "https://cdn-images.dzcdn.net/images/cover/bd6bcafaeea005d9139771cf0a244b5e/250x250-000000-80-0-0.jpg",
        "dz_title": "Peace Love Death Metal",
        "dz_artist": "Eagles Of Death Metal",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14853,13 +15057,14 @@
      "albums": [
       {
        "title": "Has Been",
-       "spotify": "https://open.spotify.com/search/William%20Shatner%20Has%20Been",
+       "spotify": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT",
        "youtube": "https://www.youtube.com/results?search_query=William%20Shatner%20Has%20Been%20full%20album",
        "deezer": "https://www.deezer.com/album/725569",
        "cover": "https://cdn-images.dzcdn.net/images/cover/c9e51e0d57ff96ebbdc631403d8b554c/250x250-000000-80-0-0.jpg",
        "dz_title": "William Shatner Has Been",
        "dz_artist": "William Shatner",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14870,13 +15075,14 @@
      "albums": [
       {
        "title": "Smile",
-       "spotify": "https://open.spotify.com/search/Brian%20Wilson%20Smile",
+       "spotify": "https://open.spotify.com/album/4Uc6YCjpfyjj02rZfg2EUv",
        "youtube": "https://www.youtube.com/results?search_query=Brian%20Wilson%20Smile%20full%20album",
        "deezer": "https://www.deezer.com/album/81543",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8738deead815050c2a1e349d42de00b6/250x250-000000-80-0-0.jpg",
        "dz_title": "Smile",
        "dz_artist": "Brian Wilson",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14887,13 +15093,14 @@
      "albums": [
       {
        "title": "Talkie Walkie",
-       "spotify": "https://open.spotify.com/search/Air%20Talkie%20Walkie",
+       "spotify": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363",
        "youtube": "https://www.youtube.com/results?search_query=Air%20Talkie%20Walkie%20full%20album",
        "deezer": "https://www.deezer.com/album/320430",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ee86b90a1455e67844303167293ecf73/250x250-000000-80-0-0.jpg",
        "dz_title": "Talkie Walkie",
        "dz_artist": "Air",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14904,13 +15111,14 @@
      "albums": [
       {
        "title": "Swing-Swing",
-       "spotify": "https://open.spotify.com/search/Nicolas%20Repac%20Swing-Swing",
+       "spotify": "https://open.spotify.com/album/7taaeJqw65AyvBSgGZ3dpc",
        "youtube": "https://www.youtube.com/results?search_query=Nicolas%20Repac%20Swing-Swing%20full%20album",
        "deezer": "https://www.deezer.com/album/467821",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a01bd396c1586fe594b606ed978b1292/250x250-000000-80-0-0.jpg",
        "dz_title": "Swing-Swing",
        "dz_artist": "Nicolas Repac",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -14964,13 +15172,14 @@
      "albums": [
       {
        "title": "Manhattan Research Inc.",
-       "spotify": "https://open.spotify.com/search/Raymond%20Scott%20Manhattan%20Research%20Inc.",
+       "spotify": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D",
        "youtube": "https://www.youtube.com/results?search_query=Raymond%20Scott%20Manhattan%20Research%20Inc.%20full%20album",
        "deezer": "https://www.deezer.com/album/1083363",
        "cover": "https://cdn-images.dzcdn.net/images/cover/e65b9437e0f59e90c3f779389137c34e/250x250-000000-80-0-0.jpg",
        "dz_title": "Manhattan Research, Inc.",
        "dz_artist": "Raymond Scott",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15097,13 +15306,14 @@
      "albums": [
       {
        "title": "Singles Collection - The London Years",
-       "spotify": "https://open.spotify.com/search/The%20Rolling%20Stones%20Singles%20Collection%20-%20The%20London%20Years",
+       "spotify": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB",
        "youtube": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones%20Singles%20Collection%20-%20The%20London%20Years%20full%20album",
        "deezer": "https://www.deezer.com/album/912926",
        "cover": "https://cdn-images.dzcdn.net/images/cover/71567bceda924566505e92fab0eee035/250x250-000000-80-0-0.jpg",
        "dz_title": "The Rolling Stones Singles Collection: The London Years",
        "dz_artist": "The Rolling Stones",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15119,14 +15329,16 @@
      "albums": [
       {
        "title": "Foundations Of Funk: A Brand New Bag 64-69",
-       "spotify": "https://open.spotify.com/search/James%20Brown%20Foundations%20Of%20Funk%3A%20A%20Brand%20New%20Bag%2064-69",
+       "spotify": "https://open.spotify.com/album/6d2atfAJlmgmUkmUDdrqwg",
        "youtube": "https://www.youtube.com/results?search_query=James%20Brown%20Foundations%20Of%20Funk%3A%20A%20Brand%20New%20Bag%2064-69%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/2020ce6a-7b61-3c82-aaf6-cdff0887caf0/front-250"
       },
       {
        "title": "Make It Funky: The Big Payback 71-75",
-       "spotify": "https://open.spotify.com/search/James%20Brown%20Make%20It%20Funky%3A%20The%20Big%20Payback%2071-75",
-       "youtube": "https://www.youtube.com/results?search_query=James%20Brown%20Make%20It%20Funky%3A%20The%20Big%20Payback%2071-75%20full%20album"
+       "spotify": "https://open.spotify.com/album/15w6m3ASkWnzMOHr057g2t",
+       "youtube": "https://www.youtube.com/results?search_query=James%20Brown%20Make%20It%20Funky%3A%20The%20Big%20Payback%2071-75%20full%20album",
+       "spotify_exact": true
       }
      ]
     }
@@ -15219,13 +15431,10 @@
      "albums": [
       {
        "title": "No Regrets",
-       "spotify": "https://open.spotify.com/search/Scott%20Walker%20%26%20The%20Walker%20Brothers%20No%20Regrets",
+       "spotify": "https://open.spotify.com/album/3dScpsRc91JKTolqzXwtZf",
        "youtube": "https://www.youtube.com/results?search_query=Scott%20Walker%20%26%20The%20Walker%20Brothers%20No%20Regrets%20full%20album",
-       "deezer": "https://www.deezer.com/album/272261",
-       "cover": "https://cdn-images.dzcdn.net/images/cover/0d641b9a0ce09d6932918fe88d298844/250x250-000000-80-0-0.jpg",
-       "dz_title": "No Regrets - The Best Of Scott Walker & The Walker Brothers 1965 - 1976",
-       "dz_artist": "The Walker Brothers",
-       "conf": 0.8
+       "spotify_exact": true,
+       "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e026e1cbb98a9f72d10819fe091"
       }
      ]
     }
@@ -15241,13 +15450,14 @@
      "albums": [
       {
        "title": "The Remains",
-       "spotify": "https://open.spotify.com/search/The%20Remains%20The%20Remains",
+       "spotify": "https://open.spotify.com/album/4NngXhLNs7VUJ5mAr2nus7",
        "youtube": "https://www.youtube.com/results?search_query=The%20Remains%20The%20Remains%20full%20album",
        "deezer": "https://www.deezer.com/album/682624",
        "cover": "https://cdn-images.dzcdn.net/images/cover/75b73afd444a5ea88d5aa055f35ff27d/250x250-000000-80-0-0.jpg",
        "dz_title": "The Remains",
        "dz_artist": "The Remains",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15299,8 +15509,9 @@
      "albums": [
       {
        "title": "Nuggets: Original Artyfacts From The First Psychedelic Era 1965-68",
-       "spotify": "https://open.spotify.com/search/Nuggets%3A%20Original%20Artyfacts%20From%20The%20First%20Psychedelic%20Era%201965-68",
+       "spotify": "https://open.spotify.com/album/0Jja7XXmSKODF2nOjICXvX",
        "youtube": "https://www.youtube.com/results?search_query=Nuggets%3A%20Original%20Artyfacts%20From%20The%20First%20Psychedelic%20Era%201965-68%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/8692651e-a7df-3903-a47e-8a28bc1b492c/front-250"
       },
       {
@@ -15371,13 +15582,14 @@
      "albums": [
       {
        "title": "Kick Out The Jams",
-       "spotify": "https://open.spotify.com/search/MC5%20Kick%20Out%20The%20Jams",
+       "spotify": "https://open.spotify.com/album/4Cru5Cer4lljBfNmCz7Ikj",
        "youtube": "https://www.youtube.com/results?search_query=MC5%20Kick%20Out%20The%20Jams%20full%20album",
        "deezer": "https://www.deezer.com/album/15692060",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fff1fb26574e2f7482bf4f86a7fca6f5/250x250-000000-80-0-0.jpg",
        "dz_title": "Kick Out the Jams",
        "dz_artist": "MC5",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15393,13 +15605,14 @@
      "albums": [
       {
        "title": "Obsolete",
-       "spotify": "https://open.spotify.com/search/Dashiell%20Hedayat%20Obsolete",
+       "spotify": "https://open.spotify.com/album/5uGMYEzp2328zVRw8qYnTY",
        "youtube": "https://www.youtube.com/results?search_query=Dashiell%20Hedayat%20Obsolete%20full%20album",
        "deezer": "https://www.deezer.com/album/299999",
        "cover": "https://cdn-images.dzcdn.net/images/cover/93d92f429c63bfd95d85fef4a3e49b25/250x250-000000-80-0-0.jpg",
        "dz_title": "Obsolete",
        "dz_artist": "Dashiell Hedayat",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15509,13 +15722,14 @@
      "albums": [
       {
        "title": "Out Of The Blue",
-       "spotify": "https://open.spotify.com/search/Electric%20Light%20Orchestra%20Out%20Of%20The%20Blue",
+       "spotify": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU",
        "youtube": "https://www.youtube.com/results?search_query=Electric%20Light%20Orchestra%20Out%20Of%20The%20Blue%20full%20album",
        "deezer": "https://www.deezer.com/album/11674696",
        "cover": "https://cdn-images.dzcdn.net/images/cover/d15748b1fc7a32baae595e4c9748a393/250x250-000000-80-0-0.jpg",
        "dz_title": "Out of the Blue",
        "dz_artist": "Electric Light Orchestra",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15531,13 +15745,14 @@
      "albums": [
       {
        "title": "Methodology: '74/'78 Attic Tapes",
-       "spotify": "https://open.spotify.com/search/Cabaret%20Voltaire%20Methodology%3A%20%2774/%2778%20Attic%20Tapes",
+       "spotify": "https://open.spotify.com/album/4UsPfQ7NuGnlIMImXk0Sli",
        "youtube": "https://www.youtube.com/results?search_query=Cabaret%20Voltaire%20Methodology%3A%20%2774/%2778%20Attic%20Tapes%20full%20album",
        "deezer": "https://www.deezer.com/album/8065396",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8d225435e0187203f5250b8f7bb68f76/250x250-000000-80-0-0.jpg",
        "dz_title": "Methodology '74-'78: Attic Tapes",
        "dz_artist": "Cabaret Voltaire",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15553,13 +15768,14 @@
      "albums": [
       {
        "title": "Singles Going Steady",
-       "spotify": "https://open.spotify.com/search/Buzzcocks%20Singles%20Going%20Steady",
+       "spotify": "https://open.spotify.com/album/2ndzjS0sQBYC7slFuZilw7",
        "youtube": "https://www.youtube.com/results?search_query=Buzzcocks%20Singles%20Going%20Steady%20full%20album",
        "deezer": "https://www.deezer.com/album/43539151",
        "cover": "https://cdn-images.dzcdn.net/images/cover/8bd72c5d4cc2f6d6b72a10972c2a8fee/250x250-000000-80-0-0.jpg",
        "dz_title": "Singles Going Steady",
        "dz_artist": "Buzzcocks",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15575,23 +15791,25 @@
      "albums": [
       {
        "title": "The Incredible Shrinking Dickies",
-       "spotify": "https://open.spotify.com/search/The%20Dickies%20The%20Incredible%20Shrinking%20Dickies",
+       "spotify": "https://open.spotify.com/album/4Ihag1SKHFDIxLFIJUT1Wb",
        "youtube": "https://www.youtube.com/results?search_query=The%20Dickies%20The%20Incredible%20Shrinking%20Dickies%20full%20album",
        "deezer": "https://www.deezer.com/album/6924208",
        "cover": "https://cdn-images.dzcdn.net/images/cover/4785a00fe495208260a7eb535a7459e5/250x250-000000-80-0-0.jpg",
        "dz_title": "The Incredible Shrinking Dickies (Expanded Version)",
        "dz_artist": "The Dickies",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Dawn Of The Dickies",
-       "spotify": "https://open.spotify.com/search/The%20Dickies%20Dawn%20Of%20The%20Dickies",
+       "spotify": "https://open.spotify.com/album/6C237cCLVvMNffmOlvnv8v",
        "youtube": "https://www.youtube.com/results?search_query=The%20Dickies%20Dawn%20Of%20The%20Dickies%20full%20album",
        "deezer": "https://www.deezer.com/album/161830",
        "cover": "https://cdn-images.dzcdn.net/images/cover/ba5bc5e9a7c785cee95f1dea63d61107/250x250-000000-80-0-0.jpg",
        "dz_title": "Dawn Of The Dickies",
        "dz_artist": "The Dickies",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15607,13 +15825,14 @@
      "albums": [
       {
        "title": "Sound Affects",
-       "spotify": "https://open.spotify.com/search/The%20Jam%20Sound%20Affects",
+       "spotify": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb",
        "youtube": "https://www.youtube.com/results?search_query=The%20Jam%20Sound%20Affects%20full%20album",
        "deezer": "https://www.deezer.com/album/109451",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7c5acc9af33cf1ff9596b1d3d126567b/250x250-000000-80-0-0.jpg",
        "dz_title": "Sound Affects",
        "dz_artist": "The Jam",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -15624,13 +15843,14 @@
      "albums": [
       {
        "title": "I Just Can't Stop It",
-       "spotify": "https://open.spotify.com/search/The%20Beat%20I%20Just%20Can%27t%20Stop%20It",
+       "spotify": "https://open.spotify.com/album/5qGvj18dIF8C58UIgJHOTf",
        "youtube": "https://www.youtube.com/results?search_query=The%20Beat%20I%20Just%20Can%27t%20Stop%20It%20full%20album",
        "deezer": "https://www.deezer.com/album/507247121",
        "cover": "https://cdn-images.dzcdn.net/images/cover/2edc1ca1d77daf7560f8df5ccf94b319/250x250-000000-80-0-0.jpg",
        "dz_title": "I Just Can't Stop It (2012 Remaster)",
        "dz_artist": "The Beat",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -15641,23 +15861,25 @@
      "albums": [
       {
        "title": "End Of The Century",
-       "spotify": "https://open.spotify.com/search/Ramones%20End%20Of%20The%20Century",
+       "spotify": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv",
        "youtube": "https://www.youtube.com/results?search_query=Ramones%20End%20Of%20The%20Century%20full%20album",
        "deezer": "https://www.deezer.com/album/1347315",
        "cover": "https://cdn-images.dzcdn.net/images/cover/31e8126ac53be1b1170bd52172a19921/250x250-000000-80-0-0.jpg",
        "dz_title": "End of the Century (Expanded 2005 Remaster)",
        "dz_artist": "Ramones",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       },
       {
        "title": "Pleasant Dreams",
-       "spotify": "https://open.spotify.com/search/Ramones%20Pleasant%20Dreams",
+       "spotify": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z",
        "youtube": "https://www.youtube.com/results?search_query=Ramones%20Pleasant%20Dreams%20full%20album",
        "deezer": "https://www.deezer.com/album/1347316",
        "cover": "https://cdn-images.dzcdn.net/images/cover/6c8de71e69b674ed92f8eedd17b510f9/250x250-000000-80-0-0.jpg",
        "dz_title": "Pleasant Dreams (Expanded 2005 Remaster)",
        "dz_artist": "Ramones",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     }
@@ -15873,8 +16095,9 @@
      "albums": [
       {
        "title": "W/The Artists",
-       "spotify": "https://open.spotify.com/search/Rhythm%20%26%20Sound%20W/The%20Artists",
+       "spotify": "https://open.spotify.com/album/0rrr4SP4dOoCynCyPFxA9j",
        "youtube": "https://www.youtube.com/results?search_query=Rhythm%20%26%20Sound%20W/The%20Artists%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/b0a93495-7e6b-3dc1-a11a-8875623872f9/front-250"
       }
      ]

@@ -53,7 +53,8 @@ def resolve(artist,title):
         for r in dz(q):
             ra=norm(r['artist']['name'])
             asim=max(sim(a,r['artist']['name']),sim(artist,r['artist']['name'])) if a else 1
-            if a and len(norm(a))>=3 and (ra.startswith(norm(a)) or norm(a).startswith(ra)) and len(ra)>=3: asim=max(asim,0.9)
+            if a and len(ra)>=4 and (norm(a).startswith(ra) or (ra.startswith(norm(a)) and ra[len(norm(a)):].startswith('and'))): asim=max(asim,0.9)
+            if a and asim<0.9 and sim(a,r['artist']['name'])<0.9 and sim(artist,r['artist']['name'])<0.9: continue
             if a and asim<0.85: continue
             ct=clean_title(r['title'])
             ts=max(sim(t,ct),sim(title,ct),sim(artist+' '+t,ct) if a else 0)

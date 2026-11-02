@@ -1108,13 +1108,14 @@
      "albums": [
       {
        "title": "Love",
-       "spotify": "https://open.spotify.com/search/Love%20Love",
+       "spotify": "https://open.spotify.com/album/36UBSvMuqK8r7WYialQrLV",
        "youtube": "https://www.youtube.com/results?search_query=Love%20Love%20full%20album",
        "deezer": "https://www.deezer.com/album/105296",
        "cover": "https://cdn-images.dzcdn.net/images/cover/a2902b8d5398c6496abe2723b00b3358/250x250-000000-80-0-0.jpg",
        "dz_title": "Love and Rockets",
        "dz_artist": "Love and Rockets",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -1541,13 +1542,14 @@
      "albums": [
       {
        "title": "The Small Faces",
-       "spotify": "https://open.spotify.com/search/Small%20Faces%20The%20Small%20Faces",
+       "spotify": "https://open.spotify.com/album/7Jf2yRmV3VDc6EM8J7JHfN",
        "youtube": "https://www.youtube.com/results?search_query=Small%20Faces%20The%20Small%20Faces%20full%20album",
        "deezer": "https://www.deezer.com/album/1258504",
        "cover": "https://cdn-images.dzcdn.net/images/cover/80bdaf88f23e11b390e4e3dddf4d2a7c/250x250-000000-80-0-0.jpg",
        "dz_title": "Small Faces",
        "dz_artist": "Small Faces",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -1855,13 +1857,14 @@
      "albums": [
       {
        "title": "Tomorrow",
-       "spotify": "https://open.spotify.com/search/Tomorrow%20Tomorrow",
+       "spotify": "https://open.spotify.com/album/5Ba4PlV3cHMhdZ2BAj0gUC",
        "youtube": "https://www.youtube.com/results?search_query=Tomorrow%20Tomorrow%20full%20album",
        "deezer": "https://www.deezer.com/album/1001589491",
        "cover": "https://cdn-images.dzcdn.net/images/cover/98e32f8fae909d082a203dadfc53a587/250x250-000000-80-0-0.jpg",
        "dz_title": "Tomorrow",
        "dz_artist": "Tomorrow",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -2323,8 +2326,9 @@
      "albums": [
       {
        "title": "Soft Machine Volume 2",
-       "spotify": "https://open.spotify.com/search/The%20Soft%20Machine%20Soft%20Machine%20Volume%202",
+       "spotify": "https://open.spotify.com/album/0aK5dy5LwiTYlftj5VboRk",
        "youtube": "https://www.youtube.com/results?search_query=The%20Soft%20Machine%20Soft%20Machine%20Volume%202%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/dfe2d355-73da-3b69-a4c5-86d27773d486/front-250"
       }
      ]
@@ -2646,13 +2650,14 @@
      "albums": [
       {
        "title": "Sex Machine",
-       "spotify": "https://open.spotify.com/search/James%20Brown%20Sex%20Machine",
+       "spotify": "https://open.spotify.com/album/3CVie3TkZ0VHgT6mlwy7cp",
        "youtube": "https://www.youtube.com/results?search_query=James%20Brown%20Sex%20Machine%20full%20album",
        "deezer": "https://www.deezer.com/album/11570902",
        "cover": "https://cdn-images.dzcdn.net/images/cover/883c4cc97557738d28a8980f139dab15/250x250-000000-80-0-0.jpg",
        "dz_title": "Sex Machine",
        "dz_artist": "James Brown",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -2825,13 +2830,14 @@
      "albums": [
       {
        "title": "What's Going On",
-       "spotify": "https://open.spotify.com/search/Marvin%20Gaye%20What%27s%20Going%20On",
+       "spotify": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B",
        "youtube": "https://www.youtube.com/results?search_query=Marvin%20Gaye%20What%27s%20Going%20On%20full%20album",
        "deezer": "https://www.deezer.com/album/184480112",
        "cover": "https://cdn-images.dzcdn.net/images/cover/dd5e37f720256949a07a7e1a91754550/250x250-000000-80-0-0.jpg",
        "dz_title": "What's Going On",
        "dz_artist": "Marvin Gaye",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -3191,7 +3197,7 @@
      "albums": [
       {
        "title": "Clearspot",
-       "spotify": "https://open.spotify.com/album/0QXTKuJ0mj7QxFD8pSLBoh",
+       "spotify": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p",
        "youtube": "https://www.youtube.com/results?search_query=Captain%20Beefheart%20Clearspot%20full%20album",
        "spotify_exact": true
       },
@@ -3876,13 +3882,14 @@
      "albums": [
       {
        "title": "Marjory Razor Blade",
-       "spotify": "https://open.spotify.com/search/Kevin%20Coyne%20Marjory%20Razor%20Blade",
+       "spotify": "https://open.spotify.com/album/3uNk8NH8SXLeV30onG8MWB",
        "youtube": "https://www.youtube.com/results?search_query=Kevin%20Coyne%20Marjory%20Razor%20Blade%20full%20album",
        "deezer": "https://www.deezer.com/album/468344",
        "cover": "https://cdn-images.dzcdn.net/images/cover/fd355a0829d72456a4153154b8e937a6/250x250-000000-80-0-0.jpg",
        "dz_title": "Marjory Razorblade",
        "dz_artist": "Kevin Coyne",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -4175,13 +4182,14 @@
      "albums": [
       {
        "title": "Keep On Dancing",
-       "spotify": "https://open.spotify.com/search/Bohannon%20Keep%20On%20Dancing",
+       "spotify": "https://open.spotify.com/album/4cfQ7L1c2UpBwyxIJ8M9OM",
        "youtube": "https://www.youtube.com/results?search_query=Bohannon%20Keep%20On%20Dancing%20full%20album",
        "deezer": "https://www.deezer.com/album/147604052",
        "cover": "https://cdn-images.dzcdn.net/images/cover/b4e832554ce652160d3961b1711f2957/250x250-000000-80-0-0.jpg",
        "dz_title": "Keep On Dancin'",
        "dz_artist": "Bohannon",
-       "conf": 0.96
+       "conf": 0.96,
+       "spotify_exact": true
       }
      ]
     },
@@ -5181,13 +5189,14 @@
      "albums": [
       {
        "title": "L.A.M.F.",
-       "spotify": "https://open.spotify.com/search/Johnny%20Thunders%20%26%20The%20Heartbreakers%20L.A.M.F.",
+       "spotify": "https://open.spotify.com/album/6jPbVm8pQy6Je7BcFee6aJ",
        "youtube": "https://www.youtube.com/results?search_query=Johnny%20Thunders%20%26%20The%20Heartbreakers%20L.A.M.F.%20full%20album",
        "deezer": "https://www.deezer.com/album/992694",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1817d081036ea81ca9c74bed20f6f7a8/250x250-000000-80-0-0.jpg",
        "dz_title": "L.A.M.F. - The Lost '77 Mixes",
        "dz_artist": "Johnny Thunders & The Heartbreakers",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -5968,7 +5977,7 @@
      "albums": [
       {
        "title": "The B-52's",
-       "spotify": "https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk",
+       "spotify": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN",
        "youtube": "https://www.youtube.com/results?search_query=The%20B-52%27s%20The%20B-52%27s%20full%20album",
        "spotify_exact": true,
        "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02c93cd25cc5a8ceb7674f9c1a"
@@ -6912,13 +6921,14 @@
      "albums": [
       {
        "title": "Eastside Story",
-       "spotify": "https://open.spotify.com/search/Squeeze%20Eastside%20Story",
+       "spotify": "https://open.spotify.com/album/4178w40uOpDld2RnR1ifCy",
        "youtube": "https://www.youtube.com/results?search_query=Squeeze%20Eastside%20Story%20full%20album",
        "deezer": "https://www.deezer.com/album/6107997",
        "cover": "https://cdn-images.dzcdn.net/images/cover/164f45013d461f901a87e140dbe24cae/250x250-000000-80-0-0.jpg",
        "dz_title": "East Side Story",
        "dz_artist": "Squeeze",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -6983,8 +6993,10 @@
      "albums": [
       {
        "title": "The Only Fun In Town",
-       "spotify": "https://open.spotify.com/search/Joseph%20K%20The%20Only%20Fun%20In%20Town",
-       "youtube": "https://www.youtube.com/results?search_query=Joseph%20K%20The%20Only%20Fun%20In%20Town%20full%20album"
+       "spotify": "https://open.spotify.com/album/0MT5plrgwSNZ564X9WQmoV",
+       "youtube": "https://www.youtube.com/results?search_query=Joseph%20K%20The%20Only%20Fun%20In%20Town%20full%20album",
+       "spotify_exact": true,
+       "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0279a8534d907ec445262e903e"
       }
      ]
     }
@@ -7783,13 +7795,14 @@
      "albums": [
       {
        "title": "Hole",
-       "spotify": "https://open.spotify.com/search/Scraping%20Foetus%20Off%20The%20Wheel%20Hole",
+       "spotify": "https://open.spotify.com/album/79cqN1u4qZ52SM7Ckq8HBt",
        "youtube": "https://www.youtube.com/results?search_query=Scraping%20Foetus%20Off%20The%20Wheel%20Hole%20full%20album",
        "deezer": "https://www.deezer.com/album/15727362",
        "cover": "https://cdn-images.dzcdn.net/images/cover/009d07af5407820110e972bd7d675947/250x250-000000-80-0-0.jpg",
        "dz_title": "Hole",
        "dz_artist": "Scraping Foetus Off The Wheel",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -8228,13 +8241,14 @@
      "albums": [
       {
        "title": "Kings Of Rock",
-       "spotify": "https://open.spotify.com/search/Run%20DMC%20Kings%20Of%20Rock",
+       "spotify": "https://open.spotify.com/album/5bPBK25lCltuTbgADxPLay",
        "youtube": "https://www.youtube.com/results?search_query=Run%20DMC%20Kings%20Of%20Rock%20full%20album",
        "deezer": "https://www.deezer.com/album/231411",
        "cover": "https://cdn-images.dzcdn.net/images/cover/aa15bb50537d18ee9324960c290628d6/250x250-000000-80-0-0.jpg",
        "dz_title": "King Of Rock",
        "dz_artist": "Run DMC",
-       "conf": 0.95
+       "conf": 0.95,
+       "spotify_exact": true
       }
      ]
     },
@@ -8366,13 +8380,14 @@
      "albums": [
       {
        "title": "Nail",
-       "spotify": "https://open.spotify.com/search/Scraping%20Foetus%20Off%20The%20Wheel%20Nail",
+       "spotify": "https://open.spotify.com/album/6kdMZQQOWUejV5GSWhf5S4",
        "youtube": "https://www.youtube.com/results?search_query=Scraping%20Foetus%20Off%20The%20Wheel%20Nail%20full%20album",
        "deezer": "https://www.deezer.com/album/15727336",
        "cover": "https://cdn-images.dzcdn.net/images/cover/dc645e2d2fe4a739695d7d65bade6d5c/250x250-000000-80-0-0.jpg",
        "dz_title": "Nail",
        "dz_artist": "Scraping Foetus Off The Wheel",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -8606,9 +8621,10 @@
      "albums": [
       {
        "title": "Shop Assistants",
-       "spotify": "https://open.spotify.com/search/Shop%20Assistants%20Shop%20Assistants",
+       "spotify": "https://open.spotify.com/album/6wtQQXsd3wIKyGhwIfGpE9",
        "youtube": "https://www.youtube.com/results?search_query=Shop%20Assistants%20Shop%20Assistants%20full%20album",
-       "cover": "https://coverartarchive.org/release-group/77bca980-171c-3ed7-8af2-513543d4f22e/front-250"
+       "spotify_exact": true,
+       "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02326188e8d043f8408bde137b"
       }
      ]
     },
@@ -8637,8 +8653,9 @@
      "albums": [
       {
        "title": "I Love My Radio",
-       "spotify": "https://open.spotify.com/search/LL%20Cool%20J%20I%20Love%20My%20Radio",
+       "spotify": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a",
        "youtube": "https://www.youtube.com/results?search_query=LL%20Cool%20J%20I%20Love%20My%20Radio%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/32511a9b-a392-35ce-8173-b4b262229fc4/front-250"
       }
      ]
@@ -9069,8 +9086,9 @@
      "albums": [
       {
        "title": "B.A.D.",
-       "spotify": "https://open.spotify.com/search/LL%20Cool%20J%20B.A.D.",
+       "spotify": "https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7",
        "youtube": "https://www.youtube.com/results?search_query=LL%20Cool%20J%20B.A.D.%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/c1952092-24a2-3a1e-8597-0dad68d7ab51/front-250"
       }
      ]

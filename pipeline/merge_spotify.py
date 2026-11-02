@@ -27,12 +27,13 @@ def artist_ok(want, got):
             if nn.startswith(w) and nn[len(w):].startswith('and'): return True
     return False
 C = json.load(open('pipeline/spotify_cache.json'))
+MANUAL = {tuple(l.strip().split('|')[:2]) for l in open('pipeline/spotify_hits.txt', encoding='utf-8') if l.strip()}
 D = json.load(open('data/albums.json'))
 n = 0
 def apply(artist, a):
     global n
     r = C.get(artist + '|' + a['title'])
-    if not r or (artist, a['title']) in REJECT: return
+    if not r or (artist, a['title']) in REJECT or (artist, a['title']) in MANUAL: return
     if (artist, a['title']) not in ACCEPT and not artist_ok(artist, r['artist']): return
     a['spotify'] = r['url'].split('?')[0]; a['spotify_exact'] = True; n += 1
 for Y in D['years']:

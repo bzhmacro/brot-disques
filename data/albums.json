@@ -9676,8 +9676,9 @@
      "albums": [
       {
        "title": "90",
-       "spotify": "https://open.spotify.com/search/808%20State%2090",
+       "spotify": "https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y",
        "youtube": "https://www.youtube.com/results?search_query=808%20State%2090%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/e600e8fe-df72-33ee-9bcc-131175187453/front-250"
       }
      ]
@@ -10282,13 +10283,14 @@
      "albums": [
       {
        "title": "Blue Lines",
-       "spotify": "https://open.spotify.com/search/Massive%20Attack%20Blue%20Lines",
+       "spotify": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
        "youtube": "https://www.youtube.com/results?search_query=Massive%20Attack%20Blue%20Lines%20full%20album",
        "deezer": "https://www.deezer.com/album/6014554",
        "cover": "https://cdn-images.dzcdn.net/images/cover/81ba5b6bf32dcbf2e2dae244a7cfab51/250x250-000000-80-0-0.jpg",
        "dz_title": "Blue Lines (2012 Mix/Master)",
        "dz_artist": "Massive Attack",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -10871,8 +10873,9 @@
      "albums": [
       {
        "title": "5 Years, 3 Months & 2 Days",
-       "spotify": "https://open.spotify.com/search/Arrested%20Development%205%20Years%2C%203%20Months%20%26%202%20Days",
+       "spotify": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh",
        "youtube": "https://www.youtube.com/results?search_query=Arrested%20Development%205%20Years%2C%203%20Months%20%26%202%20Days%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c/front-250"
       }
      ]
@@ -10977,8 +10980,10 @@
      "albums": [
       {
        "title": "Rockers To Rockers",
-       "spotify": "https://open.spotify.com/search/Original%20Rockers%20Rockers%20To%20Rockers",
-       "youtube": "https://www.youtube.com/results?search_query=Original%20Rockers%20Rockers%20To%20Rockers%20full%20album"
+       "spotify": "https://open.spotify.com/album/3LHkI7XdpcWu5M9XXtvmlI",
+       "youtube": "https://www.youtube.com/results?search_query=Original%20Rockers%20Rockers%20To%20Rockers%20full%20album",
+       "spotify_exact": true,
+       "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02708313ef799f4d9475475efc"
       }
      ]
     },
@@ -11092,13 +11097,14 @@
      "albums": [
       {
        "title": "Jazzmatazz",
-       "spotify": "https://open.spotify.com/search/Guru%20Jazzmatazz",
+       "spotify": "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ",
        "youtube": "https://www.youtube.com/results?search_query=Guru%20Jazzmatazz%20full%20album",
        "deezer": "https://www.deezer.com/album/301248",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7e6c28349d871aaf7da118f7fc41a5a6/250x250-000000-80-0-0.jpg",
        "dz_title": "Jazzmatazz Volume 1",
        "dz_artist": "Guru",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -11599,8 +11605,9 @@
      "albums": [
       {
        "title": "Gling Glo",
-       "spotify": "https://open.spotify.com/search/Bj%C3%B6rk%20Gling%20Glo",
+       "spotify": "https://open.spotify.com/album/4wurP9wwl9yxkETucs0khh",
        "youtube": "https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Gling%20Glo%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/7b0e60ce-ad06-3578-ad5e-5d5ca4353379/front-250"
       }
      ]
@@ -11786,13 +11793,14 @@
      "albums": [
       {
        "title": "laora Tahiti",
-       "spotify": "https://open.spotify.com/search/Mouse%20On%20Mars%20laora%20Tahiti",
+       "spotify": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii",
        "youtube": "https://www.youtube.com/results?search_query=Mouse%20On%20Mars%20laora%20Tahiti%20full%20album",
        "deezer": "https://www.deezer.com/album/105253",
        "cover": "https://cdn-images.dzcdn.net/images/cover/3916347a473635678578e0d4a8f07d0c/250x250-000000-80-0-0.jpg",
        "dz_title": "Iaora Tahiti",
        "dz_artist": "Mouse On Mars",
-       "conf": 0.91
+       "conf": 0.91,
+       "spotify_exact": true
       }
      ]
     },
@@ -12153,8 +12161,9 @@
      "albums": [
       {
        "title": "Superdiscount",
-       "spotify": "https://open.spotify.com/search/Superdiscount%20Superdiscount",
+       "spotify": "https://open.spotify.com/album/2ep903dNtgniGlJHF0EPMm",
        "youtube": "https://www.youtube.com/results?search_query=Superdiscount%20Superdiscount%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/ce4bb332-5580-3362-a9d6-c538fd8c1e75/front-250"
       }
      ]
@@ -12228,8 +12237,9 @@
      "albums": [
       {
        "title": "Basic Channel",
-       "spotify": "https://open.spotify.com/search/Basic%20Channel%20Basic%20Channel",
+       "spotify": "https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d",
        "youtube": "https://www.youtube.com/results?search_query=Basic%20Channel%20Basic%20Channel%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/01df3f45-7a7f-3190-b81a-57e19fd332f9/front-250"
       }
      ]
@@ -12246,13 +12256,14 @@
       },
       {
        "title": "Archive 1",
-       "spotify": "https://open.spotify.com/search/Dave%20Clarke%20Archive%201",
+       "spotify": "https://open.spotify.com/album/28hk5zc37dtBb62DY1gM9B",
        "youtube": "https://www.youtube.com/results?search_query=Dave%20Clarke%20Archive%201%20full%20album",
        "deezer": "https://www.deezer.com/album/892840422",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1b39de538ba28c91fd405b6e8abb19b7/250x250-000000-80-0-0.jpg",
        "dz_title": "Archive One (Remastered 2023)",
        "dz_artist": "Dave Clarke",
-       "conf": 0.78
+       "conf": 0.78,
+       "spotify_exact": true
       }
      ]
     },
@@ -12310,8 +12321,9 @@
      "albums": [
       {
        "title": "Logical Progression",
-       "spotify": "https://open.spotify.com/search/LTJ%20Bukem%20Logical%20Progression",
+       "spotify": "https://open.spotify.com/album/6QDLJorX8HQ2ogxZUCvtd1",
        "youtube": "https://www.youtube.com/results?search_query=LTJ%20Bukem%20Logical%20Progression%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/3ae18f4d-8a99-3dd1-b9d0-7275adc3bd92/front-250"
       }
      ]
@@ -12536,13 +12548,14 @@
      "albums": [
       {
        "title": "Khmer",
-       "spotify": "https://open.spotify.com/search/Nils%20Petter%20Molvaer%20Khmer",
+       "spotify": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6",
        "youtube": "https://www.youtube.com/results?search_query=Nils%20Petter%20Molvaer%20Khmer%20full%20album",
        "deezer": "https://www.deezer.com/album/119956",
        "cover": "https://cdn-images.dzcdn.net/images/cover/12bf241432b2c90e89b6fc1d371cd763/250x250-000000-80-0-0.jpg",
        "dz_title": "Khmer",
        "dz_artist": "Nils Petter Molvær",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -12589,8 +12602,9 @@
      "albums": [
       {
        "title": "Your Silent Introduction",
-       "spotify": "https://open.spotify.com/search/Moodyman%20Your%20Silent%20Introduction",
+       "spotify": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss",
        "youtube": "https://www.youtube.com/results?search_query=Moodyman%20Your%20Silent%20Introduction%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/6dc31243-4cc6-3752-8d68-932d78b4ef33/front-250"
       }
      ]
@@ -12923,14 +12937,16 @@
      "albums": [
       {
        "title": "Cd 1",
-       "spotify": "https://open.spotify.com/search/Pole%20Cd%201",
+       "spotify": "https://open.spotify.com/album/0ybb3fO4tWtCzu4VKieRhL",
        "youtube": "https://www.youtube.com/results?search_query=Pole%20Cd%201%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/26f5bc04-190e-39f7-95e0-c1263d128ee1/front-250"
       },
       {
        "title": "Pole 2",
-       "spotify": "https://open.spotify.com/search/Pole%20Pole%202",
-       "youtube": "https://www.youtube.com/results?search_query=Pole%20Pole%202%20full%20album"
+       "spotify": "https://open.spotify.com/album/1dzdJ9A6zQrnWRw9q7HeME",
+       "youtube": "https://www.youtube.com/results?search_query=Pole%20Pole%202%20full%20album",
+       "spotify_exact": true
       }
      ]
     },
@@ -12995,13 +13011,14 @@
      "albums": [
       {
        "title": "The Anditote",
-       "spotify": "https://open.spotify.com/search/The%20Wiseguys%20The%20Anditote",
+       "spotify": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I",
        "youtube": "https://www.youtube.com/results?search_query=The%20Wiseguys%20The%20Anditote%20full%20album",
        "deezer": "https://www.deezer.com/album/355555",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1cf277ee97d8f67b968406b41f838c73/250x250-000000-80-0-0.jpg",
        "dz_title": "The Antidote",
        "dz_artist": "The Wiseguys",
-       "conf": 0.75
+       "conf": 0.75,
+       "spotify_exact": true
       }
      ]
     },
@@ -13408,13 +13425,14 @@
      "albums": [
       {
        "title": "The Sophware Slump",
-       "spotify": "https://open.spotify.com/search/Grandaddy%20The%20Sophware%20Slump",
+       "spotify": "https://open.spotify.com/album/6wHbY5ExMciSpMaFNLOifg",
        "youtube": "https://www.youtube.com/results?search_query=Grandaddy%20The%20Sophware%20Slump%20full%20album",
        "deezer": "https://www.deezer.com/album/390849",
        "cover": "https://cdn-images.dzcdn.net/images/cover/02d4bf8a38836d7b00fbd329607965c1/250x250-000000-80-0-0.jpg",
        "dz_title": "The Sophtware Slump",
        "dz_artist": "Grandaddy",
-       "conf": 0.96
+       "conf": 0.96,
+       "spotify_exact": true
       }
      ]
     },
@@ -13528,13 +13546,14 @@
      "albums": [
       {
        "title": "The Virgin Suicides",
-       "spotify": "https://open.spotify.com/search/Air%20The%20Virgin%20Suicides",
+       "spotify": "https://open.spotify.com/album/0Dv4ArPFwSFPWrubYdExKq",
        "youtube": "https://www.youtube.com/results?search_query=Air%20The%20Virgin%20Suicides%20full%20album",
        "deezer": "https://www.deezer.com/album/752610461",
        "cover": "https://cdn-images.dzcdn.net/images/cover/7e6072c677326f29944415f6b7612f04/250x250-000000-80-0-0.jpg",
        "dz_title": "The Virgin Suicides (Original Motion Picture Score)",
        "dz_artist": "Air",
-       "conf": 0.8
+       "conf": 0.8,
+       "spotify_exact": true
       }
      ]
     },
@@ -13667,13 +13686,14 @@
      "albums": [
       {
        "title": "P.S. I Love You",
-       "spotify": "https://open.spotify.com/search/Kid%20606%20P.S.%20I%20Love%20You",
+       "spotify": "https://open.spotify.com/album/7A8hlv3ZgxXhf8yywFk6PW",
        "youtube": "https://www.youtube.com/results?search_query=Kid%20606%20P.S.%20I%20Love%20You%20full%20album",
        "deezer": "https://www.deezer.com/album/9150801",
        "cover": "https://cdn-images.dzcdn.net/images/cover/1452523643695b1948c3e91d2a1af915/250x250-000000-80-0-0.jpg",
        "dz_title": "Ps I Love You",
        "dz_artist": "kid606",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -13879,13 +13899,14 @@
      "albums": [
       {
        "title": "Music To Make Love To Your Old Lady By",
-       "spotify": "https://open.spotify.com/search/Lovage%20Music%20To%20Make%20Love%20To%20Your%20Old%20Lady%20By",
+       "spotify": "https://open.spotify.com/album/3QFwPfYolMmXNNdOrRLLGE",
        "youtube": "https://www.youtube.com/results?search_query=Lovage%20Music%20To%20Make%20Love%20To%20Your%20Old%20Lady%20By%20full%20album",
        "deezer": "https://www.deezer.com/album/1191869",
        "cover": "https://cdn-images.dzcdn.net/images/cover/91570f66423f4afaa20010da1fb7d111/250x250-000000-80-0-0.jpg",
        "dz_title": "Music to Make Love to Your Old Lady By (Instrumental)",
        "dz_artist": "Lovage",
-       "conf": 0.85
+       "conf": 0.85,
+       "spotify_exact": true
       }
      ]
     },
@@ -14155,13 +14176,14 @@
      "albums": [
       {
        "title": "A Livingroom Hush",
-       "spotify": "https://open.spotify.com/search/Jaga%20Jazzist%20A%20Livingroom%20Hush",
+       "spotify": "https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS",
        "youtube": "https://www.youtube.com/results?search_query=Jaga%20Jazzist%20A%20Livingroom%20Hush%20full%20album",
        "deezer": "https://www.deezer.com/album/936184",
        "cover": "https://cdn-images.dzcdn.net/images/cover/79e507f88618b5c36307a7d59a549114/250x250-000000-80-0-0.jpg",
        "dz_title": "A Living Room Hush",
        "dz_artist": "Jaga Jazzist",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14172,8 +14194,9 @@
      "albums": [
       {
        "title": "Minesweeper Suite",
-       "spotify": "https://open.spotify.com/search/DJ%20Rupture%20Minesweeper%20Suite",
+       "spotify": "https://open.spotify.com/album/57dq7yo3EfgeiJKChhPvSd",
        "youtube": "https://www.youtube.com/results?search_query=DJ%20Rupture%20Minesweeper%20Suite%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/a75fabf5-71f3-3d91-93b6-c9b3ba9198ce/front-250"
       }
      ]
@@ -14523,13 +14546,14 @@
      "albums": [
       {
        "title": "This Needs To Be Your Style",
-       "spotify": "https://open.spotify.com/search/Donna%20Summer%20This%20Needs%20To%20Be%20Your%20Style",
+       "spotify": "https://open.spotify.com/album/5apa8THpmV9B2dRdnZsnUR",
        "youtube": "https://www.youtube.com/results?search_query=Donna%20Summer%20This%20Needs%20To%20Be%20Your%20Style%20full%20album",
        "deezer": "https://www.deezer.com/album/912141431",
        "cover": "https://cdn-images.dzcdn.net/images/cover/076a6f56fb6a45fa43734d71d0d2b8b8/250x250-000000-80-0-0.jpg",
        "dz_title": "This Needs To Be Your Style",
        "dz_artist": "DJ Donna Summer",
-       "conf": 1
+       "conf": 1,
+       "spotify_exact": true
       }
      ]
     },
@@ -14865,8 +14889,9 @@
      "albums": [
       {
        "title": "Solo Piano",
-       "spotify": "https://open.spotify.com/search/Gonzales%20Solo%20Piano",
+       "spotify": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K",
        "youtube": "https://www.youtube.com/results?search_query=Gonzales%20Solo%20Piano%20full%20album",
+       "spotify_exact": true,
        "cover": "https://coverartarchive.org/release-group/52993260-67f5-3776-90ff-5792db9cf360/front-250"
       }
      ]
@@ -14940,13 +14965,14 @@
      "albums": [
       {
        "title": "GRM Experience",
-       "spotify": "https://open.spotify.com/search/Fennesz%20/%20Vainio%20/%20Zan%C3%A9si%20GRM%20Experience",
+       "spotify": "https://open.spotify.com/album/30bbYeC6uhv8W4FTH74Q5C",
        "youtube": "https://www.youtube.com/results?search_query=Fennesz%20/%20Vainio%20/%20Zan%C3%A9si%20GRM%20Experience%20full%20album",
        "deezer": "https://www.deezer.com/album/542346",
        "cover": "https://cdn-images.dzcdn.net/images/cover/abaaa3c6b9e79b38271610c7f2749efd/250x250-000000-80-0-0.jpg",
        "dz_title": "Fennesz, Vainio & Zanési: GRM Experience",
        "dz_artist": "Fennesz",
-       "conf": 0.96
+       "conf": 0.96,
+       "spotify_exact": true
       }
      ]
     },
